@@ -1,7 +1,13 @@
 # Startup Tools
-A list of awesome free startup deals
+A list of awesome free startup deals and tools
 
 ### Design:  
+[Pixlr](https://pixlr.com/)  
+[Canva](https://www.canva.com/)  
+[Pexels](https://www.pexels.com/)  
+[Mixkit](https://mixkit.co)  
+[LunaPic](https://www4.lunapic.com/editor/)  
+[Pixabay](https://pixabay.com/)  
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free)  
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)
