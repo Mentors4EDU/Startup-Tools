@@ -28,13 +28,17 @@ A list of awesome free startup deals and tools
 ### Marketing:  
 [Zest](https://zest.is/)  
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation)  
+[Buffer](https://buffer.com/)  
 [Feedly](https://feedly.com/i/welcome)  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
+[Hootsuite](https://hootsuite.com/)  
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
 [Help Scout](https://www.f6s.com/deals/563/3-months-free-trial)  
-[Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)
+[Followerwonk](https://followerwonk.com/)  
+[Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)  
+[Right Relevance](https://www.rightrelevance.com/search/influencers)
 
 ### Open Source:  
 [UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
