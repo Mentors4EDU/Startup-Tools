@@ -3,9 +3,10 @@ A list of awesome free startup deals and tools
 
 ### Design:  
 [Pixlr](https://pixlr.com/)  
+[GIMP](https://www.gimp.org/)  
+[Mixkit](https://mixkit.co)  
 [Canva](https://www.canva.com/)  
 [Pexels](https://www.pexels.com/)  
-[Mixkit](https://mixkit.co)  
 [LunaPic](https://www4.lunapic.com/editor/)  
 [Pixabay](https://pixabay.com/)  
 [BeFunky](https://www.befunky.com/create/photo-editor/)  
@@ -45,8 +46,8 @@ A list of awesome free startup deals and tools
 [Github](https://github.com)  
 [Racket](https://racket-lang.org/)  
 [GitBook](https://www.gitbook.com/)  
-[BitBucket](https://bitbucket.org/)  
 [Atlassian](https://www.atlassian.com/)  
+[BitBucket](https://bitbucket.org/)  
 [Shields.io](https://shields.io/)  
 [ReadtheDocs](https://readthedocs.org/)
 
