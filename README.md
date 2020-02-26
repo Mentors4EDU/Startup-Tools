@@ -8,6 +8,7 @@ A list of awesome free startup deals and tools
 [Mixkit](https://mixkit.co)  
 [LunaPic](https://www4.lunapic.com/editor/)  
 [Pixabay](https://pixabay.com/)  
+[BeFunky](https://www.befunky.com/create/photo-editor/)  
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free)  
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)
@@ -25,7 +26,9 @@ A list of awesome free startup deals and tools
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
 ### Marketing:  
+[Zest](https://zest.is/)  
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation)  
+[Feedly](https://feedly.com/i/welcome)  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
