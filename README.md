@@ -14,16 +14,19 @@ A list of awesome free startup deals
 [GitHub Learning Lab](https://lab.github.com//)
 
 ### Business:
-[Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan)
+[Gust](https://gust.com/)  
+[Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan)  
+[F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
 ### Marketing:  
-[Gust](https://gust.com/)  
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation)  
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
-[F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
+[Help Scout](https://www.f6s.com/deals/563/3-months-free-trial)  
+[Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)
 
 ### Open Source:  
 [Github](https://github.com)  
+[Racket](https://racket-lang.org/)  
 [GitBook](https://www.gitbook.com/)  
 [BitBucket](https://bitbucket.org/)  
 [Atlassian](https://www.atlassian.com/)  
