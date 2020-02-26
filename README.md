@@ -20,11 +20,15 @@ A list of awesome free startup deals
 
 ### Marketing:  
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation)  
+[Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
+[Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
+[ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
 [Help Scout](https://www.f6s.com/deals/563/3-months-free-trial)  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)
 
 ### Open Source:  
+[UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
 [Github](https://github.com)  
 [Racket](https://racket-lang.org/)  
 [GitBook](https://www.gitbook.com/)  
