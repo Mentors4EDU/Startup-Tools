@@ -19,7 +19,10 @@ A list of awesome free startup deals and tools
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)
 
 ### Podcasts:
+[StartUP](https://gimletmedia.com/shows/startup)  
+[The Pitch](https://gimletmedia.com/shows/the-pitch)  
 [Rocketship.fm](http://rocketship.fm/)  
+[The Graham Stephan Show](https://www.youtube.com/channel/UCa-ckhlKL98F8YXKQ-BALiw)  
 [The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/)
 
 ### Learning:  
