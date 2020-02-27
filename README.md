@@ -12,10 +12,15 @@ A list of awesome free startup deals and tools
 [BeFunky](https://www.befunky.com/create/photo-editor/)  
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free)  
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
+[Freebbble](http://freebbble.com/)  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)
 
 ### Hosting:  
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)
+
+### Podcasts:
+[Rocketship.fm](http://rocketship.fm/)  
+[The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/)
 
 ### Learning:  
 [HarvardX](https://www.edx.org/school/harvardx)  
@@ -37,6 +42,7 @@ A list of awesome free startup deals and tools
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
 [Help Scout](https://www.f6s.com/deals/563/3-months-free-trial)  
+[Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/)  
 [Followerwonk](https://followerwonk.com/)  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)  
 [Right Relevance](https://www.rightrelevance.com/search/influencers)
@@ -45,6 +51,7 @@ A list of awesome free startup deals and tools
 [UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
 [Github](https://github.com)  
 [Racket](https://racket-lang.org/)  
+[Codacy](https://www.codacy.com/pricing)  
 [GitBook](https://www.gitbook.com/)  
 [Atlassian](https://www.atlassian.com/)  
 [BitBucket](https://bitbucket.org/)  
