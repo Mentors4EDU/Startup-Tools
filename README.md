@@ -61,5 +61,15 @@ A list of awesome free startup deals and tools
 [Shields.io](https://shields.io/)  
 [ReadtheDocs](https://readthedocs.org/)
 
+### Speaking Events:
+[GDC](https://www.gdconf.com/call-for-submissions)  
+[TEDx](https://www.ted.com/tedx/events)  
+[TiEcon](https://www.tiecon.org/)  
+[MakerFaire](https://makerfaire.com/)  
+[Startup Week](https://startupweek.co/)  
+[OpenJSWorld](https://events.linuxfoundation.org/openjs-world/program/cfp/)  
+[DeveloperWeek](https://www.developerweek.com/conference/call-for-speakers/)  
+[LA Blockchain Summit](https://lablockchainsummit.com/speaker-application)
+
 ### Co-Working Spaces:
 [Awfis](https://www.f6s.com/deals/7915/2-day-free-pass)
