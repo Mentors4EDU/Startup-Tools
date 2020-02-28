@@ -1,6 +1,17 @@
 # Startup Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of awesome free startup deals and tools
+A list of awesome free startup deals and tools  
 
+**Contents:**  
+*[Design](https://github.com/Mentors4EDU/Startup-Tools#design)*  
+*[Hosting](https://github.com/Mentors4EDU/Startup-Tools#hosting)*  
+*[Podcasts](https://github.com/Mentors4EDU/Startup-Tools#podcasts)*  
+*[Learning](https://github.com/Mentors4EDU/Startup-Tools#learning)*  
+*[Business](https://github.com/Mentors4EDU/Startup-Tools#business)*  
+*[Marketing](https://github.com/Mentors4EDU/Startup-Tools#marketing)*  
+*[Open Source](https://github.com/Mentors4EDU/Startup-Tools#open-source)*  
+*[Speaking Events](https://github.com/Mentors4EDU/Startup-Tools#speaking-events)*  
+*[Co-Working Spaces](https://github.com/Mentors4EDU/Startup-Tools#co-working-spaces)*  
+..................................
 ### Design:  
 [Pixlr](https://pixlr.com/)  
 [GIMP](https://www.gimp.org/)  
