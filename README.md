@@ -32,7 +32,10 @@ A list of awesome free startup deals and tools
 ### Podcasts:
 [StartUP](https://gimletmedia.com/shows/startup)  
 [The Pitch](https://gimletmedia.com/shows/the-pitch)  
+[Indie Hackers](https://www.indiehackers.com/podcast)  
 [Rocketship.fm](http://rocketship.fm/)  
+[Product People](https://www.productpeople.tv/)   
+[Masters of Scale](https://mastersofscale.com/)  
 [The Graham Stephan Show](https://www.youtube.com/channel/UCa-ckhlKL98F8YXKQ-BALiw)  
 [The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/)
 
