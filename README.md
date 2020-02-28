@@ -37,6 +37,7 @@ A list of awesome free startup deals and tools
 [The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/)
 
 ### Learning:  
+[Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity)  
 [HarvardX](https://www.edx.org/school/harvardx)  
 [GitHub Learning Lab](https://lab.github.com//)
 
@@ -80,6 +81,7 @@ A list of awesome free startup deals and tools
 [Startup Week](https://startupweek.co/)  
 [OpenJSWorld](https://events.linuxfoundation.org/openjs-world/program/cfp/)  
 [DeveloperWeek](https://www.developerweek.com/conference/call-for-speakers/)  
+[Techcrunch Disrupt](https://techcrunch.com/events/disrupt-sf-2020/)  
 [LA Blockchain Summit](https://lablockchainsummit.com/speaker-application)
 
 ### Co-Working Spaces:
