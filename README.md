@@ -13,6 +13,7 @@ A list of awesome free startup deals and tools
 *[Co-Working Spaces](https://github.com/Mentors4EDU/Startup-Tools#co-working-spaces)*  
 ..................................
 ### Design:  
+[DBF](http://dbfreebies.co/)  
 [Pixlr](https://pixlr.com/)  
 [Pablo](https://pablo.buffer.com/)  
 [GIMP](https://www.gimp.org/)  
@@ -20,8 +21,10 @@ A list of awesome free startup deals and tools
 [Canva](https://www.canva.com/)  
 [Pexels](https://www.pexels.com/)  
 [Screely](https://www.screely.com/)  
-[LunaPic](https://www4.lunapic.com/editor/)  
+[Freepik](https://www.freepik.com/)  
+[Pixeden](http://www.pixeden.com/free-design-web-resources)  
 [Pixabay](https://pixabay.com/)  
+[LunaPic](https://www4.lunapic.com/editor/)  
 [BeFunky](https://www.befunky.com/create/photo-editor/)  
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free)  
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
@@ -63,6 +66,7 @@ A list of awesome free startup deals and tools
 [Feedly](https://feedly.com/i/welcome)  
 [Portent](https://www.portent.com/tools/title-maker)  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
+[BetaList](https://betalist.com/)  
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
 [Hootsuite](https://hootsuite.com/)  
 [Typeform](https://www.typeform.com/)  
@@ -73,6 +77,7 @@ A list of awesome free startup deals and tools
 [Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/)  
 [Groove Blog](https://www.groovehq.com/blog)  
 [QuickSprout](https://www.quicksprout.com/blog/)  
+[ProductHunt](https://producthunt.com)  
 [Followerwonk](https://followerwonk.com/)  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)  
 [The Name App](https://thenameapp.com/)  
