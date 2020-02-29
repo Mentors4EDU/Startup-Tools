@@ -14,17 +14,20 @@ A list of awesome free startup deals and tools
 ..................................
 ### Design:  
 [Pixlr](https://pixlr.com/)  
+[Pablo](https://pablo.buffer.com/)  
 [GIMP](https://www.gimp.org/)  
 [Mixkit](https://mixkit.co)  
 [Canva](https://www.canva.com/)  
 [Pexels](https://www.pexels.com/)  
+[Screely](https://www.screely.com/)  
 [LunaPic](https://www4.lunapic.com/editor/)  
 [Pixabay](https://pixabay.com/)  
 [BeFunky](https://www.befunky.com/create/photo-editor/)  
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free)  
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
 [Freebbble](http://freebbble.com/)  
-[Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)
+[Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)  
+[Awesome Screenshot](http://www.awesomescreenshot.com/)
 
 ### Hosting:  
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)
@@ -52,17 +55,21 @@ A list of awesome free startup deals and tools
 ### Marketing:  
 [Zest](https://zest.is/)  
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation)  
+[Sumo](https://sumo.com/)  
 [Buffer](https://buffer.com/)  
 [Feedly](https://feedly.com/i/welcome)  
+[Portent](https://www.portent.com/tools/title-maker)  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
 [Hootsuite](https://hootsuite.com/)  
+[Typeform](https://www.typeform.com/)  
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
 [Help Scout](https://www.f6s.com/deals/563/3-months-free-trial)  
 [Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/)  
 [Followerwonk](https://followerwonk.com/)  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)  
+[The Name App](https://thenameapp.com/)  
 [Right Relevance](https://www.rightrelevance.com/search/influencers)
 
 ### Open Source:  
