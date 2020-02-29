@@ -117,4 +117,8 @@ A list of awesome free startup deals and tools
 [LA Blockchain Summit](https://lablockchainsummit.com/speaker-application)
 
 ### Co-Working Spaces:
-[Awfis](https://www.f6s.com/deals/7915/2-day-free-pass)
+[Awfis](https://www.f6s.com/deals/7915/2-day-free-pass)  
+[AWSLoft](https://aws.amazon.com/start-ups/loft/)  
+[Freehold](https://www.freeholdbrooklyn.com/)  
+[Ace Hotel NY](https://www.acehotel.com/newyork/events-and-spaces/calendar/)  
+[Wix Playground](https://www.wix.com/designers/events)
