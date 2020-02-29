@@ -33,6 +33,7 @@ A list of awesome free startup deals and tools
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)
 
 ### Podcasts:
+[Akimbo](https://www.akimbo.link/)  
 [StartUP](https://gimletmedia.com/shows/startup)  
 [The Pitch](https://gimletmedia.com/shows/the-pitch)  
 [Indie Hackers](https://www.indiehackers.com/podcast)  
@@ -67,8 +68,10 @@ A list of awesome free startup deals and tools
 [Typeform](https://www.typeform.com/)  
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
+[Seth's Blog](https://seths.blog/)  
 [Help Scout](https://www.f6s.com/deals/563/3-months-free-trial)  
 [Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/)  
+[QuickSprout](https://www.quicksprout.com/blog/)  
 [Followerwonk](https://followerwonk.com/)  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)  
 [The Name App](https://thenameapp.com/)  
