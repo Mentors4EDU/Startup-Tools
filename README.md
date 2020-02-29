@@ -8,7 +8,7 @@ A list of awesome free startup deals and tools
 *[Learning](https://github.com/Mentors4EDU/Startup-Tools#learning)*  
 *[Business](https://github.com/Mentors4EDU/Startup-Tools#business)*  
 *[Marketing](https://github.com/Mentors4EDU/Startup-Tools#marketing)*  
-*[Open Source](https://github.com/Mentors4EDU/Startup-Tools#open-source)*  
+*[Development](https://github.com/Mentors4EDU/Startup-Tools#development)*  
 *[Speaking Events](https://github.com/Mentors4EDU/Startup-Tools#speaking-events)*  
 *[Co-Working Spaces](https://github.com/Mentors4EDU/Startup-Tools#co-working-spaces)*  
 ..................................
@@ -83,13 +83,15 @@ A list of awesome free startup deals and tools
 [The Name App](https://thenameapp.com/)  
 [Right Relevance](https://www.rightrelevance.com/search/influencers)
 
-### Open Source:  
+### Development:  
 [UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
 [Github](https://github.com)  
 [Racket](https://racket-lang.org/)  
 [Codacy](https://www.codacy.com/pricing)  
 [GitBook](https://www.gitbook.com/)  
+[Dev/Port](http://www.devport.co/)  
 [Atlassian](https://www.atlassian.com/)  
+[LingoHub](https://lingohub.com/)  
 [BitBucket](https://bitbucket.org/)  
 [Shields.io](https://shields.io/)  
 [StackShare](https://stackshare.io/stacks)  
