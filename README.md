@@ -100,6 +100,7 @@ A list of awesome free startup deals and tools
 [Github](https://github.com)  
 [Racket](https://racket-lang.org/)  
 [Codacy](https://www.codacy.com/pricing)  
+[FBStart](https://developers.facebook.com/startups/)  
 [GitBook](https://www.gitbook.com/)  
 [Dev/Port](http://www.devport.co/)  
 [Atlassian](https://www.atlassian.com/)  
@@ -107,7 +108,8 @@ A list of awesome free startup deals and tools
 [BitBucket](https://bitbucket.org/)  
 [Shields.io](https://shields.io/)  
 [StackShare](https://stackshare.io/stacks)  
-[ReadtheDocs](https://readthedocs.org/)
+[ReadtheDocs](https://readthedocs.org/)  
+[Google for Startups](https://startup.google.com/)
 
 ### Speaking Events:
 [GDC](https://www.gdconf.com/call-for-submissions)  
