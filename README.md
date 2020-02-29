@@ -44,8 +44,10 @@ A list of awesome free startup deals and tools
 
 ### Learning:  
 [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity)  
+[Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)  
 [HarvardX](https://www.edx.org/school/harvardx)  
-[GitHub Learning Lab](https://lab.github.com//)
+[GitHub Learning Lab](https://lab.github.com//)  
+[Peter Theil Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)
 
 ### Business:
 [Gust](https://gust.com/)  
@@ -81,6 +83,7 @@ A list of awesome free startup deals and tools
 [Atlassian](https://www.atlassian.com/)  
 [BitBucket](https://bitbucket.org/)  
 [Shields.io](https://shields.io/)  
+[StackShare](https://stackshare.io/stacks)  
 [ReadtheDocs](https://readthedocs.org/)
 
 ### Speaking Events:
