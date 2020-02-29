@@ -34,7 +34,8 @@ A list of awesome free startup deals and tools
 [Awesome Screenshot](http://www.awesomescreenshot.com/)
 
 ### Hosting:  
-[DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)
+[DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)  
+[OVH Digital LaunchPad](https://www.ovh.com/world/startup/)
 
 ### Podcasts:
 [Akimbo](https://www.akimbo.link/)  
@@ -65,8 +66,10 @@ A list of awesome free startup deals and tools
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
 ### Marketing:  
+[Moz](https://moz.com/free-seo-tools)  
 [Zest](https://zest.is/)  
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation)  
+[Slack](https://slack.com/)  
 [Sumo](https://sumo.com/)  
 [Buffer](https://buffer.com/)  
 [Feedly](https://feedly.com/i/welcome)  
@@ -77,6 +80,7 @@ A list of awesome free startup deals and tools
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
 [Hootsuite](https://hootsuite.com/)  
 [Typeform](https://www.typeform.com/)  
+[PickSaaS](https://www.picksaas.com/pricing)  
 [Submit.co](https://submit.co/)  
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
