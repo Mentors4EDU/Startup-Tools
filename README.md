@@ -29,8 +29,10 @@ A list of awesome free startup deals and tools
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free)  
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
 [Freebbble](http://freebbble.com/)  
+[Press Kite](https://presskite.com/pricing)  
 [StockSnap](https://stocksnap.io/)  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)  
+[MindMeister](https://www.mindmeister.com/mind-map-pricing)  
 [Awesome Screenshot](http://www.awesomescreenshot.com/)
 
 ### Hosting:  
@@ -63,6 +65,8 @@ A list of awesome free startup deals and tools
 ### Business:
 [Gust](https://gust.com/)  
 [Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan)  
+[Javelin](https://www.javelin.com/beta)  
+[Germ.io](https://germ.io/)  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
 ### Marketing:  
