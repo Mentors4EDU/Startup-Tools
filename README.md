@@ -18,6 +18,7 @@ A list of awesome free startup deals and tools
 [Pablo](https://pablo.buffer.com/)  
 [GIMP](https://www.gimp.org/)  
 [Mixkit](https://mixkit.co)  
+[Visme](https://www.visme.co/)  
 [Canva](https://www.canva.com/)  
 [Pexels](https://www.pexels.com/)  
 [Screely](https://www.screely.com/)  
@@ -27,6 +28,7 @@ A list of awesome free startup deals and tools
 [LunaPic](https://www4.lunapic.com/editor/)  
 [BeFunky](https://www.befunky.com/create/photo-editor/)  
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free)  
+[UnSplash](https://unsplash.com/)  
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
 [Freebbble](http://freebbble.com/)  
 [Press Kite](https://presskite.com/pricing)  
@@ -37,7 +39,8 @@ A list of awesome free startup deals and tools
 
 ### Hosting:  
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)  
-[OVH Digital LaunchPad](https://www.ovh.com/world/startup/)
+[OVH Digital LaunchPad](https://www.ovh.com/world/startup/)  
+[Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php)
 
 ### Podcasts:
 [Akimbo](https://www.akimbo.link/)  
@@ -65,8 +68,10 @@ A list of awesome free startup deals and tools
 ### Business:
 [Gust](https://gust.com/)  
 [Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan)  
+[Hunter](https://hunter.io/pricing)  
 [Javelin](https://www.javelin.com/beta)  
 [Germ.io](https://germ.io/)  
+[Foundersuite](https://foundersuite.com/)  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
 ### Marketing:  
@@ -86,6 +91,7 @@ A list of awesome free startup deals and tools
 [Typeform](https://www.typeform.com/)  
 [PickSaaS](https://www.picksaas.com/pricing)  
 [Submit.co](https://submit.co/)  
+[MailChimp](https://mailchimp.com/)  
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
 [Help Scout](https://www.f6s.com/deals/563/3-months-free-trial)  
@@ -102,6 +108,7 @@ A list of awesome free startup deals and tools
 ### Development:  
 [UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
 [Github](https://github.com)  
+[Bubble](https://bubble.io/)  
 [Racket](https://racket-lang.org/)  
 [Codacy](https://www.codacy.com/pricing)  
 [FBStart](https://developers.facebook.com/startups/)  
@@ -111,8 +118,10 @@ A list of awesome free startup deals and tools
 [LingoHub](https://lingohub.com/)  
 [BitBucket](https://bitbucket.org/)  
 [Shields.io](https://shields.io/)  
+[WordPress](https://wordpress.com/start/user?ref=pricing-lp)  
 [StackShare](https://stackshare.io/stacks)  
 [ReadtheDocs](https://readthedocs.org/)  
+[Bootstrap Zero](https://www.bootstrapzero.com/)  
 [Google for Startups](https://startup.google.com/)
 
 ### Speaking Events:
