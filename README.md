@@ -51,6 +51,7 @@ A list of awesome free startup deals and tools
 [Product People](https://www.productpeople.tv/)   
 [Masters of Scale](https://mastersofscale.com/)  
 [The Graham Stephan Show](https://www.youtube.com/channel/UCa-ckhlKL98F8YXKQ-BALiw)  
+[How I Built This with Guy Raz](https://www.npr.org/podcasts/510313/how-i-built-this)  
 [The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/)
 
 ### Learning:  
@@ -77,6 +78,7 @@ A list of awesome free startup deals and tools
 ### Marketing:  
 [Moz](https://moz.com/free-seo-tools)  
 [Zest](https://zest.is/)  
+[VWO](https://vwo.com/pricing/)  
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation)  
 [Slack](https://slack.com/)  
 [Sumo](https://sumo.com/)  
@@ -91,6 +93,7 @@ A list of awesome free startup deals and tools
 [Typeform](https://www.typeform.com/)  
 [PickSaaS](https://www.picksaas.com/pricing)  
 [Submit.co](https://submit.co/)  
+[Unbounce](https://unbounce.com/pricing/)  
 [MailChimp](https://mailchimp.com/)  
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
@@ -118,6 +121,7 @@ A list of awesome free startup deals and tools
 [LingoHub](https://lingohub.com/)  
 [BitBucket](https://bitbucket.org/)  
 [Shields.io](https://shields.io/)  
+[FakeJSON](https://fakejson.com/)  
 [WordPress](https://wordpress.com/start/user?ref=pricing-lp)  
 [StackShare](https://stackshare.io/stacks)  
 [ReadtheDocs](https://readthedocs.org/)  
