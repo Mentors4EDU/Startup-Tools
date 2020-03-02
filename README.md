@@ -36,6 +36,7 @@ A list of awesome free startup deals and tools
 [StockSnap](https://stocksnap.io/)  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)  
 [MindMeister](https://www.mindmeister.com/mind-map-pricing)  
+[Logo Generator](https://www.squarespace.com/logo/)  
 [Awesome Screenshot](http://www.awesomescreenshot.com/)
 
 ### Hosting:  
@@ -68,11 +69,17 @@ A list of awesome free startup deals and tools
 [Peter Theil Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)
 
 ### Business:
+[Kiss](https://500.co/kiss/)  
 [Gust](https://gust.com/)  
+[Wave](https://www.waveapps.com/)  
+[Shake](https://web.shakelaw.com/)  
 [Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan)  
 [Hunter](https://hunter.io/pricing)  
 [Javelin](https://www.javelin.com/beta)  
 [Germ.io](https://germ.io/)  
+[Docracy](https://www.docracy.com/)  
+[Invoicely](http://invoiceto.me/)  
+[Invoice.to](https://invoice.to/)  
 [Foundersuite](https://foundersuite.com/)  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
