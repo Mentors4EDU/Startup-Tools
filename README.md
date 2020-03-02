@@ -66,6 +66,7 @@ A list of awesome free startup deals and tools
 [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)  
 [OneHack](https://onehack.us/)  
 [HarvardX](https://www.edx.org/school/harvardx)  
+[EdPresso](https://www.educative.io/edpresso)  
 [Skillshare](https://www.skillshare.com/business)  
 [DataCamp](https://www.datacamp.com/users/sign_up?redirect=%2Fpricing)  
 [OpenLearn](https://www.open.edu/openlearn/free-courses)  
@@ -82,6 +83,7 @@ A list of awesome free startup deals and tools
 [Facebook Blueprint](https://www.facebook.com/business/learn?ref=ens_rdr)  
 [GitHub Learning Lab](https://lab.github.com/)  
 [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)  
+[Open Source niversity](https://github.com/ossu)  
 [Peter Theil Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)  
 [GrandCircus Intro Workshops](https://www.grandcircus.co/free-coding-classes/)
 
