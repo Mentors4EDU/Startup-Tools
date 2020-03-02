@@ -64,10 +64,13 @@ A list of awesome free startup deals and tools
 [HarvardX](https://www.edx.org/school/harvardx)  
 [Skillshare](https://www.skillshare.com/business)  
 [FutureLearn](https://www.futurelearn.com/courses)  
+[Codecademy](https://www.codecademy.com/)  
 [TeacherTube](https://www.teachertube.com/)  
+[Khan Academy](https://www.khanacademy.org/computing/computer-programming)  
 [FreeCodeCamp](https://www.freecodecamp.org/)  
-[GitHub Learning Lab](https://lab.github.com//)  
-[Peter Theil Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)
+[GitHub Learning Lab](https://lab.github.com/)  
+[Peter Theil Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)  
+[GrandCircus Intro Workshops](https://www.grandcircus.co/free-coding-classes/)
 
 ### Business:
 [a5](http://a5.gg/)  
@@ -141,6 +144,7 @@ A list of awesome free startup deals and tools
 [WordPress](https://wordpress.com/start/user?ref=pricing-lp)  
 [Bootswatch](https://bootswatch.com/)  
 [StackShare](https://stackshare.io/stacks)  
+[SourceForge](https://sourceforge.net/)  
 [ReadtheDocs](https://readthedocs.org/)  
 [Bootstrap Zero](https://www.bootstrapzero.com/)  
 [Google for Startups](https://startup.google.com/)
