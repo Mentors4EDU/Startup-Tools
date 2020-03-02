@@ -70,6 +70,7 @@ A list of awesome free startup deals and tools
 [Peter Theil Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)
 
 ### Business:
+[a5](http://a5.gg/)  
 [Kiss](https://500.co/kiss/)  
 [Gust](https://gust.com/)  
 [Wave](https://www.waveapps.com/)  
@@ -132,8 +133,8 @@ A list of awesome free startup deals and tools
 [LingoHub](https://lingohub.com/)  
 [BitBucket](https://bitbucket.org/)  
 [Shields.io](https://shields.io/)  
-[Layers WP](https://www.layerswp.com/)  
 [Templated](https://templated.co/)  
+[Layers WP](https://www.layerswp.com/)  
 [FakeJSON](https://fakejson.com/)  
 [WordPress](https://wordpress.com/start/user?ref=pricing-lp)  
 [Bootswatch](https://bootswatch.com/)  
