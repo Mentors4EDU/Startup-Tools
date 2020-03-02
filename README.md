@@ -18,6 +18,7 @@ A list of awesome free startup deals and tools
 [Pablo](https://pablo.buffer.com/)  
 [GIMP](https://www.gimp.org/)  
 [Mixkit](https://mixkit.co)  
+[Skitch](https://evernote.com/products/skitch)  
 [Visme](https://www.visme.co/)  
 [Canva](https://www.canva.com/)  
 [Pexels](https://www.pexels.com/)  
@@ -95,6 +96,7 @@ A list of awesome free startup deals and tools
 [Portent](https://www.portent.com/tools/title-maker)  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
 [BetaList](https://betalist.com/)  
+[Wordoid](https://wordoid.com/)  
 [LiveChat](https://startups.livechatinc.com/)  
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
 [Hootsuite](https://hootsuite.com/)  
@@ -117,8 +119,9 @@ A list of awesome free startup deals and tools
 [Right Relevance](https://www.rightrelevance.com/search/influencers)
 
 ### Development:  
-[UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
 [Github](https://github.com)  
+[UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
+[Known](https://withknown.com/)  
 [Bubble](https://bubble.io/)  
 [Racket](https://racket-lang.org/)  
 [Codacy](https://www.codacy.com/pricing)  
