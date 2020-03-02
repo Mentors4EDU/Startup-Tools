@@ -127,6 +127,8 @@ A list of awesome free startup deals and tools
 [Racket](https://racket-lang.org/)  
 [Codacy](https://www.codacy.com/pricing)  
 [FBStart](https://developers.facebook.com/startups/)  
+[Pandoc](https://pandoc.org/)  
+[Dillinger](https://dillinger.io/)  
 [GitBook](https://www.gitbook.com/)  
 [Dev/Port](http://www.devport.co/)  
 [Atlassian](https://www.atlassian.com/)  
