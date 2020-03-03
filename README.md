@@ -13,6 +13,7 @@ A list of awesome free startup deals and tools
 *[Co-Working Spaces](https://github.com/Mentors4EDU/Startup-Tools#co-working-spaces)*  
 ..................................
 ### Design:  
+[Tiff](http://tiff.herokuapp.com/)  
 [DBF](http://dbfreebies.co/)  
 [Pixlr](https://pixlr.com/)  
 [Pablo](https://pablo.buffer.com/)  
@@ -22,6 +23,7 @@ A list of awesome free startup deals and tools
 [Visme](https://www.visme.co/)  
 [Canva](https://www.canva.com/)  
 [Pexels](https://www.pexels.com/)  
+[DaFont](https://www.dafont.com/)  
 [Screely](https://www.screely.com/)  
 [Freepik](https://www.freepik.com/)  
 [Pixeden](http://www.pixeden.com/free-design-web-resources)  
@@ -37,7 +39,10 @@ A list of awesome free startup deals and tools
 [StockSnap](https://stocksnap.io/)  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)  
 [MindMeister](https://www.mindmeister.com/mind-map-pricing)  
+[Font Squirrel](https://www.fontsquirrel.com/)  
+[Google Fonts](https://fonts.google.com/)  
 [Logo Generator](https://www.squarespace.com/logo/)  
+[1001 Free Fonts](https://www.1001freefonts.com/)  
 [Awesome Screenshot](http://www.awesomescreenshot.com/)
 
 ### Hosting:  
