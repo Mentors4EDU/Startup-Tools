@@ -69,6 +69,7 @@ A list of awesome free startup deals and tools
 [EdPresso](https://www.educative.io/edpresso)  
 [Skillshare](https://www.skillshare.com/business)  
 [DataCamp](https://www.datacamp.com/users/sign_up?redirect=%2Fpricing)  
+[MOOC.org](https://www.mooc.org/)  
 [OpenLearn](https://www.open.edu/openlearn/free-courses)  
 [GCFGlobal](https://edu.gcfglobal.org/en/)  
 [FutureLearn](https://www.futurelearn.com/courses)  
@@ -161,6 +162,7 @@ A list of awesome free startup deals and tools
 [StackShare](https://stackshare.io/stacks)  
 [SourceForge](https://sourceforge.net/)  
 [ReadtheDocs](https://readthedocs.org/)  
+[Puppet Forge](https://forge.puppet.com/)  
 [Bootstrap Zero](https://www.bootstrapzero.com/)  
 [Google for Startups](https://startup.google.com/)
 
