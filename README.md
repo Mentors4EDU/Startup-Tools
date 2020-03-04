@@ -39,6 +39,7 @@ A list of awesome free startup deals and tools
 [StockSnap](https://stocksnap.io/)  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)  
 [MindMeister](https://www.mindmeister.com/mind-map-pricing)  
+[Google Docs](https://docs.google.com)  
 [Font Squirrel](https://www.fontsquirrel.com/)  
 [Google Fonts](https://fonts.google.com/)  
 [Logo Generator](https://www.squarespace.com/logo/)  
@@ -172,6 +173,7 @@ A list of awesome free startup deals and tools
 [ReadtheDocs](https://readthedocs.org/)  
 [Puppet Forge](https://forge.puppet.com/)  
 [Bootstrap Zero](https://www.bootstrapzero.com/)  
+[Stack Overflow](https://stackoverflow.com/)  
 [Google for Startups](https://startup.google.com/)
 
 ### Speaking Events:
