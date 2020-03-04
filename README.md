@@ -147,10 +147,12 @@ A list of awesome free startup deals and tools
 [Right Relevance](https://www.rightrelevance.com/search/influencers)
 
 ### Development:  
+[Repl.it](https://repl.it/)  
 [Github](https://github.com)  
 [UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
 [Known](https://withknown.com/)  
 [Bubble](https://bubble.io/)  
+[Kaggle](https://www.kaggle.com/)  
 [GitPod](https://gitpod.io)  
 [Racket](https://racket-lang.org/)  
 [Codacy](https://www.codacy.com/pricing)  
@@ -158,6 +160,7 @@ A list of awesome free startup deals and tools
 [Pandoc](https://pandoc.org/)  
 [Dillinger](https://dillinger.io/)  
 [GitBook](https://www.gitbook.com/)  
+[Figshare](https://figshare.com/)  
 [Dev/Port](http://www.devport.co/)  
 [Atlassian](https://www.atlassian.com/)  
 [LingoHub](https://lingohub.com/)  
