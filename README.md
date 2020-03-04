@@ -43,6 +43,7 @@ A list of awesome free startup deals and tools
 [Google Fonts](https://fonts.google.com/)  
 [Logo Generator](https://www.squarespace.com/logo/)  
 [1001 Free Fonts](https://www.1001freefonts.com/)  
+[Onlineconvertfree](https://onlineconvertfree.com/)  
 [Awesome Screenshot](http://www.awesomescreenshot.com/)
 
 ### Hosting:  
@@ -148,6 +149,7 @@ A list of awesome free startup deals and tools
 [UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
 [Known](https://withknown.com/)  
 [Bubble](https://bubble.io/)  
+[GitPod](https://gitpod.io)  
 [Racket](https://racket-lang.org/)  
 [Codacy](https://www.codacy.com/pricing)  
 [FBStart](https://developers.facebook.com/startups/)  
