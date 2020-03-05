@@ -49,6 +49,8 @@ A list of awesome free startup deals and tools
 
 ### Hosting:  
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)  
+[StackPath](https://www.stackpath.com/resources/propel-startup-program/)  
+[Rackspace](https://www.f6s.com/rackspacestartupprogramapplication/apply)  
 [OVH Digital LaunchPad](https://www.ovh.com/world/startup/)  
 [Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php)
 
@@ -169,7 +171,6 @@ A list of awesome free startup deals and tools
 [LingoHub](https://lingohub.com/)  
 [BitBucket](https://bitbucket.org/)  
 [Shields.io](https://shields.io/)  
-[StackPath](https://www.stackpath.com/resources/propel-startup-program/)  
 [Templated](https://templated.co/)  
 [Layers WP](https://www.layerswp.com/)  
 [FakeJSON](https://fakejson.com/)  
