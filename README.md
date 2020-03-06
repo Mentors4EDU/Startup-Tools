@@ -26,6 +26,7 @@ A list of awesome free startup deals and tools
 [DaFont](https://www.dafont.com/)  
 [Screely](https://www.screely.com/)  
 [Freepik](https://www.freepik.com/)  
+[Blender](https://www.blender.org/)  
 [Pixeden](http://www.pixeden.com/free-design-web-resources)  
 [Pixabay](https://pixabay.com/)  
 [LunaPic](https://www4.lunapic.com/editor/)  
@@ -36,6 +37,7 @@ A list of awesome free startup deals and tools
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
 [Freebbble](http://freebbble.com/)  
 [Press Kite](https://presskite.com/pricing)  
+[Lightworks](https://www.lwks.com/)  
 [StockSnap](https://stocksnap.io/)  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)  
 [MindMeister](https://www.mindmeister.com/mind-map-pricing)  
@@ -45,6 +47,7 @@ A list of awesome free startup deals and tools
 [Logo Generator](https://www.squarespace.com/logo/)  
 [1001 Free Fonts](https://www.1001freefonts.com/)  
 [Onlineconvertfree](https://onlineconvertfree.com/)  
+[DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve/)  
 [Awesome Screenshot](http://www.awesomescreenshot.com/)
 
 ### Hosting:  
