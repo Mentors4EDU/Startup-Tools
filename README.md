@@ -43,6 +43,7 @@ A list of awesome free startup deals and tools
 [MindMeister](https://www.mindmeister.com/mind-map-pricing)  
 [Google Docs](https://docs.google.com)  
 [Font Squirrel](https://www.fontsquirrel.com/)  
+[WordCounter](https://wordcounter.net/)  
 [Google Fonts](https://fonts.google.com/)  
 [Logo Generator](https://www.squarespace.com/logo/)  
 [1001 Free Fonts](https://www.1001freefonts.com/)  
@@ -132,6 +133,7 @@ A list of awesome free startup deals and tools
 [Callrail](https://www.callrail.com/pricing/)  
 [Chartio](https://chartio.com/)  
 [Portent](https://www.portent.com/tools/title-maker)  
+[Shopify](https://www.shopify.com/)  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
 [BetaList](https://betalist.com/)  
 [Wordoid](https://wordoid.com/)  
@@ -158,6 +160,7 @@ A list of awesome free startup deals and tools
 [Right Relevance](https://www.rightrelevance.com/search/influencers)
 
 ### Development:  
+[D3](https://d3js.org/)  
 [Repl.it](https://repl.it/)  
 [Github](https://github.com)  
 [UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
