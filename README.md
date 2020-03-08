@@ -160,6 +160,7 @@ A list of awesome free startup deals and tools
 [Right Relevance](https://www.rightrelevance.com/search/influencers)
 
 ### Development:  
+[Bit](https://bit.dev/)  
 [D3](https://d3js.org/)  
 [Repl.it](https://repl.it/)  
 [Github](https://github.com)  
@@ -189,6 +190,7 @@ A list of awesome free startup deals and tools
 [WordPress](https://wordpress.com/start/user?ref=pricing-lp)  
 [Bootswatch](https://bootswatch.com/)  
 [StackShare](https://stackshare.io/stacks)  
+[JBoss Forge](https://forge.jboss.org/addons)  
 [SourceForge](https://sourceforge.net/)  
 [ReadtheDocs](https://readthedocs.org/)  
 [Puppet Forge](https://forge.puppet.com/)  
