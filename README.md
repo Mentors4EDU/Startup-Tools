@@ -123,6 +123,7 @@ A list of awesome free startup deals and tools
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
 ### Marketing:  
+[K.im](https://k.im/)  
 [Moz](https://moz.com/free-seo-tools)  
 [Zest](https://zest.is/)  
 [VWO](https://vwo.com/pricing/)  
@@ -133,6 +134,7 @@ A list of awesome free startup deals and tools
 [Buffer](https://buffer.com/)  
 [Feedly](https://feedly.com/i/welcome)  
 [Callrail](https://www.callrail.com/pricing/)  
+[Ranker](https://www.ranker.com/)  
 [Chartio](https://chartio.com/)  
 [Portent](https://www.portent.com/tools/title-maker)  
 [Shopify](https://www.shopify.com/)  
