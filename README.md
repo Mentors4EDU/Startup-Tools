@@ -166,6 +166,7 @@ A list of awesome free startup deals and tools
 ### Development:  
 [Bit](https://bit.dev/)  
 [D3](https://d3js.org/)  
+[DEV](https://dev.to/)  
 [Repl.it](https://repl.it/)  
 [Github](https://github.com)  
 [UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
@@ -181,6 +182,7 @@ A list of awesome free startup deals and tools
 [Dillinger](https://dillinger.io/)  
 [GitBook](https://www.gitbook.com/)  
 [Figshare](https://figshare.com/)  
+[GoChain](https://github.com/gochain)  
 [Dev/Port](http://www.devport.co/)  
 [Atlassian](https://www.atlassian.com/)  
 [LingoHub](https://lingohub.com/)  
