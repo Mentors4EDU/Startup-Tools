@@ -86,6 +86,7 @@ A list of awesome free startup deals and tools
 [HarvardX](https://www.edx.org/school/harvardx)  
 [EdPresso](https://www.educative.io/edpresso)  
 [Skillshare](https://www.skillshare.com/business)  
+[Ajay Tech](https://ajaytech.co/)  
 [DataCamp](https://www.datacamp.com/users/sign_up?redirect=%2Fpricing)  
 [MOOC.org](https://www.mooc.org/)  
 [OpenLearn](https://www.open.edu/openlearn/free-courses)  
