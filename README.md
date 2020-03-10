@@ -73,12 +73,14 @@ A list of awesome free startup deals and tools
 
 ### Learning:  
 [Tuts+](https://tutsplus.com/courses#price=free)  
+[Packt](https://www.packtpub.com/free-learning)  
 [Lynda](https://www.lynda.com/home/freeTraining.aspx)  
 [Alison](https://alison.com/)  
 [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity)  
 [Guru99](https://www.guru99.com/)  
 [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)  
 [Scrimba](https://scrimba.com/allcourses)  
+[Duolingo](https://www.duolingo.com/)  
 [OneHack](https://onehack.us/)  
 [Slidenerd](https://www.youtube.com/slidenerd/videos)  
 [HarvardX](https://www.edx.org/school/harvardx)  
