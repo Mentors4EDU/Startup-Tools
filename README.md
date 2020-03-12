@@ -176,8 +176,10 @@ A list of awesome free startup deals and tools
 
 ### Development:  
 [Bit](https://bit.dev/)  
+[Git](https://git-scm.com/)  
 [D3](https://d3js.org/)  
 [DEV](https://dev.to/)  
+[Glitch](https://glitch.com/)  
 [Repl.it](https://repl.it/)  
 [Github](https://github.com)  
 [UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
@@ -187,6 +189,7 @@ A list of awesome free startup deals and tools
 [GitPod](https://gitpod.io)  
 [Racket](https://racket-lang.org/)  
 [Joomla](https://www.joomla.org/)  
+[Jenkins](https://jenkins.io/)  
 [Codacy](https://www.codacy.com/pricing)  
 [FBStart](https://developers.facebook.com/startups/)  
 [Pandoc](https://pandoc.org/)  
@@ -199,6 +202,7 @@ A list of awesome free startup deals and tools
 [LingoHub](https://lingohub.com/)  
 [Flowdock](https://www.flowdock.com/pricing)  
 [BitBucket](https://bitbucket.org/)  
+[Datasette](https://datasette.readthedocs.io/en/stable/)  
 [Shields.io](https://shields.io/)  
 [Templated](https://templated.co/)  
 [Layers WP](https://www.layerswp.com/)  
