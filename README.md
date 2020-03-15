@@ -57,6 +57,7 @@ A list of awesome free startup deals and tools
 [Awesome Screenshot](http://www.awesomescreenshot.com/)
 
 ### Hosting:  
+[Heroku](https://signup.heroku.com/)  
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)  
 [StackPath](https://www.stackpath.com/resources/propel-startup-program/)  
 [Rackspace](https://www.f6s.com/rackspacestartupprogramapplication/apply)  
@@ -193,6 +194,7 @@ A list of awesome free startup deals and tools
 [Codacy](https://www.codacy.com/pricing)  
 [FBStart](https://developers.facebook.com/startups/)  
 [Pandoc](https://pandoc.org/)  
+[RegEXr](https://regexr.com/)  
 [Dillinger](https://dillinger.io/)  
 [GitBook](https://www.gitbook.com/)  
 [Candela](https://candela.readthedocs.io/en/latest/)  
@@ -207,6 +209,7 @@ A list of awesome free startup deals and tools
 [Datasette](https://datasette.readthedocs.io/en/stable/)  
 [Resonant](https://resonant.kitware.com/)  
 [Shields.io](https://shields.io/)  
+[Regex101](https://regex101.com/)  
 [Templated](https://templated.co/)  
 [Layers WP](https://www.layerswp.com/)  
 [Notepad++](http://www.notepad-plus-plus.org/)  
