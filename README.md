@@ -176,7 +176,8 @@ A list of awesome free startup deals and tools
 [Followerwonk](https://followerwonk.com/)  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)  
 [The Name App](https://thenameapp.com/)  
-[Right Relevance](https://www.rightrelevance.com/search/influencers)
+[Right Relevance](https://www.rightrelevance.com/search/influencers)  
+[Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
 
 ### Development:  
 [Bit](https://bit.dev/)  
@@ -198,6 +199,7 @@ A list of awesome free startup deals and tools
 [Jenkins](https://jenkins.io/)  
 [Codacy](https://www.codacy.com/pricing)  
 [FBStart](https://developers.facebook.com/startups/)  
+[wwPDB](http://www.wwpdb.org/)  
 [RegEXr](https://regexr.com/)  
 [RegEgg](https://www.rexegg.com/regex-quickstart.html)  
 [Pandoc](https://pandoc.org/)  
