@@ -41,6 +41,7 @@ A list of awesome free startup deals and tools
 [Press Kite](https://presskite.com/pricing)  
 [Lightworks](https://www.lwks.com/)  
 [StockSnap](https://stocksnap.io/)  
+[ThemeGrill](https://themegrill.com/blog/free-wordpress-themes/)  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)  
 [Magdeleine](https://magdeleine.co/browse/)  
 [OBS Studio](https://obsproject.com/)  
@@ -79,6 +80,7 @@ A list of awesome free startup deals and tools
 
 ### Learning:  
 [Tuts+](https://tutsplus.com/courses#price=free)  
+[Code](https://code.org/)  
 [Packt](https://www.packtpub.com/free-learning)  
 [Lynda](https://www.lynda.com/home/freeTraining.aspx)  
 [Alison](https://alison.com/)  
