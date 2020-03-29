@@ -113,6 +113,7 @@ A list of awesome free startup deals and tools
 [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA)  
 [Edge Academy](https://www.stackpath.com/edge-academy/)  
 [Khan Academy](https://www.khanacademy.org/computing/computer-programming)  
+[TheNewBoston](https://www.youtube.com/user/thenewboston/videos)  
 [FreeCodeCamp](https://www.freecodecamp.org/)  
 [Project Gutenberg](https://www.gutenberg.org/)  
 [Facebook Blueprint](https://www.facebook.com/business/learn?ref=ens_rdr)  
@@ -121,6 +122,7 @@ A list of awesome free startup deals and tools
 [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)  
 [Open Source niversity](https://github.com/ossu)  
 [Peter Theil Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)  
+[Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/videos)  
 [GrandCircus Intro Workshops](https://www.grandcircus.co/free-coding-classes/)
 
 ### Business:
