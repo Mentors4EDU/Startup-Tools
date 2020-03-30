@@ -234,6 +234,7 @@ A list of awesome free startup deals and tools
 [Regex101](https://regex101.com/)  
 [Templated](https://templated.co/)  
 [Layers WP](https://www.layerswp.com/)  
+[GlowScript](https://www.glowscript.org/)  
 [Notepad++](http://www.notepad-plus-plus.org/)  
 [FakeJSON](https://fakejson.com/)  
 [Wix Corvid](https://www.wix.com/corvid)  
