@@ -42,6 +42,7 @@ A list of awesome free startup deals and tools
 [Press Kite](https://presskite.com/pricing)  
 [Lightworks](https://www.lwks.com/)  
 [StockSnap](https://stocksnap.io/)  
+[Removebg](https://www.remove.bg/)  
 [ThemeGrill](https://themegrill.com/blog/free-wordpress-themes/)  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)  
 [Magdeleine](https://magdeleine.co/browse/)  
