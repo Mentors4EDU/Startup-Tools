@@ -199,6 +199,7 @@ A list of awesome free startup deals and tools
 [H20](https://www.h2o.ai/download/)  
 [DEV](https://dev.to/)  
 [Foldit](https://fold.it/portal/contest)  
+[Jekyll](https://jekyllrb.com/)  
 [Glitch](https://glitch.com/)  
 [Repl.it](https://repl.it/)  
 [H20.ai](https://github.com/h2oai)  
