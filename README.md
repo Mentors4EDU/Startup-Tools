@@ -239,6 +239,7 @@ A list of awesome free startup deals and tools
 [Flowdock](https://www.flowdock.com/pricing)  
 [BitBucket](https://bitbucket.org/)  
 [Datasette](https://datasette.readthedocs.io/en/stable/)  
+[JSONLint](https://jsonlint.com/)  
 [Resonant](https://resonant.kitware.com/)  
 [Shields.io](https://shields.io/)  
 [Regex101](https://regex101.com/)  
