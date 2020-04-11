@@ -265,6 +265,7 @@ A list of free startup deals, trials and tools
 [JBoss Forge](https://forge.jboss.org/addons)  
 [SourceForge](https://sourceforge.net/)  
 [Sublime Text](http://www.sublimetext.com/)  
+[PortableApps](https://portableapps.com)  
 [ReadtheDocs](https://readthedocs.org/)  
 [Puppet Forge](https://forge.puppet.com/)  
 [Bootstrap Zero](https://www.bootstrapzero.com/)  
