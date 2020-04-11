@@ -151,8 +151,9 @@ A list of free startup deals, trials and tools
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
 ### Marketing:  
-[K.im](https://k.im/)  
+[Bitly](https://bitly.com/)  
 [Moz](https://moz.com/free-seo-tools)  
+[K.im](https://k.im/)  
 [Zest](https://zest.is/)  
 [VWO](https://vwo.com/pricing/)  
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation)  
@@ -194,6 +195,7 @@ A list of free startup deals, trials and tools
 [Startup Bros](https://startupbros.com/free-stuff/)  
 [QuickSprout](https://www.quicksprout.com/blog/)  
 [ProductHunt](https://producthunt.com)  
+[Boomberang](https://www.boomeranggmail.com/)  
 [Hacker News](https://news.ycombinator.com/)  
 [Followerwonk](https://followerwonk.com/)  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)  
