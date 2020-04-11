@@ -161,6 +161,7 @@ A list of free startup deals, trials and tools
 [Trello](https://trello.com/)  
 [Sumo](https://sumo.com/)  
 [Buffer](https://buffer.com/)  
+[Vimeo](https://vimeo.com/)  
 [AYTM](https://aytm.com/)  
 [Asana](https://asana.com/)  
 [Feedly](https://feedly.com/i/welcome)  
