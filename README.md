@@ -169,6 +169,7 @@ A list of free startup deals, trials and tools
 [Ranker](https://www.ranker.com/)  
 [Chartio](https://chartio.com/)  
 [Portent](https://www.portent.com/tools/title-maker)  
+[GoViral](https://goviral.growthtools.com/)  
 [Statista](https://www.statista.com/)  
 [Shopify](https://www.shopify.com/)  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
