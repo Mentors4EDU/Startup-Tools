@@ -120,6 +120,7 @@ A list of free startup deals, trials and tools
 [Edge Academy](https://www.stackpath.com/edge-academy/)  
 [Khan Academy](https://www.khanacademy.org/computing/computer-programming)  
 [TheNewBoston](https://www.youtube.com/user/thenewboston/videos)  
+[Hillsdale Online](https://info.hillsdale.edu/online-learning-2020)  
 [FreeCodeCamp](https://www.freecodecamp.org/)  
 [Project Gutenberg](https://www.gutenberg.org/)  
 [Facebook Blueprint](https://www.facebook.com/business/learn?ref=ens_rdr)  
