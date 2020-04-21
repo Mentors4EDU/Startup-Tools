@@ -276,6 +276,7 @@ A list of free startup deals, trials and tools
 [Puppet Forge](https://forge.puppet.com/)  
 [Bootstrap Zero](https://www.bootstrapzero.com/)  
 [Stack Overflow](https://stackoverflow.com/)  
+[Open Collective](https://opencollective.com/)  
 [Google for Startups](https://startup.google.com/)  
 [Markdown Quick Reference](https://wordpress.com/support/markdown-quick-reference/)  
 
