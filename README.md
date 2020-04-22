@@ -189,6 +189,7 @@ A list of free startup deals, trials and tools
 [Hootsuite](https://hootsuite.com/)  
 [Moosend](https://moosend.com/blog/free-email-marketing-services/)  
 [Typeform](https://www.typeform.com/)  
+[Catappult](https://catappult.io/)  
 [PickSaaS](https://www.picksaas.com/pricing)  
 [Submit.co](https://submit.co/)  
 [Unbounce](https://unbounce.com/pricing/)  
