@@ -39,6 +39,7 @@ A list of free startup deals, trials and tools
 [LogoHub](https://logohub.io/)  
 [UnSplash](https://unsplash.com/)  
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
+[Tinkercad](https://www.tinkercad.com/)  
 [Sketchfab](https://sketchfab.com/)  
 [Freebbble](http://freebbble.com/)  
 [Press Kite](https://presskite.com/pricing)  
@@ -61,7 +62,8 @@ A list of free startup deals, trials and tools
 [1001 Free Fonts](https://www.1001freefonts.com/)  
 [Onlineconvertfree](https://onlineconvertfree.com/)  
 [DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve/)  
-[Awesome Screenshot](http://www.awesomescreenshot.com/)
+[Awesome Screenshot](http://www.awesomescreenshot.com/)  
+[Spin3D Mesh Converter](https://www.amazon.com/Spin3D-Free-3D-File-Converter/dp/B01DEEYSZG/ref=sr_1_17?dchild=1&keywords=3d+modeling+software&qid=1587836858&sr=8-17)
 
 ### Hosting:  
 [Heroku](https://signup.heroku.com/)  
@@ -159,6 +161,7 @@ A list of free startup deals, trials and tools
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
 ### Marketing:  
+[Kit](https://kit.co)  
 [Bitly](https://bitly.com/)  
 [Moz](https://moz.com/free-seo-tools)  
 [K.im](https://k.im/)  
