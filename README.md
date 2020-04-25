@@ -190,6 +190,7 @@ A list of free startup deals, trials and tools
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
 [Glasshat](https://www.glasshat.com/signup/)  
 [Strikingly](https://www.strikingly.com/)  
+[Postsked](https://postsked.com/)  
 [Hootsuite](https://hootsuite.com/)  
 [Moosend](https://moosend.com/blog/free-email-marketing-services/)  
 [Typeform](https://www.typeform.com/)  
@@ -214,6 +215,7 @@ A list of free startup deals, trials and tools
 [Followerwonk](https://followerwonk.com/)  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)  
 [The Name App](https://thenameapp.com/)  
+[ActiveCampaign](https://www.activecampaign.com)  
 [Right Relevance](https://www.rightrelevance.com/search/influencers)  
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
 
