@@ -279,6 +279,7 @@ A list of free startup deals, trials and tools
 [Bootswatch](https://bootswatch.com/)  
 [StackShare](https://stackshare.io/stacks)  
 [JBoss Forge](https://forge.jboss.org/addons)  
+[Debian Docs](https://www.debian.org/doc/)  
 [SourceForge](https://sourceforge.net/)  
 [Sublime Text](http://www.sublimetext.com/)  
 [PortableApps](https://portableapps.com)  
