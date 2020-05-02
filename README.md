@@ -71,6 +71,7 @@ A list of free startup deals, trials and tools
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)  
 [StackPath](https://www.stackpath.com/resources/propel-startup-program/)  
 [Rackspace](https://www.f6s.com/rackspacestartupprogramapplication/apply)  
+[Oracle for Startups](https://www.oracle.com/startup/)  
 [OVH Digital LaunchPad](https://www.ovh.com/world/startup/)  
 [Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php)
 
@@ -143,6 +144,7 @@ A list of free startup deals, trials and tools
 
 ### Business:
 [a5](http://a5.gg/)  
+[Join](https://www.join.me/)  
 [Kiss](https://500.co/kiss/)  
 [Gust](https://gust.com/)  
 [Wave](https://www.waveapps.com/)  
