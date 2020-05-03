@@ -163,8 +163,9 @@ A list of free startup deals, trials and tools
 [DropBox](https://www.dropbox.com/?landing=dbv2)  
 [Invoicely](http://invoiceto.me/)  
 [Evernote](https://evernote.com/basic)  
-[Invoice.to](https://invoice.to/)  
+[HubSpot](https://www.hubspot.com/startups)  
 [Slimvoice](https://slimvoice.co/)  
+[Invoice.to](https://invoice.to/)  
 [Foundersuite](https://foundersuite.com/)  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
