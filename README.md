@@ -194,6 +194,8 @@ A list of free startup deals, trials and tools
 [Statista](https://www.statista.com/)  
 [Shopify](https://www.shopify.com/)  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
+[Matomo](https://matomo.org/)  
+[BL.INK](https://www.bl.ink/)  
 [Parse.ly](https://www.parse.ly/)  
 [BetaList](https://betalist.com/)  
 [Wordoid](https://wordoid.com/)  
