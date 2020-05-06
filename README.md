@@ -157,6 +157,7 @@ A list of free startup deals, trials and tools
 [Javelin](https://www.javelin.com/beta)  
 [Doodle](https://doodle.com/premium/business/info)  
 [Webex](https://www.webex.com/)  
+[ClickUp](https://clickup.com/)  
 [Lifesize](https://www.lifesize.com/)  
 [Germ.io](https://germ.io/)  
 [Docracy](https://www.docracy.com/)  
