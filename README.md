@@ -40,6 +40,7 @@ A list of free startup deals, trials and tools
 [BeFunky](https://www.befunky.com/create/photo-editor/)  
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free)  
 [LogoHub](https://logohub.io/)  
+[Animaker](https://www.animaker.com/)  
 [UnSplash](https://unsplash.com/)  
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
 [Tinkercad](https://www.tinkercad.com/)  
