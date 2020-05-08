@@ -171,6 +171,7 @@ A list of free startup deals, trials and tools
 [Slimvoice](https://slimvoice.co/)  
 [Invoice.to](https://invoice.to/)  
 [Foundersuite](https://foundersuite.com/)  
+[StartupResources](https://startupresources.io/)  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
 ### Marketing:  
@@ -189,6 +190,7 @@ A list of free startup deals, trials and tools
 [Vimeo](https://vimeo.com/)  
 [AYTM](https://aytm.com/)  
 [Asana](https://asana.com/)  
+[HeroX](https://www.herox.com/creation-wizard/template)  
 [Feedly](https://feedly.com/i/welcome)  
 [Callrail](https://www.callrail.com/pricing/)  
 [Ranker](https://www.ranker.com/)  
