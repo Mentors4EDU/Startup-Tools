@@ -152,6 +152,7 @@ A list of free startup deals, trials and tools
 [Due](https://due.com/)  
 [Join](https://www.join.me/)  
 [Kiss](https://500.co/kiss/)  
+[Miro](https://miro.com/templates/lean-canvas/)  
 [Gust](https://gust.com/)  
 [Wave](https://www.waveapps.com/)  
 [Skype](https://www.skype.com/en/)  
@@ -175,6 +176,7 @@ A list of free startup deals, trials and tools
 [Canvanizer](https://canvanizer.com/new/lean-canvas)  
 [Foundersuite](https://foundersuite.com/)  
 [Lean Canvas](https://leanstack.com/leancanvas)  
+[Neos Chronos](https://neoschronos.com/download/lean-canvas/docx/)  
 [StartupResources](https://startupresources.io/)  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
