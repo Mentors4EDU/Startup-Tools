@@ -266,6 +266,7 @@ A list of free startup deals, trials and tools
 [GitPod](https://gitpod.io)  
 [Racket](https://racket-lang.org/)  
 [Meteor](https://www.meteor.com/)  
+[Jupyter](https://jupyter.org)  
 [Ansible](https://www.redhat.com/en/technologies/management/ansible/try-it)  
 [Joomla](https://www.joomla.org/)  
 [Jenkins](https://jenkins.io/)  
