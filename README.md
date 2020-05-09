@@ -172,7 +172,9 @@ A list of free startup deals, trials and tools
 [HubSpot](https://www.hubspot.com/startups)  
 [Slimvoice](https://slimvoice.co/)  
 [Invoice.to](https://invoice.to/)  
+[Canvanizer](https://canvanizer.com/new/lean-canvas)  
 [Foundersuite](https://foundersuite.com/)  
+[Lean Canvas](https://leanstack.com/leancanvas)  
 [StartupResources](https://startupresources.io/)  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
 
