@@ -282,6 +282,7 @@ A list of free startup deals, trials and tools
 [GitBook](https://www.gitbook.com/)  
 [Candela](https://candela.readthedocs.io/en/latest/)  
 [Figshare](https://figshare.com/)  
+[Swagger](https://swagger.io/)  
 [GoChain](https://github.com/gochain)  
 [Postman](https://www.postman.com/)  
 [Dev/Port](http://www.devport.co/)  
