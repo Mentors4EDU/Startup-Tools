@@ -312,6 +312,7 @@ A list of free startup deals, trials and tools
 [RapidMiner](https://rapidminer.com/educational-program/)  
 [Bootswatch](https://bootswatch.com/)  
 [StackShare](https://stackshare.io/stacks)  
+[Codementor](https://www.codementor.io/mentor/apply)  
 [JBoss Forge](https://forge.jboss.org/addons)  
 [Debian Docs](https://www.debian.org/doc/)  
 [SourceForge](https://sourceforge.net/)  
