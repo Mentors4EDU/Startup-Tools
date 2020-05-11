@@ -81,6 +81,7 @@ A list of free startup deals, trials and tools
 [Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php)
 
 ### Podcasts:
+[SaaStr](https://www.saastr.com/)  
 [Akimbo](https://www.akimbo.link/)  
 [StartUP](https://gimletmedia.com/shows/startup)  
 [The Pitch](https://gimletmedia.com/shows/the-pitch)  
