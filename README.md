@@ -233,6 +233,7 @@ A list of free startup deals, trials and tools
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
 [Zoho CRM](https://www.zoho.com/crm/)  
 [Help Scout](https://www.f6s.com/deals/563/3-months-free-trial)  
+[Good Copy](https://www.goodemailcopy.com/)  
 [Seth's Blog](https://seths.blog/)  
 [Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/)  
 [Geckoboard](https://www.geckoboard.com/try-geckoboard/)  
