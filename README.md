@@ -216,6 +216,7 @@ A list of free startup deals, trials and tools
 [LiveChat](https://startups.livechatinc.com/)  
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
 [Glasshat](https://www.glasshat.com/signup/)  
+[Optimize](https://marketingplatform.google.com/about/optimize/)  
 [Strikingly](https://www.strikingly.com/)  
 [Postsked](https://postsked.com/)  
 [Hootsuite](https://hootsuite.com/)  
