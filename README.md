@@ -63,6 +63,7 @@ A list of free startup deals, trials and tools
 [Edward Tufte](https://www.edwardtufte.com/bboard/q-and-a?topic_id=1)  
 [WordCounter](https://wordcounter.net/)  
 [Google Fonts](https://fonts.google.com/)  
+[Jekyll Themes](http://jekyllthemes.org/)  
 [Logo Generator](https://www.squarespace.com/logo/)  
 [Signature Maker](https://signature-maker.net/)  
 [1001 Free Fonts](https://www.1001freefonts.com/)  
