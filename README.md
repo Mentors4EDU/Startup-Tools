@@ -60,6 +60,7 @@ A list of free startup deals, trials and tools
 [Google Docs](https://docs.google.com)  
 [Font Squirrel](https://www.fontsquirrel.com/)  
 [Google Sites](https://sites.google.com)  
+[Noun Project](https://thenounproject.com/)  
 [Edward Tufte](https://www.edwardtufte.com/bboard/q-and-a?topic_id=1)  
 [WordCounter](https://wordcounter.net/)  
 [Google Fonts](https://fonts.google.com/)  
@@ -82,10 +83,11 @@ A list of free startup deals, trials and tools
 [Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php)
 
 ### Podcasts:
-[SaaStr](https://www.saastr.com/)  
+[SaaStr](https://www.saastr.com/podcasts/)  
 [Akimbo](https://www.akimbo.link/)  
 [StartUP](https://gimletmedia.com/shows/startup)  
 [The Pitch](https://gimletmedia.com/shows/the-pitch)  
+[Joma Tech](https://www.youtube.com/playlist?list=PL0BAwa0pBqg7-SXpr9H_-89XI5i8SfJ7a)  
 [Indie Hackers](https://www.indiehackers.com/podcast)  
 [Rocketship.fm](http://rocketship.fm/)  
 [Product People](https://www.productpeople.tv/)   
@@ -94,6 +96,7 @@ A list of free startup deals, trials and tools
 [Mentor Webinars](https://mentor.com/#section-3)  
 [Ask Mr.Wonderful](https://www.youtube.com/user/KevinOLearyDotCom/featured)  
 [Tradingview Shows](https://www.tradingview.com/shows/)  
+[Dorm Room Tycoon](https://drt.fm/)  
 [The Graham Stephan Show](https://www.youtube.com/channel/UCa-ckhlKL98F8YXKQ-BALiw)  
 [How I Built This with Guy Raz](https://www.npr.org/podcasts/510313/how-i-built-this)  
 [The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/)
