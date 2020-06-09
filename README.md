@@ -336,6 +336,7 @@ A list of free startup deals, trials and tools
 [SourceForge](https://sourceforge.net/)  
 [Sublime Text](http://www.sublimetext.com/)  
 [PortableApps](https://portableapps.com)  
+[Quiver Quant](https://www.quiverquant.com/)  
 [ReadtheDocs](https://readthedocs.org/)  
 [Puppet Forge](https://forge.puppet.com/)  
 [Bootstrap Zero](https://www.bootstrapzero.com/)  
