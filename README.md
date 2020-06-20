@@ -316,6 +316,7 @@ A list of free startup deals, trials and tools
 [JSONLint](https://jsonlint.com/)  
 [Resonant](https://resonant.kitware.com/)  
 [Shields.io](https://shields.io/)  
+[Sourcerer](https://sourcerer.io)  
 [Regex101](https://regex101.com/)  
 [Templated](https://templated.co/)  
 [Layers WP](https://www.layerswp.com/)  
