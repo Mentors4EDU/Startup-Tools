@@ -97,6 +97,7 @@ A list of free startup deals, trials and tools
 [Ask Mr.Wonderful](https://www.youtube.com/user/KevinOLearyDotCom/featured)  
 [Tradingview Shows](https://www.tradingview.com/shows/)  
 [Dorm Room Tycoon](https://drt.fm/)  
+[The Hacker Noon Podcast](https://podcast.hackernoon.com/)  
 [The Graham Stephan Show](https://www.youtube.com/channel/UCa-ckhlKL98F8YXKQ-BALiw)  
 [How I Built This with Guy Raz](https://www.npr.org/podcasts/510313/how-i-built-this)  
 [The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/)
