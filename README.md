@@ -4,6 +4,7 @@ A list of free startup deals, trials and tools
 **Contents:**  
 *[Design](https://github.com/Mentors4EDU/Startup-Tools#design)*  
 *[Hosting](https://github.com/Mentors4EDU/Startup-Tools#hosting)*  
+*[Themes](https://github.com/Mentors4EDU/Startup-Tools#themes)*  
 *[Podcasts](https://github.com/Mentors4EDU/Startup-Tools#podcasts)*  
 *[Learning](https://github.com/Mentors4EDU/Startup-Tools#learning)*  
 *[Business](https://github.com/Mentors4EDU/Startup-Tools#business)*  
@@ -12,6 +13,7 @@ A list of free startup deals, trials and tools
 *[Speaking Events](https://github.com/Mentors4EDU/Startup-Tools#speaking-events)*  
 *[Co-Working Spaces](https://github.com/Mentors4EDU/Startup-Tools#co-working-spaces)*  
 ..................................
+
 ### Design:  
 [Tiff](http://tiff.herokuapp.com/)  
 [DBF](http://dbfreebies.co/)  
@@ -81,6 +83,9 @@ A list of free startup deals, trials and tools
 [Oracle for Startups](https://www.oracle.com/startup/)  
 [OVH Digital LaunchPad](https://www.ovh.com/world/startup/)  
 [Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php)
+
+### Themes:
+[Spearhead](https://wordpress.com/theme/spearhead)
 
 ### Podcasts:
 [SaaStr](https://www.saastr.com/podcasts/)  
