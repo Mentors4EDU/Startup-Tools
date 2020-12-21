@@ -11,7 +11,7 @@ A list of free startup deals, trials and tools
 7. *[Marketing](https://github.com/Mentors4EDU/Startup-Tools#marketing)*  
 8. *[Development](https://github.com/Mentors4EDU/Startup-Tools#development)*  
 9. *[Speaking Events](https://github.com/Mentors4EDU/Startup-Tools#speaking-events)*  
-10. *[Co-Working Spaces](https://github.com/Mentors4EDU/Startup-Tools#co-working-spaces)*  
+10. *[Co-Working Spaces](https://github.com/Mentors4EDU/Startup-Tools#co-working-spaces)*
 
 ..................................
 
