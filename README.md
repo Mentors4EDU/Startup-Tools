@@ -86,6 +86,7 @@ A list of free startup deals, trials and tools
 [Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php)
 
 ### Themes:
+[Charity](https://templatetoaster.com/template/charity-fundraising-blogger-template)  
 [Spearhead](https://wordpress.com/theme/spearhead)
 
 ### Podcasts:
