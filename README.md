@@ -16,14 +16,14 @@ A list of free startup deals, trials and tools
 ..................................
 
 ### Design:  
-[Tiff](http://tiff.herokuapp.com/)  
-[DBF](http://dbfreebies.co/)  
-[Pixlr](https://pixlr.com/)  
-[Prezi](https://prezi.com/)  
-[GIMP](https://www.gimp.org/)  
-[Pablo](https://pablo.buffer.com/)  
-[Mixkit](https://mixkit.co)  
-[Skitch](https://evernote.com/products/skitch)  
+[Tiff](http://tiff.herokuapp.com/): Visual typeface comparing two fonts  
+[DBF](http://dbfreebies.co/): Freebies from Dribbble and Behance   
+[Pixlr](https://pixlr.com/): Online photo editor that also has PSD capability   
+[Prezi](https://prezi.com/): A simple virtual presentation tool  
+[GIMP](https://www.gimp.org/): Open source and free graphics editor  
+[Pablo](https://pablo.buffer.com/): Design engaging social media graphics   
+[Mixkit](https://mixkit.co): Free stock video assets and templates  
+[Skitch](https://evernote.com/products/skitch): Digital annotation and diagram app for the Mac  
 [Visme](https://www.visme.co/)  
 [Canva](https://www.canva.com/)  
 [Pexels](https://www.pexels.com/)  
