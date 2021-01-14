@@ -24,9 +24,9 @@ A list of free startup deals, trials and tools
 [Pablo](https://pablo.buffer.com/): Design engaging social media graphics   
 [Mixkit](https://mixkit.co): Free stock video assets and templates  
 [Skitch](https://evernote.com/products/skitch): Digital annotation and diagram app for the Mac  
-[Visme](https://www.visme.co/)  
-[Canva](https://www.canva.com/)  
-[Pexels](https://www.pexels.com/)  
+[Visme](https://www.visme.co/): Cloud based tool for enaging infographic design  
+[Canva](https://www.canva.com/): Simple, drag and drop online graphics design tool  
+[Pexels](https://www.pexels.com/): Creator-powered stock image and video library  
 [Adobe](https://www.adobe.com/downloads.html)  
 [DaFont](https://www.dafont.com/)  
 [Screely](https://www.screely.com/)  
