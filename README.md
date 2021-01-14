@@ -30,7 +30,7 @@ A list of free startup deals, trials and tools
 [Adobe](https://www.adobe.com/downloads.html): Free  trials of premium Adobe products  
 [DaFont](https://www.dafont.com/): Download and install different submitted fonts  
 [Screely](https://www.screely.com/): Browser mockup generator for screenshots   
-[Freepik](https://www.freepik.com/)  
+[Freepik](https://www.freepik.com/): Free graphics including vectors and PSDs  
 [Blender](https://www.blender.org/)  
 [Zenpen](https://zenpen.io/)  
 [Pixeden](http://www.pixeden.com/free-design-web-resources)  
