@@ -27,9 +27,9 @@ A list of free startup deals, trials and tools
 [Visme](https://www.visme.co/): Cloud based tool for enaging infographic design  
 [Canva](https://www.canva.com/): Simple, drag and drop online graphics design tool  
 [Pexels](https://www.pexels.com/): Creator-powered stock image and video library  
-[Adobe](https://www.adobe.com/downloads.html)  
-[DaFont](https://www.dafont.com/)  
-[Screely](https://www.screely.com/)  
+[Adobe](https://www.adobe.com/downloads.html): Free  trials of premium Adobe products  
+[DaFont](https://www.dafont.com/): Download and install different submitted fonts  
+[Screely](https://www.screely.com/): Browser mockup generator for screenshots   
 [Freepik](https://www.freepik.com/)  
 [Blender](https://www.blender.org/)  
 [Zenpen](https://zenpen.io/)  
