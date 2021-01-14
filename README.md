@@ -2,16 +2,16 @@
 A list of free startup deals, trials and tools 
 
 **Contents:**  
-1. *[Design](https://github.com/Mentors4EDU/Startup-Tools#design)*  
-2. *[Hosting](https://github.com/Mentors4EDU/Startup-Tools#hosting)*  
-3. *[Themes](https://github.com/Mentors4EDU/Startup-Tools#themes)*  
-4. *[Podcasts](https://github.com/Mentors4EDU/Startup-Tools#podcasts)*  
-5. *[Learning](https://github.com/Mentors4EDU/Startup-Tools#learning)*  
-6. *[Business](https://github.com/Mentors4EDU/Startup-Tools#business)*  
-7. *[Marketing](https://github.com/Mentors4EDU/Startup-Tools#marketing)*  
-8. *[Development](https://github.com/Mentors4EDU/Startup-Tools#development)*  
-9. *[Speaking Events](https://github.com/Mentors4EDU/Startup-Tools#speaking-events)*  
-10. *[Co-Working Spaces](https://github.com/Mentors4EDU/Startup-Tools#co-working-spaces)*
+1. *[Design](https://mentors4edu.github.io/Startup-Tools#design)*  
+2. *[Hosting](https://mentors4edu.github.io/Startup-Tools#hosting)*  
+3. *[Themes](https://mentors4edu.github.io/Startup-Tools#themes)*  
+4. *[Podcasts](https://mentors4edu.github.io/Startup-Tools#podcasts)*  
+5. *[Learning](https://mentors4edu.github.io/Startup-Tools#learning)*  
+6. *[Business](https://mentors4edu.github.io/Startup-Tools#business)*  
+7. *[Marketing](https://mentors4edu.github.io/Startup-Tools#marketing)*  
+8. *[Development](https://mentors4edu.github.io/Startup-Tools#development)*  
+9. *[Speaking Events](https://mentors4edu.github.io/Startup-Tools#speaking-events)*  
+10. *[Co-Working Spaces](https://mentors4edu.github.io/Startup-Tools#co-working-spaces)*
 
 ..................................
 
