@@ -31,8 +31,8 @@ A list of free startup deals, trials and tools
 [DaFont](https://www.dafont.com/): Download and install different submitted fonts  
 [Screely](https://www.screely.com/): Browser mockup generator for screenshots   
 [Freepik](https://www.freepik.com/): Free graphics including vectors and PSDs  
-[Blender](https://www.blender.org/)  
-[Zenpen](https://zenpen.io/)  
+[Blender](https://www.blender.org/): A free open-source 3D graphic design engine  
+[Zenpen](https://zenpen.io/): A free web-based minimalist writing notepad  
 [Pixeden](http://www.pixeden.com/free-design-web-resources)  
 [Pixabay](https://pixabay.com/)  
 [LunaPic](https://www4.lunapic.com/editor/)  
