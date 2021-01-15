@@ -33,8 +33,8 @@ A list of free startup deals, trials and tools
 [Freepik](https://www.freepik.com/): Free graphics including vectors and PSDs  
 [Blender](https://www.blender.org/): A free open-source 3D graphic design engine  
 [Zenpen](https://zenpen.io/): A free web-based minimalist writing notepad  
-[Pixeden](http://www.pixeden.com/free-design-web-resources)  
-[Pixabay](https://pixabay.com/)  
+[Pixeden](http://www.pixeden.com/free-design-web-resources): Collection of some free design resources  
+[Pixabay](https://pixabay.com/): Another collection of submitted stock images  
 [LunaPic](https://www4.lunapic.com/editor/)  
 [Dribbble](https://dribbble.com/)  
 [KeyShot](https://www.keyshot.com/)  
