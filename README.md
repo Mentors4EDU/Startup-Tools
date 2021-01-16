@@ -56,7 +56,7 @@ A list of free startup deals, trials and tools
 [StockSnap](https://stocksnap.io/): Copyright-restriction-free stock photo directory  
 [Removebg](https://www.remove.bg/): Background removal generator (drag/drop)  
 [ThemeGrill](https://themegrill.com/blog/free-wordpress-themes/): List of 60+ premium looking WordPress Themes  
-[Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)  
+[Power-user](https://www.f6s.com/deals/6301/premium-license-for-free): Powerpoint, Word & Excel analytic productivity tool  
 [Magdeleine](https://magdeleine.co/browse/)  
 [OBS Studio](https://obsproject.com/)  
 [MindMeister](https://www.mindmeister.com/mind-map-pricing)  
