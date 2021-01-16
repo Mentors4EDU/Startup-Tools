@@ -46,10 +46,10 @@ A list of free startup deals, trials and tools
 [LogoHub](https://logohub.io/): Simple font-based Logo generation tool  
 [PowToon](https://www.powtoon.com/): Visual cloud-based animation tool and generator  
 [Animaker](https://www.animaker.com/): Simple drag/drop animation and video tool  
-[UnSplash](https://unsplash.com/)  
-[Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
-[Tinkercad](https://www.tinkercad.com/)  
-[Sketchfab](https://sketchfab.com/)  
+[UnSplash](https://unsplash.com/): A large directory for freely reusable images  
+[Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months): A directory for premium icons to download   
+[Tinkercad](https://www.tinkercad.com/): Drag/drop 3D modeling software for beginners  
+[Sketchfab](https://sketchfab.com/): Upload/Embed your 3D models and create a portfolio   
 [Freebbble](http://freebbble.com/)  
 [Press Kite](https://presskite.com/pricing)  
 [Lightworks](https://www.lwks.com/)  
