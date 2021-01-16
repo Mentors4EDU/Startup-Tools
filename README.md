@@ -38,9 +38,9 @@ A list of free startup deals, trials and tools
 [LunaPic](https://www4.lunapic.com/editor/): A simple and free online photo editor  
 [Dribbble](https://dribbble.com/): Directory for artists to showcase their work  
 [KeyShot](https://www.keyshot.com/): 3D rendering and visualization software (trial)   
-[Logaster](https://www.logaster.com/)  
-[Pencil2D](https://www.pencil2d.org/)  
-[Behance](https://www.behance.net/)  
+[Logaster](https://www.logaster.com/): Simplistic brand kit maker and generator  
+[Pencil2D](https://www.pencil2d.org/): Tool for making 2D "hand-drawn" animations  
+[Behance](https://www.behance.net/): Showcase your project portfolios and designs  
 [BeFunky](https://www.befunky.com/create/photo-editor/)  
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free)  
 [LogoHub](https://logohub.io/)  
