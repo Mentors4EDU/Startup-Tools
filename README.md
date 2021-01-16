@@ -53,9 +53,9 @@ A list of free startup deals, trials and tools
 [Freebbble](http://freebbble.com/): Directory of free design resources from Dribbble  
 [Press Kite](https://presskite.com/pricing): Create a press kit for your startup in minutes  
 [Lightworks](https://www.lwks.com/): Professional video editing and creation tool    
-[StockSnap](https://stocksnap.io/)  
-[Removebg](https://www.remove.bg/)  
-[ThemeGrill](https://themegrill.com/blog/free-wordpress-themes/)  
+[StockSnap](https://stocksnap.io/): Copyright-restriction-free stock photo directory  
+[Removebg](https://www.remove.bg/): Background removal generator (drag/drop)  
+[ThemeGrill](https://themegrill.com/blog/free-wordpress-themes/): List of 60+ premium looking WordPress Themes  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free)  
 [Magdeleine](https://magdeleine.co/browse/)  
 [OBS Studio](https://obsproject.com/)  
