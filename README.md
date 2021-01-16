@@ -57,8 +57,8 @@ A list of free startup deals, trials and tools
 [Removebg](https://www.remove.bg/): Background removal generator (drag/drop)  
 [ThemeGrill](https://themegrill.com/blog/free-wordpress-themes/): List of 60+ premium looking WordPress Themes  
 [Power-user](https://www.f6s.com/deals/6301/premium-license-for-free): Powerpoint, Word & Excel analytic productivity tool  
-[Magdeleine](https://magdeleine.co/browse/)  
-[OBS Studio](https://obsproject.com/)  
+[Magdeleine](https://magdeleine.co/browse/): High quality stock photography directory  
+[OBS Studio](https://obsproject.com/): Free and open source recording/streaming software 
 [MindMeister](https://www.mindmeister.com/mind-map-pricing)  
 [Google Docs](https://docs.google.com)  
 [Font Squirrel](https://www.fontsquirrel.com/)  
