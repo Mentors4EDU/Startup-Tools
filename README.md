@@ -37,7 +37,7 @@ A list of free startup deals, trials and tools
 [Pixabay](https://pixabay.com/): Another collection of submitted stock images  
 [LunaPic](https://www4.lunapic.com/editor/): A simple and free online photo editor  
 [Dribbble](https://dribbble.com/): Directory for artists to showcase their work  
-[KeyShot](https://www.keyshot.com/)  
+[KeyShot](https://www.keyshot.com/): 3D rendering and visualization software (trial)   
 [Logaster](https://www.logaster.com/)  
 [Pencil2D](https://www.pencil2d.org/)  
 [Behance](https://www.behance.net/)  
