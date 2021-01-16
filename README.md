@@ -61,7 +61,7 @@ A list of free startup deals, trials and tools
 [OBS Studio](https://obsproject.com/): Free and open source recording/streaming software  
 [MindMeister](https://www.mindmeister.com/mind-map-pricing): Online and premium mind map design tool  
 [Google Docs](https://docs.google.com): Document editor/word processor by Google  
-[Font Squirrel](https://www.fontsquirrel.com/): Directory of fonts and font identifier  
+[Font Squirrel](https://www.fontsquirrel.com/): Directory of fonts and quality font identifier  
 [Google Sites](https://sites.google.com)  
 [Noun Project](https://thenounproject.com/)  
 [Edward Tufte](https://www.edwardtufte.com/bboard/q-and-a?topic_id=1)  
