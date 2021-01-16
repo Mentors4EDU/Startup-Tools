@@ -41,8 +41,8 @@ A list of free startup deals, trials and tools
 [Logaster](https://www.logaster.com/): Simplistic brand kit maker and generator  
 [Pencil2D](https://www.pencil2d.org/): Tool for making 2D "hand-drawn" animations  
 [Behance](https://www.behance.net/): Showcase your project portfolios and designs  
-[BeFunky](https://www.befunky.com/create/photo-editor/)  
-[Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free)  
+[BeFunky](https://www.befunky.com/create/photo-editor/): Easy and simplistic social media photo editor  
+[Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free): Premium infographic and chart maker  
 [LogoHub](https://logohub.io/)  
 [PowToon](https://www.powtoon.com/)  
 [Animaker](https://www.animaker.com/)  
