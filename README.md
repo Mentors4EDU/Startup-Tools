@@ -43,7 +43,7 @@ A list of free startup deals, trials and tools
 [Behance](https://www.behance.net/): Showcase your project portfolios and designs  
 [BeFunky](https://www.befunky.com/create/photo-editor/): Easy and simplistic social media photo editor  
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free): Premium infographic and chart maker  
-[LogoHub](https://logohub.io/)  
+[LogoHub](https://logohub.io/): Simple font-based Logo generation tool  
 [PowToon](https://www.powtoon.com/)  
 [Animaker](https://www.animaker.com/)  
 [UnSplash](https://unsplash.com/)  
