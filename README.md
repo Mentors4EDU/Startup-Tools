@@ -35,8 +35,8 @@ A list of free startup deals, trials and tools
 [Zenpen](https://zenpen.io/): A free web-based minimalist writing notepad  
 [Pixeden](http://www.pixeden.com/free-design-web-resources): Collection of some free design resources  
 [Pixabay](https://pixabay.com/): Another collection of submitted stock images  
-[LunaPic](https://www4.lunapic.com/editor/)  
-[Dribbble](https://dribbble.com/)  
+[LunaPic](https://www4.lunapic.com/editor/): A simple and free online photo editor  
+[Dribbble](https://dribbble.com/): Directory for artists to showcase their work  
 [KeyShot](https://www.keyshot.com/)  
 [Logaster](https://www.logaster.com/)  
 [Pencil2D](https://www.pencil2d.org/)  
