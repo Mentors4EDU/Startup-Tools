@@ -50,7 +50,7 @@ A list of free startup deals, trials and tools
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months): A directory for premium icons to download   
 [Tinkercad](https://www.tinkercad.com/): Drag/drop 3D modeling software for beginners  
 [Sketchfab](https://sketchfab.com/): Upload/Embed your 3D models and create a portfolio   
-[Freebbble](http://freebbble.com/)  
+[Freebbble](http://freebbble.com/): Directory of free design resources from Dribbble  
 [Press Kite](https://presskite.com/pricing)  
 [Lightworks](https://www.lwks.com/)  
 [StockSnap](https://stocksnap.io/)  
