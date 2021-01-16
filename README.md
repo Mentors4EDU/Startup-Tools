@@ -51,8 +51,8 @@ A list of free startup deals, trials and tools
 [Tinkercad](https://www.tinkercad.com/): Drag/drop 3D modeling software for beginners  
 [Sketchfab](https://sketchfab.com/): Upload/Embed your 3D models and create a portfolio   
 [Freebbble](http://freebbble.com/): Directory of free design resources from Dribbble  
-[Press Kite](https://presskite.com/pricing)  
-[Lightworks](https://www.lwks.com/)  
+[Press Kite](https://presskite.com/pricing): Create a press kit for your startup in minutes  
+[Lightworks](https://www.lwks.com/): Professional video editing and creation tool    
 [StockSnap](https://stocksnap.io/)  
 [Removebg](https://www.remove.bg/)  
 [ThemeGrill](https://themegrill.com/blog/free-wordpress-themes/)  
