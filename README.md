@@ -44,8 +44,8 @@ A list of free startup deals, trials and tools
 [BeFunky](https://www.befunky.com/create/photo-editor/): Easy and simplistic social media photo editor  
 [Infogram](https://www.f6s.com/deals/6831/infogram-business-1month-free): Premium infographic and chart maker  
 [LogoHub](https://logohub.io/): Simple font-based Logo generation tool  
-[PowToon](https://www.powtoon.com/)  
-[Animaker](https://www.animaker.com/)  
+[PowToon](https://www.powtoon.com/): Visual cloud-based animation tool and generator  
+[Animaker](https://www.animaker.com/): Simple drag/drop animation and video tool  
 [UnSplash](https://unsplash.com/)  
 [Iconscout](https://www.f6s.com/deals/6679/free-icons-for-3-months)  
 [Tinkercad](https://www.tinkercad.com/)  
