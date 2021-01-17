@@ -69,7 +69,7 @@ A list of free startup deals, trials and tools
 [Google Fonts](https://fonts.google.com/): An OFL font browser and searcher by Google  
 [Jekyll Themes](http://jekyllthemes.org/):  Themes w/ jeykll that you can host on GitHub pages  
 [Logo Generator](https://www.squarespace.com/logo/): Simple and easy logo generator by Squarespace  
-[Signature Maker](https://signature-maker.net/)  
+[Signature Maker](https://signature-maker.net/): "Hand-drawn" digital signature maker/generator  
 [1001 Free Fonts](https://www.1001freefonts.com/)  
 [Onlineconvertfree](https://onlineconvertfree.com/)  
 [DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve/)  
