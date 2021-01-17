@@ -72,9 +72,9 @@ A list of free startup deals, trials and tools
 [Signature Maker](https://signature-maker.net/): "Hand-drawn" digital signature maker/generator  
 [1001 Free Fonts](https://www.1001freefonts.com/): A simple, categorized digital fonts directory  
 [Onlineconvertfree](https://onlineconvertfree.com/): A simple and easy to use file converter  
-[DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve/)  
-[Awesome Screenshot](http://www.awesomescreenshot.com/)  
-[Spin3D Mesh Converter](https://www.amazon.com/Spin3D-Free-3D-File-Converter/dp/B01DEEYSZG/ref=sr_1_17?dchild=1&keywords=3d+modeling+software&qid=1587836858&sr=8-17)
+[DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve/): Professional video effects editor w/ audio post  
+[Awesome Screenshot](http://www.awesomescreenshot.com/): Screensharing extension w/ video + screenshot  
+[Spin3D Mesh Converter](https://www.amazon.com/Spin3D-Free-3D-File-Converter/dp/B01DEEYSZG/ref=sr_1_17?dchild=1&keywords=3d+modeling+software&qid=1587836858&sr=8-17): File converter for different formats of 3D files
 
 ### Hosting:  
 [Heroku](https://signup.heroku.com/)  
