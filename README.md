@@ -63,9 +63,9 @@ A list of free startup deals, trials and tools
 [Google Docs](https://docs.google.com): Document editor/word processor by Google  
 [Font Squirrel](https://www.fontsquirrel.com/): Directory of fonts and quality font identifier  
 [Google Sites](https://sites.google.com): Simple drag/drop website creator by Google  
-[Noun Project](https://thenounproject.com/): Free icon and stock photos directory  
-[Edward Tufte](https://www.edwardtufte.com/bboard/q-and-a?topic_id=1)  
-[WordCounter](https://wordcounter.net/)  
+[Noun Project](https://thenounproject.com/): A free icon and stock photos directory  
+[Edward Tufte](https://www.edwardtufte.com/bboard/q-and-a?topic_id=1): Visual display and innovative design forum  
+[WordCounter](https://wordcounter.net/): Simple online word, lines and paragraph counter  
 [Google Fonts](https://fonts.google.com/)  
 [Jekyll Themes](http://jekyllthemes.org/)  
 [Logo Generator](https://www.squarespace.com/logo/)  
