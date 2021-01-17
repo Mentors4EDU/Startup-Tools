@@ -68,7 +68,7 @@ A list of free startup deals, trials and tools
 [WordCounter](https://wordcounter.net/): Simple online word, lines and paragraph counter  
 [Google Fonts](https://fonts.google.com/): An OFL font browser and searcher by Google  
 [Jekyll Themes](http://jekyllthemes.org/):  Themes w/ jeykll that you can host on GitHub pages  
-[Logo Generator](https://www.squarespace.com/logo/)  
+[Logo Generator](https://www.squarespace.com/logo/): Simple and easy logo generator by Squarespace  
 [Signature Maker](https://signature-maker.net/)  
 [1001 Free Fonts](https://www.1001freefonts.com/)  
 [Onlineconvertfree](https://onlineconvertfree.com/)  
