@@ -66,7 +66,7 @@ A list of free startup deals, trials and tools
 [Noun Project](https://thenounproject.com/): A free icon and stock photos directory  
 [Edward Tufte](https://www.edwardtufte.com/bboard/q-and-a?topic_id=1): Visual display and innovative design forum  
 [WordCounter](https://wordcounter.net/): Simple online word, lines and paragraph counter  
-[Google Fonts](https://fonts.google.com/)  
+[Google Fonts](https://fonts.google.com/): An OFL font browser and searcher by Google  
 [Jekyll Themes](http://jekyllthemes.org/)  
 [Logo Generator](https://www.squarespace.com/logo/)  
 [Signature Maker](https://signature-maker.net/)  
