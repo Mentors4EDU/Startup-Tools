@@ -81,9 +81,9 @@ A list of free startup deals, trials and tools
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns): Deal to get a free year of hosted DNS  
 [StackPath](https://www.stackpath.com/resources/propel-startup-program/): StackPath's edge delivery startup program  
 [Rackspace](https://www.f6s.com/rackspacestartupprogramapplication/apply): Rackspace's cloud hosting startup program  
-[Oracle for Startups](https://www.oracle.com/startup/)  
-[OVH Digital LaunchPad](https://www.ovh.com/world/startup/)  
-[Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php)
+[Oracle for Startups](https://www.oracle.com/startup/): Oracle's program for startups including discounts  
+[OVH Digital LaunchPad](https://www.ovh.com/world/startup/): The OVH startup program for cloud hosting servers  
+[Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php): Cloudways startup program for Cloudways services
 
 ### Themes:
 [Charity](https://templatetoaster.com/template/charity-fundraising-blogger-template)  
