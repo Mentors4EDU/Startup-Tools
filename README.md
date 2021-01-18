@@ -86,9 +86,9 @@ A list of free startup deals, trials and tools
 [Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php): Cloudways startup program for Cloudways services
 
 ### Themes:
-[Charity](https://templatetoaster.com/template/charity-fundraising-blogger-template)  
-[Identity](https://templatetoaster.com/template/identity-digital-marketing-and-seo-blogger-template)  
-[Spearhead](https://wordpress.com/theme/spearhead)
+[Charity](https://templatetoaster.com/template/charity-fundraising-blogger-template): A free charity template for Blogger  
+[Identity](https://templatetoaster.com/template/identity-digital-marketing-and-seo-blogger-template): A free SEO agency Blogger template  
+[Spearhead](https://wordpress.com/theme/spearhead): A minimalist podcasts theme for Wordpress
 
 ### Podcasts:
 [SaaStr](https://www.saastr.com/podcasts/)  
