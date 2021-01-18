@@ -77,8 +77,8 @@ A list of free startup deals, trials and tools
 [Spin3D Mesh Converter](https://www.amazon.com/Spin3D-Free-3D-File-Converter/dp/B01DEEYSZG/ref=sr_1_17?dchild=1&keywords=3d+modeling+software&qid=1587836858&sr=8-17): File converter for different formats of 3D files
 
 ### Hosting:  
-[Heroku](https://signup.heroku.com/)  
-[DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns)  
+[Heroku](https://signup.heroku.com/): An app hosting and deployment platform  
+[DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns): Deal to get a free year of hosted DNS  
 [StackPath](https://www.stackpath.com/resources/propel-startup-program/)  
 [Rackspace](https://www.f6s.com/rackspacestartupprogramapplication/apply)  
 [Oracle for Startups](https://www.oracle.com/startup/)  
