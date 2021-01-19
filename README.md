@@ -91,8 +91,8 @@ A list of free startup deals, trials and tools
 [Spearhead](https://wordpress.com/theme/spearhead): A minimalist podcasts theme for Wordpress
 
 ### Podcasts:
-[SaaStr](https://www.saastr.com/podcasts/)  
-[Akimbo](https://www.akimbo.link/)  
+[SaaStr](https://www.saastr.com/podcasts/): A series of business and startup podcasts on SaaStr  
+[Akimbo](https://www.akimbo.link/): Akimbo is a captivating podcast by Seth Godin  
 [StartUP](https://gimletmedia.com/shows/startup)  
 [The Pitch](https://gimletmedia.com/shows/the-pitch)  
 [Joma Tech](https://www.youtube.com/playlist?list=PL0BAwa0pBqg7-SXpr9H_-89XI5i8SfJ7a)  
