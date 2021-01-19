@@ -96,7 +96,7 @@ A list of free startup deals, trials and tools
 [StartUP](https://gimletmedia.com/shows/startup): A talk show that is about starting a business  
 [The Pitch](https://gimletmedia.com/shows/the-pitch): Listen to entreprenuers actually pitch to investors  
 [Joma Tech](https://www.youtube.com/playlist?list=PL0BAwa0pBqg7-SXpr9H_-89XI5i8SfJ7a)  
-[Indie Hackers](https://www.indiehackers.com/podcast)  
+[Indie Hackers](https://www.indiehackers.com/podcast): Podcasts network by the Indie Hackers website  
 [Rocketship.fm](http://rocketship.fm/)  
 [Product People](https://www.productpeople.tv/)   
 [Humbled Trader](https://humbledtrader.com/latest-videos)  
