@@ -93,8 +93,8 @@ A list of free startup deals, trials and tools
 ### Podcasts:
 [SaaStr](https://www.saastr.com/podcasts/): A series of business and startup podcasts on SaaStr  
 [Akimbo](https://www.akimbo.link/): Akimbo is a captivating podcast by Seth Godin  
-[StartUP](https://gimletmedia.com/shows/startup)  
-[The Pitch](https://gimletmedia.com/shows/the-pitch)  
+[StartUP](https://gimletmedia.com/shows/startup): A talk show that is about starting a business  
+[The Pitch](https://gimletmedia.com/shows/the-pitch): Listen to entreprenuers actually pitch to investors  
 [Joma Tech](https://www.youtube.com/playlist?list=PL0BAwa0pBqg7-SXpr9H_-89XI5i8SfJ7a)  
 [Indie Hackers](https://www.indiehackers.com/podcast)  
 [Rocketship.fm](http://rocketship.fm/)  
