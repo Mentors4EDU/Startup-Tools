@@ -97,8 +97,8 @@ A list of free startup deals, trials and tools
 [The Pitch](https://gimletmedia.com/shows/the-pitch): Listen to entreprenuers actually pitch to investors  
 [Joma Tech](https://www.youtube.com/playlist?list=PL0BAwa0pBqg7-SXpr9H_-89XI5i8SfJ7a): Joma's interview series w/ devs or tech entreprenuers   
 [Indie Hackers](https://www.indiehackers.com/podcast): Podcasts network by the Indie Hackers website  
-[Rocketship.fm](http://rocketship.fm/)  
-[Product People](https://www.productpeople.tv/)   
+[Rocketship.fm](http://rocketship.fm/): Product management and growth related podcast  
+[Product People](https://www.productpeople.tv/): A podcast on the people behind great products   
 [Humbled Trader](https://humbledtrader.com/latest-videos)  
 [Masters of Scale](https://mastersofscale.com/)  
 [Mentor Webinars](https://mentor.com/#section-3)  
