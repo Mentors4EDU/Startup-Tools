@@ -99,7 +99,7 @@ A list of free startup deals, trials and tools
 [Indie Hackers](https://www.indiehackers.com/podcast): Podcasts network by the Indie Hackers website  
 [Rocketship.fm](http://rocketship.fm/): Product management and growth related podcast  
 [Product People](https://www.productpeople.tv/): A podcast on the people behind great products   
-[Humbled Trader](https://humbledtrader.com/latest-videos)  
+[Humbled Trader](https://humbledtrader.com/latest-videos): A series centered around somebody's daytrading joruney  
 [Masters of Scale](https://mastersofscale.com/)  
 [Mentor Webinars](https://mentor.com/#section-3)  
 [Ask Mr.Wonderful](https://www.youtube.com/user/KevinOLearyDotCom/featured)  
