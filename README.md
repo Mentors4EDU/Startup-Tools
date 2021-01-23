@@ -101,9 +101,9 @@ A list of free startup deals, trials and tools
 [Product People](https://www.productpeople.tv/): A podcast on the people behind great products   
 [Humbled Trader](https://humbledtrader.com/latest-videos): A series centered around somebody's daytrading joruney  
 [Masters of Scale](https://mastersofscale.com/): Some entrepreneurs and successful founders discuss scale  
-[Mentor Webinars](https://mentor.com/#section-3)  
-[Ask Mr.Wonderful](https://www.youtube.com/user/KevinOLearyDotCom/featured)  
-[Tradingview Shows](https://www.tradingview.com/shows/)  
+[Mentor Webinars](https://mentor.com/#section-3): Electric embedding, design and manufacturing webinars  
+[Ask Mr.Wonderful](https://www.youtube.com/user/KevinOLearyDotCom/featured): Kevin O'Leary dropping what he considers hard truths   
+[Tradingview Shows](https://www.tradingview.com/shows/): Different shows related to finance, investing and trading  
 [Dorm Room Tycoon](https://drt.fm/)  
 [The Hacker Noon Podcast](https://podcast.hackernoon.com/)  
 [The Graham Stephan Show](https://www.youtube.com/channel/UCa-ckhlKL98F8YXKQ-BALiw)  
