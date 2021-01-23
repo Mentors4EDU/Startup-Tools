@@ -100,7 +100,7 @@ A list of free startup deals, trials and tools
 [Rocketship.fm](http://rocketship.fm/): Product management and growth related podcast  
 [Product People](https://www.productpeople.tv/): A podcast on the people behind great products   
 [Humbled Trader](https://humbledtrader.com/latest-videos): A series centered around somebody's daytrading joruney  
-[Masters of Scale](https://mastersofscale.com/)  
+[Masters of Scale](https://mastersofscale.com/): Some entrepreneurs and successful founders discuss scale  
 [Mentor Webinars](https://mentor.com/#section-3)  
 [Ask Mr.Wonderful](https://www.youtube.com/user/KevinOLearyDotCom/featured)  
 [Tradingview Shows](https://www.tradingview.com/shows/)  
