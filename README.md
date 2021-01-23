@@ -104,8 +104,8 @@ A list of free startup deals, trials and tools
 [Mentor Webinars](https://mentor.com/#section-3): Electric embedding, design and manufacturing webinars  
 [Ask Mr.Wonderful](https://www.youtube.com/user/KevinOLearyDotCom/featured): Kevin O'Leary dropping what he considers hard truths   
 [Tradingview Shows](https://www.tradingview.com/shows/): Different shows related to finance, investing and trading  
-[Dorm Room Tycoon](https://drt.fm/)  
-[The Hacker Noon Podcast](https://podcast.hackernoon.com/)  
+[Dorm Room Tycoon](https://drt.fm/): Interviews with a series of different startup founders  
+[The Hacker Noon Podcast](https://podcast.hackernoon.com/): Curated technology podcast by Hackernoon's Editorial Team  
 [The Graham Stephan Show](https://www.youtube.com/channel/UCa-ckhlKL98F8YXKQ-BALiw)  
 [How I Built This with Guy Raz](https://www.npr.org/podcasts/510313/how-i-built-this)  
 [The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/)
