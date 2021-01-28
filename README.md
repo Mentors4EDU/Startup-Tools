@@ -111,8 +111,8 @@ A list of free startup deals, trials and tools
 [The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/): A marketing & business podcast w/ Gary Vaynerchuck
 
 ### Learning:  
-[Tuts+](https://tutsplus.com/courses#price=free)  
-[Code](https://code.org/)  
+[Tuts+](https://tutsplus.com/courses#price=free): Free online courses available on Envato  
+[Code](https://code.org/): Gamified and free easy coding activities  
 [Packt](https://www.packtpub.com/free-learning)  
 [Lynda](https://www.lynda.com/home/freeTraining.aspx)  
 [Alison](https://alison.com/)  
