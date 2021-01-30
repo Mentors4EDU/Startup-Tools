@@ -120,7 +120,7 @@ A list of free startup deals, trials and tools
 [Guru99](https://www.guru99.com/): Categorized library of free software tutorials  
 [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245): A Udacity free course on building a startup  
 [Scrimba](https://scrimba.com/allcourses): Basic web development and CSS tutorials  
-[Duolingo](https://www.duolingo.com/)  
+[Duolingo](https://www.duolingo.com/): Learn a language for free w/ gamified lessons  
 [Leanpub](https://leanpub.com/)  
 [Pathmind](https://pathmind.com/wiki/)  
 [OneHack](https://onehack.us/)  
