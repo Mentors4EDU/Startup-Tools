@@ -123,8 +123,8 @@ A list of free startup deals, trials and tools
 [Duolingo](https://www.duolingo.com/): Learn a language for free w/ gamified lessons  
 [Leanpub](https://leanpub.com/): Simple self publishing and fundraising platform  
 [Pathmind](https://pathmind.com/wiki/): A wiki on artificial intelligence concepts  
-[OneHack](https://onehack.us/)  
-[Big Think](https://bigthink.com/videos/)  
+[OneHack](https://onehack.us/): Free tutorials and guides forums on many topics  
+[Big Think](https://bigthink.com/videos/): Curated videos and talks on big topics   
 [Slidenerd](https://www.youtube.com/slidenerd/videos)  
 [HarvardX](https://www.edx.org/school/harvardx)  
 [EdPresso](https://www.educative.io/edpresso)  
