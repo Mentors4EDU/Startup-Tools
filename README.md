@@ -116,7 +116,7 @@ A list of free startup deals, trials and tools
 [Packt](https://www.packtpub.com/free-learning): Premium books and videos for developers  
 [Lynda](https://www.lynda.com/home/freeTraining.aspx): Educational courses taught by Linkedin users  
 [Alison](https://alison.com/): Free e-learning w/ paid option of certification  
-[Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity): Online courses taught by individuals  
+[Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity): Online courses that are taught by individuals  
 [Guru99](https://www.guru99.com/)  
 [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)  
 [Scrimba](https://scrimba.com/allcourses)  
