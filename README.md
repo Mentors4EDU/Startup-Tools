@@ -113,8 +113,8 @@ A list of free startup deals, trials and tools
 ### Learning:  
 [Tuts+](https://tutsplus.com/courses#price=free): Free online courses available on Envato  
 [Code](https://code.org/): Gamified and free easy coding activities  
-[Packt](https://www.packtpub.com/free-learning)  
-[Lynda](https://www.lynda.com/home/freeTraining.aspx)  
+[Packt](https://www.packtpub.com/free-learning): Premium books and videos for developers  
+[Lynda](https://www.lynda.com/home/freeTraining.aspx): Educational courses taught by Linkedin users 
 [Alison](https://alison.com/)  
 [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity)  
 [Guru99](https://www.guru99.com/)  
