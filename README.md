@@ -121,8 +121,8 @@ A list of free startup deals, trials and tools
 [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245): A Udacity free course on building a startup  
 [Scrimba](https://scrimba.com/allcourses): Basic web development and CSS tutorials  
 [Duolingo](https://www.duolingo.com/): Learn a language for free w/ gamified lessons  
-[Leanpub](https://leanpub.com/)  
-[Pathmind](https://pathmind.com/wiki/)  
+[Leanpub](https://leanpub.com/): Simple self publishing and fundraising platform  
+[Pathmind](https://pathmind.com/wiki/): A wiki on artificial intelligence concepts  
 [OneHack](https://onehack.us/)  
 [Big Think](https://bigthink.com/videos/)  
 [Slidenerd](https://www.youtube.com/slidenerd/videos)  
