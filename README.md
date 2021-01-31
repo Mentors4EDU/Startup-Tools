@@ -128,11 +128,11 @@ A list of free startup deals, trials and tools
 [Slidenerd](https://www.youtube.com/slidenerd/videos): Coding tutorials and lessons on YouTube  
 [HarvardX](https://www.edx.org/school/harvardx): Free MOOC courses from Harvard via EDx  
 [EdPresso](https://www.educative.io/edpresso): Concise and short dev articles or tutorials  
-[Skillshare](https://www.skillshare.com/business)  
-[Academia](academia.edu)  
-[Ajay Tech](https://ajaytech.co/)  
-[DataCamp](https://www.datacamp.com/users/sign_up?redirect=%2Fpricing)  
-[Trevor Fox](https://trevorfox.com)  
+[Skillshare](https://www.skillshare.com/business): Find tutorials that are taught by real people  
+[Academia](academia.edu): Share your research papers and preprints online  
+[Ajay Tech](https://ajaytech.co/): Machine learning and development courses series  
+[DataCamp](https://www.datacamp.com/users/sign_up?redirect=%2Fpricing): Learn to grow your data skills online  
+[Trevor Fox](https://trevorfox.com): Blog based off of data and analytics tools  
 [MOOC.org](https://www.mooc.org/)  
 [W3Schools](https://www.w3schools.com/)  
 [OpenLearn](https://www.open.edu/openlearn/free-courses)  
