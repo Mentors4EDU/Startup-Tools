@@ -136,8 +136,8 @@ A list of free startup deals, trials and tools
 [MOOC.org](https://www.mooc.org/): By EdX, regarding massive open online courses   
 [W3Schools](https://www.w3schools.com/): Basic programming exercises including HTML  
 [OpenLearn](https://www.open.edu/openlearn/free-courses): Free online courses by the Open University  
-[GCFGlobal](https://edu.gcfglobal.org/en/)  
-[FutureLearn](https://www.futurelearn.com/courses)  
+[GCFGlobal](https://edu.gcfglobal.org/en/): Learn different soft skills online for free  
+[FutureLearn](https://www.futurelearn.com/courses): Curated collection of free online courses  
 [CreativeLive](https://www.creativelive.com/onair?via=site-header_0)  
 [Instructables](https://www.instructables.com/classes/)  
 [Codecademy](https://www.codecademy.com/)  
