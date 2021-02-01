@@ -134,8 +134,8 @@ A list of free startup deals, trials and tools
 [DataCamp](https://www.datacamp.com/users/sign_up?redirect=%2Fpricing): Learn to grow your data skills online  
 [Trevor Fox](https://trevorfox.com): Blog based off of data and analytics tools  
 [MOOC.org](https://www.mooc.org/): By EdX, regarding massive open online courses   
-[W3Schools](https://www.w3schools.com/)  
-[OpenLearn](https://www.open.edu/openlearn/free-courses)  
+[W3Schools](https://www.w3schools.com/): Basic programming exercises including HTML  
+[OpenLearn](https://www.open.edu/openlearn/free-courses): Free courses by the Open University  
 [GCFGlobal](https://edu.gcfglobal.org/en/)  
 [FutureLearn](https://www.futurelearn.com/courses)  
 [CreativeLive](https://www.creativelive.com/onair?via=site-header_0)  
