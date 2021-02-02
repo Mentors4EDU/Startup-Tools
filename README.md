@@ -138,8 +138,8 @@ A list of free startup deals, trials and tools
 [OpenLearn](https://www.open.edu/openlearn/free-courses): Free online courses by the Open University  
 [GCFGlobal](https://edu.gcfglobal.org/en/): Learn different soft skills online for free  
 [FutureLearn](https://www.futurelearn.com/courses): Curated collection of free online courses  
-[CreativeLive](https://www.creativelive.com/onair?via=site-header_0)  
-[Instructables](https://www.instructables.com/classes/)  
+[CreativeLive](https://www.creativelive.com/onair?via=site-header_0): Free live and on-air tutorial events  
+[Instructables](https://www.instructables.com/classes/): Free DIY and tutorial classes via Instructables  
 [Codecademy](https://www.codecademy.com/)  
 [TeacherTube](https://www.teachertube.com/)  
 [Learn Python](https://www.learnpython.org/)  
