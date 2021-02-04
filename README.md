@@ -140,8 +140,8 @@ A list of free startup deals, trials and tools
 [FutureLearn](https://www.futurelearn.com/courses): Curated collection of free online courses  
 [CreativeLive](https://www.creativelive.com/onair?via=site-header_0): Free live and on-air tutorial events  
 [Instructables](https://www.instructables.com/classes/): Free DIY and tutorial classes via Instructables  
-[Codecademy](https://www.codecademy.com/)  
-[TeacherTube](https://www.teachertube.com/)  
+[Codecademy](https://www.codecademy.com/): Gamified learn to code courses and tutorials  
+[TeacherTube](https://www.teachertube.com/): Educational videos and content directory  
 [Learn Python](https://www.learnpython.org/)  
 [Tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm)  
 [ResearchGate](https://www.researchgate.net/)  
