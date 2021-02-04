@@ -142,9 +142,9 @@ A list of free startup deals, trials and tools
 [Instructables](https://www.instructables.com/classes/): Free DIY and tutorial classes via Instructables  
 [Codecademy](https://www.codecademy.com/): Gamified learn to code courses and tutorials  
 [TeacherTube](https://www.teachertube.com/): Educational videos and content directory  
-[Learn Python](https://www.learnpython.org/)  
-[Tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm)  
-[ResearchGate](https://www.researchgate.net/)  
+[Learn Python](https://www.learnpython.org/): Interactive Python development tutorials series  
+[Tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm): Technical courses and development tutorials  
+[ResearchGate](https://www.researchgate.net/): Open research repository for your papers  
 [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA)  
 [Edge Academy](https://www.stackpath.com/edge-academy/)  
 [Khan Academy](https://www.khanacademy.org/computing/computer-programming)  
