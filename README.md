@@ -145,7 +145,7 @@ A list of free startup deals, trials and tools
 [Learn Python](https://www.learnpython.org/): Interactive Python development tutorials series  
 [Tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm): Technical courses and development tutorials  
 [ResearchGate](https://www.researchgate.net/): Open research repository for your papers  
-[AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA)  
+[AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA): Quick entertaining science videos   
 [Edge Academy](https://www.stackpath.com/edge-academy/)  
 [Khan Academy](https://www.khanacademy.org/computing/computer-programming)  
 [TheNewBoston](https://www.youtube.com/user/thenewboston/videos)  
