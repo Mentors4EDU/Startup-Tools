@@ -150,8 +150,8 @@ A list of free startup deals, trials and tools
 [Khan Academy](https://www.khanacademy.org/computing/computer-programming): Learn programming via Khan Academy  
 [TheNewBoston](https://www.youtube.com/user/thenewboston/videos): Simple programming tutorials on YouTube   
 [Hillsdale Online](https://info.hillsdale.edu/online-learning-2020): Free online "courses" or MOOCs by Hillsdale  
-[FreeCodeCamp](https://www.freecodecamp.org/)  
-[Project Gutenberg](https://www.gutenberg.org/)  
+[FreeCodeCamp](https://www.freecodecamp.org/): Learn to code for free + blog  
+[Project Gutenberg](https://www.gutenberg.org/): Cataloged library of free eBooks  
 [Facebook Blueprint](https://www.facebook.com/business/learn?ref=ens_rdr)  
 [GitHub Learning Lab](https://lab.github.com/)  
 [Scientific Animations](https://www.scientificanimations.com/)  
