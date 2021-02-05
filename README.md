@@ -150,11 +150,11 @@ A list of free startup deals, trials and tools
 [Khan Academy](https://www.khanacademy.org/computing/computer-programming): Learn programming via Khan Academy  
 [TheNewBoston](https://www.youtube.com/user/thenewboston/videos): Simple programming tutorials on YouTube   
 [Hillsdale Online](https://info.hillsdale.edu/online-learning-2020): Free online "courses" or MOOCs by Hillsdale  
-[FreeCodeCamp](https://www.freecodecamp.org/): Learn to code for free + blog  
+[FreeCodeCamp](https://www.freecodecamp.org/): Free coding courses w/ certification option  
 [Project Gutenberg](https://www.gutenberg.org/): Cataloged library of free eBooks  
-[Facebook Blueprint](https://www.facebook.com/business/learn?ref=ens_rdr)  
-[GitHub Learning Lab](https://lab.github.com/)  
-[Scientific Animations](https://www.scientificanimations.com/)  
+[Facebook Blueprint](https://www.facebook.com/business/learn?ref=ens_rdr): Online training for FB ads and marketing  
+[GitHub Learning Lab](https://lab.github.com/): Different mini learning labs on GitHub  
+[Scientific Animations](https://www.scientificanimations.com/): Animations for different scientific concepts  
 [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)  
 [Open Source niversity](https://github.com/ossu)  
 [Peter Theil Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)  
