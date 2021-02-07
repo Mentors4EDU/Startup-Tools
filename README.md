@@ -155,15 +155,15 @@ A list of free startup deals, trials and tools
 [Facebook Blueprint](https://www.facebook.com/business/learn?ref=ens_rdr): Online training for FB ads and marketing  
 [GitHub Learning Lab](https://lab.github.com/): Different mini learning labs on GitHub  
 [Scientific Animations](https://www.scientificanimations.com/): Animations for different scientific concepts  
-[Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)  
-[Open Source niversity](https://github.com/ossu)  
-[Peter Theil Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)  
-[Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/videos)  
-[GrandCircus Intro Workshops](https://www.grandcircus.co/free-coding-classes/)
+[Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing): Digital marketing courses from Google  
+[Open Source niversity](https://github.com/ossu): Open source pathes to self education  
+[Peter Thiel Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes): Startup notes/essay for Peter Thiel  
+[Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/videos): Quick beginner dev tutorials on YouTube  
+[GrandCircus Intro Workshops](https://www.grandcircus.co/free-coding-classes/): Intro coding classes and workshops
 
 ### Business:
-[a5](http://a5.gg/)  
-[Due](https://due.com/)  
+[a5](http://a5.gg/): Productive notes tool on your browser
+[Due](https://due.com/): Payments processing and invoicing application  
 [Join](https://www.join.me/)  
 [Kiss](https://500.co/kiss/)  
 [Miro](https://miro.com/templates/lean-canvas/)  
