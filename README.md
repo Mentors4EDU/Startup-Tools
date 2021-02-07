@@ -162,7 +162,7 @@ A list of free startup deals, trials and tools
 [GrandCircus Intro Workshops](https://www.grandcircus.co/free-coding-classes/): Intro coding classes and workshops
 
 ### Business:
-[a5](http://a5.gg/): Productive notes tool on your browser
+[a5](http://a5.gg/): Productive notes tool on your browser  
 [Due](https://due.com/): Payments processing and invoicing application  
 [Join](https://www.join.me/)  
 [Kiss](https://500.co/kiss/)  
