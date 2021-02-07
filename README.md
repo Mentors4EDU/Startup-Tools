@@ -167,11 +167,11 @@ A list of free startup deals, trials and tools
 [Join](https://www.join.me/): Online meetings and conferencing tool  
 [Kiss](https://500.co/kiss/): Simple equity financing legal documents   
 [Miro](https://miro.com/templates/lean-canvas/): Canvas template for the Lean Startup Method  
-[Gust](https://gust.com/)  
-[Wave](https://www.waveapps.com/)  
-[nTask](ntaskmanager.com/)  
-[Skype](https://www.skype.com/en/)  
-[Pidgin](https://pidgin.im/)  
+[Gust](https://gust.com/): Simple startup networking directory  
+[Wave](https://www.waveapps.com/): Financial software for small businesses  
+[nTask](ntaskmanager.com/): Task management for teams and individuals  
+[Skype](https://www.skype.com/en/): Chat and video communications tool  
+[Pidgin](https://pidgin.im/): Chat through multiple accocunts ad-free  
 [Shake](https://web.shakelaw.com/)  
 [Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan)  
 [Hunter](https://hunter.io/pricing)  
