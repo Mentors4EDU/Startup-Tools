@@ -164,9 +164,9 @@ A list of free startup deals, trials and tools
 ### Business:
 [a5](http://a5.gg/): Productive notes tool on your browser  
 [Due](https://due.com/): Payments processing and invoicing application  
-[Join](https://www.join.me/)  
-[Kiss](https://500.co/kiss/)  
-[Miro](https://miro.com/templates/lean-canvas/)  
+[Join](https://www.join.me/): Online meetings and conferencing tool  
+[Kiss](https://500.co/kiss/): Simple equity financing legal documents   
+[Miro](https://miro.com/templates/lean-canvas/): Canvas template for the Lean Startup Method  
 [Gust](https://gust.com/)  
 [Wave](https://www.waveapps.com/)  
 [nTask](ntaskmanager.com/)  
