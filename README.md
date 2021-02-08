@@ -172,8 +172,8 @@ A list of free startup deals, trials and tools
 [nTask](ntaskmanager.com/): Task management for teams and individuals  
 [Skype](https://www.skype.com/en/): Chat and video communications tool  
 [Pidgin](https://pidgin.im/): Chat through multiple accocunts ad-free  
-[Shake](https://web.shakelaw.com/)  
-[Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan)  
+[Shake](https://web.shakelaw.com/): Create, sign, and send legal documents  
+[Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan): Access to a premium project management software  
 [Hunter](https://hunter.io/pricing)  
 [Javelin](https://www.javelin.com/beta)  
 [Doodle](https://doodle.com/premium/business/info)  
