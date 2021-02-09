@@ -182,8 +182,8 @@ A list of free startup deals, trials and tools
 [Lifesize](https://www.lifesize.com/): Meeting room video conferencing system  
 [Germ.io](https://germ.io/): Brainstorming and planning project boards  
 [Docracy](https://www.docracy.com/): Open legal documents repository/directory  
-[Dropbox](https://www.dropbox.com/?landing=dbv2)  
-[Invoicely](http://invoiceto.me/)  
+[Dropbox](https://www.dropbox.com/?landing=dbv2): Online digital storage for documents  
+[Invoicely](http://invoiceto.me/): Online invoicing system for small businesses  
 [Evernote](https://evernote.com/basic)  
 [HubSpot](https://www.hubspot.com/startups)  
 [Slimvoice](https://slimvoice.co/)  
