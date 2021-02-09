@@ -178,7 +178,7 @@ A list of free startup deals, trials and tools
 [Javelin](https://www.javelin.com/beta): Lean startup development and management software  
 [Doodle](https://doodle.com/premium/business/info): Online meeting tool for scheduling  
 [Webex](https://www.webex.com/): Video conferencing tool (Previously Cisco Spark?)  
-[ClickUp](https://clickup.com/)  
+[ClickUp](https://clickup.com/): Color-coded todo board and management software  
 [Lifesize](https://www.lifesize.com/)  
 [Germ.io](https://germ.io/)  
 [Docracy](https://www.docracy.com/)  
