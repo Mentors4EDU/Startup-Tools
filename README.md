@@ -174,10 +174,10 @@ A list of free startup deals, trials and tools
 [Pidgin](https://pidgin.im/): Chat through multiple accocunts ad-free  
 [Shake](https://web.shakelaw.com/): Create, sign, and send legal documents  
 [Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan): Access to a premium project management software  
-[Hunter](https://hunter.io/pricing)  
-[Javelin](https://www.javelin.com/beta)  
-[Doodle](https://doodle.com/premium/business/info)  
-[Webex](https://www.webex.com/)  
+[Hunter](https://hunter.io/pricing): Premium mail address indexing tool  
+[Javelin](https://www.javelin.com/beta): Lean startup development and management software  
+[Doodle](https://doodle.com/premium/business/info): Online meeting tool for scheduling  
+[Webex](https://www.webex.com/): Video conferencing tool (Previously Cisco Spark?)  
 [ClickUp](https://clickup.com/)  
 [Lifesize](https://www.lifesize.com/)  
 [Germ.io](https://germ.io/)  
