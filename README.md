@@ -179,9 +179,9 @@ A list of free startup deals, trials and tools
 [Doodle](https://doodle.com/premium/business/info): Online meeting tool for scheduling  
 [Webex](https://www.webex.com/): Video conferencing tool (Previously Cisco Spark?)  
 [ClickUp](https://clickup.com/): Color-coded todo board and management software  
-[Lifesize](https://www.lifesize.com/)  
-[Germ.io](https://germ.io/)  
-[Docracy](https://www.docracy.com/)  
+[Lifesize](https://www.lifesize.com/): Meeting room video conferencing system  
+[Germ.io](https://germ.io/): Brainstorming and planning project boards  
+[Docracy](https://www.docracy.com/): Open legal documents repository/directory  
 [DropBox](https://www.dropbox.com/?landing=dbv2)  
 [Invoicely](http://invoiceto.me/)  
 [Evernote](https://evernote.com/basic)  
