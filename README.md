@@ -184,8 +184,8 @@ A list of free startup deals, trials and tools
 [Docracy](https://www.docracy.com/): Open legal documents repository/directory  
 [Dropbox](https://www.dropbox.com/?landing=dbv2): Online digital storage for documents  
 [Invoicely](http://invoiceto.me/): Online invoicing system for small businesses  
-[Evernote](https://evernote.com/basic)  
-[HubSpot](https://www.hubspot.com/startups)  
+[Evernote](https://evernote.com/basic): Well designed and simple note taking tool  
+[HubSpot](https://www.hubspot.com/startups): Startup-friendly growth platform for marketing  
 [Slimvoice](https://slimvoice.co/)  
 [Invoice.to](https://invoice.to/)  
 [Wunderlist](https://www.wunderlist.com/)  
