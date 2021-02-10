@@ -186,8 +186,8 @@ A list of free startup deals, trials and tools
 [Invoicely](http://invoiceto.me/): Online invoicing system for small businesses  
 [Evernote](https://evernote.com/basic): Well designed and simple note taking tool  
 [HubSpot](https://www.hubspot.com/startups): Startup-friendly growth platform for marketing  
-[Slimvoice](https://slimvoice.co/)  
-[Invoice.to](https://invoice.to/)  
+[Slimvoice](https://slimvoice.co/): Lightweight and simple invoicing app  
+[Invoice.to](https://invoice.to/): Send company and freelance invoices  
 [Wunderlist](https://www.wunderlist.com/)  
 [Canvanizer](https://canvanizer.com/new/lean-canvas)  
 [Foundersuite](https://foundersuite.com/)  
