@@ -197,10 +197,10 @@ A list of free startup deals, trials and tools
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm): Dealflow CRM for startups and VC firms
 
 ### Marketing:  
-[Kit](https://kit.co)  
-[Bitly](https://bitly.com/)  
-[Moz](https://moz.com/free-seo-tools)  
-[K.im](https://k.im/)  
+[Kit](https://kit.co): Create a kit "Share products" for creators  
+[Bitly](https://bitly.com/): Simplistic URL shortner w/ analytics  
+[Moz](https://moz.com/free-seo-tools): Different SEO tools and link explorers  
+[K.im](https://k.im/): Content monetization system for digital content  
 [Zest](https://zest.is/)  
 [VWO](https://vwo.com/pricing/)  
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation)  
