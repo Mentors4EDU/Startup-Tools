@@ -188,13 +188,13 @@ A list of free startup deals, trials and tools
 [HubSpot](https://www.hubspot.com/startups): Startup-friendly growth platform for marketing  
 [Slimvoice](https://slimvoice.co/): Lightweight and simple invoicing app  
 [Invoice.to](https://invoice.to/): Send company and freelance invoices  
-[Wunderlist](https://www.wunderlist.com/)  
-[Canvanizer](https://canvanizer.com/new/lean-canvas)  
-[Foundersuite](https://foundersuite.com/)  
-[Lean Canvas](https://leanstack.com/leancanvas)  
-[Neos Chronos](https://neoschronos.com/download/lean-canvas/docx/)  
-[StartupResources](https://startupresources.io/)  
-[F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm)
+[Wunderlist](https://www.wunderlist.com/): Task management application on the cloud  
+[Canvanizer](https://canvanizer.com/new/lean-canvas): Lean startup business model canvas  
+[Foundersuite](https://foundersuite.com/): Fundraising and venture capital CRM/Database  
+[Lean Canvas](https://leanstack.com/leancanvas): 1 Page busines models, lean startup canvas  
+[Neos Chronos](https://neoschronos.com/download/lean-canvas/docx/): Leanr startup canvas template in Word  
+[StartupResources](https://startupresources.io/): Weekly curated email and list of startup tools  
+[F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm): Dealflow CRM for startups and VC firms
 
 ### Marketing:  
 [Kit](https://kit.co)  
