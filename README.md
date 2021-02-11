@@ -208,8 +208,8 @@ A list of free startup deals, trials and tools
 [Trello](https://trello.com/): Organized project and tasks boards  
 [Sumo](https://sumo.com/): A free email capaturing tool for marketers  
 [Buffer](https://buffer.com/):Social media management and engagement tool  
-[Sniply](https://snip.ly/)  
-[Vimeo](https://vimeo.com/)  
+[Sniply](https://snip.ly/): A simple call to action URL shortener  
+[Vimeo](https://vimeo.com/): Premium video management tools for HQ videos  
 [AYTM](https://aytm.com/)  
 [Signal](https://signal.org/en/)  
 [Asana](https://asana.com/)  
