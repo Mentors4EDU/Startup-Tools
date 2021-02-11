@@ -204,9 +204,9 @@ A list of free startup deals, trials and tools
 [Zest](https://zest.is/): Keyboard shortcut for cloudbased applications  
 [VWO](https://vwo.com/pricing/): Experiment w/ conversions and A/B testing  
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation): 1 Year of free email marketing automation  
-[Slack](https://slack.com/)  
-[Trello](https://trello.com/)  
-[Sumo](https://sumo.com/)  
+[Slack](https://slack.com/): Messaging app for project teams and boards  
+[Trello](https://trello.com/): Organized project and tasks boards  
+[Sumo](https://sumo.com/): A free email capaturing tool for marketers  
 [Buffer](https://buffer.com/)  
 [Sniply](https://snip.ly/)  
 [Vimeo](https://vimeo.com/)  
