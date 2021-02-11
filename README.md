@@ -201,9 +201,9 @@ A list of free startup deals, trials and tools
 [Bitly](https://bitly.com/): Simplistic URL shortner w/ analytics  
 [Moz](https://moz.com/free-seo-tools): Different SEO tools and link explorers  
 [K.im](https://k.im/): Content monetization system for digital content  
-[Zest](https://zest.is/)  
-[VWO](https://vwo.com/pricing/)  
-[E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation)  
+[Zest](https://zest.is/): Keyboard shortcut for cloudbased applications  
+[VWO](https://vwo.com/pricing/): Experiment w/ conversions and A/B testing  
+[E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation): 1 Year of free email marketing automation  
 [Slack](https://slack.com/)  
 [Trello](https://trello.com/)  
 [Sumo](https://sumo.com/)  
