@@ -207,7 +207,7 @@ A list of free startup deals, trials and tools
 [Slack](https://slack.com/): Messaging app for project teams and boards  
 [Trello](https://trello.com/): Organized project and tasks boards  
 [Sumo](https://sumo.com/): A free email capaturing tool for marketers  
-[Buffer](https://buffer.com/)  
+[Buffer](https://buffer.com/):Social media management and engagement tool  
 [Sniply](https://snip.ly/)  
 [Vimeo](https://vimeo.com/)  
 [AYTM](https://aytm.com/)  
