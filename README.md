@@ -210,9 +210,9 @@ A list of free startup deals, trials and tools
 [Buffer](https://buffer.com/):Social media management and engagement tool  
 [Sniply](https://snip.ly/): A simple call to action URL shortener  
 [Vimeo](https://vimeo.com/): Premium video management tools for HQ videos  
-[AYTM](https://aytm.com/)  
-[Signal](https://signal.org/en/)  
-[Asana](https://asana.com/)  
+[AYTM](https://aytm.com/): Make online market research surveys  
+[Signal](https://signal.org/en/): Private and secure messaging application  
+[Asana](https://asana.com/): Manage teamwork, projects, and tasks online  
 [Locals](https://locals.com/)  
 [HeroX](https://www.herox.com/creation-wizard/template)  
 [Feedly](https://feedly.com/i/welcome)  
