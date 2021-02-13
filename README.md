@@ -250,8 +250,8 @@ A list of free startup deals, trials and tools
 [Parse.ly](https://www.parse.ly/): Simple and easy content analytics for your brand  
 [BetaList](https://betalist.com/): Get beta subscribers for your early brand  
 [Wordoid](https://wordoid.com/): Catchy word and unique name generator  
-[BitChute](https://www.bitchute.com/)  
-[Embedly](https://embed.ly/)  
+[BitChute](https://www.bitchute.com/): A popular free speech YouTube alternative  
+[Embedly](https://embed.ly/): Embeded generator for your shareable links  
 [LiveChat](https://startups.livechatinc.com/)  
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
 [Glasshat](https://www.glasshat.com/signup/)  
