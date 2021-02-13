@@ -248,8 +248,8 @@ A list of free startup deals, trials and tools
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber): Simple email marketing and automation software  
 [Matomo](https://matomo.org/): Privacy preserving Google Analytics alternative  
 [Parse.ly](https://www.parse.ly/): Simple and easy content analytics for your brand  
-[BetaList](https://betalist.com/)  
-[Wordoid](https://wordoid.com/)  
+[BetaList](https://betalist.com/): Get beta subscribers for your early brand  
+[Wordoid](https://wordoid.com/): Catchy word and unique name generator  
 [BitChute](https://www.bitchute.com/)  
 [Embedly](https://embed.ly/)  
 [LiveChat](https://startups.livechatinc.com/)  
