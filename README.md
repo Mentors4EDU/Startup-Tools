@@ -237,8 +237,8 @@ A list of free startup deals, trials and tools
 [Locals](https://locals.com/): Create "local" communities for yourself/projects  
 [HeroX](https://www.herox.com/creation-wizard/template): Create a crowdsourced challenge for your business  
 [Feedly](https://feedly.com/i/welcome): Create a custom information feed and share insights  
-[Callrail](https://www.callrail.com/pricing/)  
-[Ranker](https://www.ranker.com/)  
+[Callrail](https://www.callrail.com/pricing/): Keep track of call lead analytics  
+[Ranker](https://www.ranker.com/): Top lists and entertainment data  
 [Chartio](https://chartio.com/)  
 [Portent](https://www.portent.com/tools/title-maker)  
 [BL.INK](https://www.bl.ink/)  
