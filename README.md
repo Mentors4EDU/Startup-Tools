@@ -239,7 +239,7 @@ A list of free startup deals, trials and tools
 [Feedly](https://feedly.com/i/welcome): Create a custom information feed and share insights  
 [Callrail](https://www.callrail.com/pricing/): Keep track of different call lead analytics  
 [Ranker](https://www.ranker.com/): Top lists, rankings, and entertainment data  
-[Chartio](https://chartio.com/)  
+[Chartio](https://chartio.com/): An analytical tool on the cloud for exploring data  
 [Portent](https://www.portent.com/tools/title-maker)  
 [BL.INK](https://www.bl.ink/)  
 [GoViral](https://goviral.growthtools.com/)  
