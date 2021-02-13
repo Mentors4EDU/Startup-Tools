@@ -245,8 +245,8 @@ A list of free startup deals, trials and tools
 [GoViral](https://goviral.growthtools.com/): A tool that lets you build referral campaigns  
 [Statista](https://www.statista.com/): A portal of infographics for various stats  
 [Shopify](https://www.shopify.com/): Build a premium e-commerce store w/ this CMS  
-[Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
-[Matomo](https://matomo.org/)  
+[Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber): Simple email marketing and automation software  
+[Matomo](https://matomo.org/): Privacy preserving Google Analytics alternative  
 [Parse.ly](https://www.parse.ly/)  
 [BetaList](https://betalist.com/)  
 [Wordoid](https://wordoid.com/)  
