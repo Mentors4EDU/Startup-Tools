@@ -210,7 +210,7 @@ A list of free startup deals, trials and tools
 [Canvanizer](https://canvanizer.com/new/lean-canvas): Lean startup business model canvas  
 [Foundersuite](https://foundersuite.com/): Fundraising and venture capital CRM/Database  
 [Lean Canvas](https://leanstack.com/leancanvas): 1 Page busines models, lean startup canvas  
-[Neos Chronos](https://neoschronos.com/download/lean-canvas/docx/): Leanr startup canvas template in Word  
+[Neos Chronos](https://neoschronos.com/download/lean-canvas/docx/): Lean startup canvas template in Word  
 [StartupResources](https://startupresources.io/): Weekly curated email and list of startup tools  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm): Dealflow CRM for startups and VC firms
 
@@ -237,8 +237,8 @@ A list of free startup deals, trials and tools
 [Locals](https://locals.com/): Create "local" communities for yourself/projects  
 [HeroX](https://www.herox.com/creation-wizard/template): Create a crowdsourced challenge for your business  
 [Feedly](https://feedly.com/i/welcome): Create a custom information feed and share insights  
-[Callrail](https://www.callrail.com/pricing/): Keep track of call lead analytics  
-[Ranker](https://www.ranker.com/): Top lists and entertainment data  
+[Callrail](https://www.callrail.com/pricing/): Keep track of different call lead analytics  
+[Ranker](https://www.ranker.com/): Top lists, rankings, and entertainment data  
 [Chartio](https://chartio.com/)  
 [Portent](https://www.portent.com/tools/title-maker)  
 [BL.INK](https://www.bl.ink/)  
