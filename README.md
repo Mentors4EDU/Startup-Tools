@@ -236,7 +236,7 @@ A list of free startup deals, trials and tools
 [Asana](https://asana.com/): Manage teamwork, projects, and tasks online  
 [Locals](https://locals.com/): Create "local" communities for yourself/projects  
 [HeroX](https://www.herox.com/creation-wizard/template): Create a crowdsourced challenge for your business  
-[Feedly](https://feedly.com/i/welcome)  
+[Feedly](https://feedly.com/i/welcome): Create a custom information feed and share insights  
 [Callrail](https://www.callrail.com/pricing/)  
 [Ranker](https://www.ranker.com/)  
 [Chartio](https://chartio.com/)  
