@@ -240,11 +240,11 @@ A list of free startup deals, trials and tools
 [Callrail](https://www.callrail.com/pricing/): Keep track of different call lead analytics  
 [Ranker](https://www.ranker.com/): Top lists, rankings, and entertainment data  
 [Chartio](https://chartio.com/): An analytical tool on the cloud for exploring data  
-[Portent](https://www.portent.com/tools/title-maker)  
-[BL.INK](https://www.bl.ink/)  
-[GoViral](https://goviral.growthtools.com/)  
-[Statista](https://www.statista.com/)  
-[Shopify](https://www.shopify.com/)  
+[Portent](https://www.portent.com/tools/title-maker): Content idea generator for SEO titles  
+[BL.INK](https://www.bl.ink/): A URL shortner for enterprises, smart shortener  
+[GoViral](https://goviral.growthtools.com/): A tool that lets you build referral campaigns  
+[Statista](https://www.statista.com/): A portal of infographics for various stats  
+[Shopify](https://www.shopify.com/): Build a premium e-commerce store w/ this CMS  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber)  
 [Matomo](https://matomo.org/)  
 [Parse.ly](https://www.parse.ly/)  
