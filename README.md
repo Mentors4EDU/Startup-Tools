@@ -234,7 +234,7 @@ A list of free startup deals, trials and tools
 [AYTM](https://aytm.com/): Make online market research surveys  
 [Signal](https://signal.org/en/): Private and secure messaging application  
 [Asana](https://asana.com/): Manage teamwork, projects, and tasks online  
-[Locals](https://locals.com/)  
+[Locals](https://locals.com/): Create "local" communities for yourself/projects  
 [HeroX](https://www.herox.com/creation-wizard/template)  
 [Feedly](https://feedly.com/i/welcome)  
 [Callrail](https://www.callrail.com/pricing/)  
