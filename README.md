@@ -14,9 +14,6 @@ A list of free startup deals, trials and tools
 10. *[Co-Working Spaces](https://mentors4edu.github.io/Startup-Tools#co-working-spaces)*
 
 ..................................
-
-<details>
-  <summary>Design</summary>
   
 ### Design:  
 [Tiff](http://tiff.herokuapp.com/): Visual typeface comparing two fonts  
@@ -79,9 +76,6 @@ A list of free startup deals, trials and tools
 [Awesome Screenshot](http://www.awesomescreenshot.com/): Screensharing extension w/ video + screenshot  
 [Spin3D Mesh Converter](https://www.amazon.com/Spin3D-Free-3D-File-Converter/dp/B01DEEYSZG/ref=sr_1_17?dchild=1&keywords=3d+modeling+software&qid=1587836858&sr=8-17): File converter for different formats of 3D files
 
-<details>
-  <summary>Hosting</summary>
-
 ### Hosting:  
 [Heroku](https://signup.heroku.com/): An app hosting and deployment platform  
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns): Deal to get a free year of hosted DNS  
@@ -91,16 +85,10 @@ A list of free startup deals, trials and tools
 [OVH Digital LaunchPad](https://www.ovh.com/world/startup/): The OVH startup program for cloud hosting servers  
 [Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php): Cloudways startup program for Cloudways services
 
-<details>
-  <summary>Themes</summary>
-
 ### Themes:
 [Charity](https://templatetoaster.com/template/charity-fundraising-blogger-template): A free charity template for Blogger  
 [Identity](https://templatetoaster.com/template/identity-digital-marketing-and-seo-blogger-template): A free SEO agency Blogger template  
 [Spearhead](https://wordpress.com/theme/spearhead): A minimalist podcasts theme for Wordpress
-
-<details>
-  <summary>Podcasts</summary>
 
 ### Podcasts:
 [SaaStr](https://www.saastr.com/podcasts/): A series of business and startup podcasts on SaaStr  
@@ -121,9 +109,6 @@ A list of free startup deals, trials and tools
 [The Graham Stephan Show](https://www.youtube.com/channel/UCa-ckhlKL98F8YXKQ-BALiw): Reacting to people's spending and financial literacy   
 [How I Built This with Guy Raz](https://www.npr.org/podcasts/510313/how-i-built-this): Stories about/behind some well known companies  
 [The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/): A marketing & business podcast w/ Gary Vaynerchuck
-
-<details>
-  <summary>Learning</summary>
 
 ### Learning:  
 [Tuts+](https://tutsplus.com/courses#price=free): Free online courses available on Envato  
@@ -176,9 +161,6 @@ A list of free startup deals, trials and tools
 [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/videos): Quick beginner dev tutorials on YouTube  
 [GrandCircus Intro Workshops](https://www.grandcircus.co/free-coding-classes/): Intro coding classes and workshops
 
-<details>
-  <summary>Business</summary>
-
 ### Business:
 [a5](http://a5.gg/): Productive notes tool on your browser  
 [Due](https://due.com/): Payments processing and invoicing application  
@@ -213,9 +195,6 @@ A list of free startup deals, trials and tools
 [Neos Chronos](https://neoschronos.com/download/lean-canvas/docx/): Lean startup canvas template in Word  
 [StartupResources](https://startupresources.io/): Weekly curated email and list of startup tools  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm): Dealflow CRM for startups and VC firms
-
-<details>
-  <summary>Marketing</summary>
 
 ### Marketing:  
 [Kit](https://kit.co): Create a kit "Share products" for creators  
@@ -289,9 +268,6 @@ A list of free startup deals, trials and tools
 [ActiveCampaign](https://www.activecampaign.com)  
 [Right Relevance](https://www.rightrelevance.com/search/influencers)  
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
-
-<details>
-  <summary>Development</summary>
 
 ### Development:  
 [Bit](https://bit.dev/)  
@@ -383,9 +359,6 @@ A list of free startup deals, trials and tools
 [Bemobi Publisher Portal](https://publishers.apps.bemobi.com/)  
 [Markdown Quick Reference](https://wordpress.com/support/markdown-quick-reference/)  
 
-<details>
-  <summary>Speaking Events</summary>
-
 ### Speaking Events:
 [GDC](https://www.gdconf.com/call-for-submissions)  
 [TEDx](https://www.ted.com/tedx/events)  
@@ -397,9 +370,6 @@ A list of free startup deals, trials and tools
 [DeveloperWeek](https://www.developerweek.com/conference/call-for-speakers/)  
 [Techcrunch Disrupt](https://techcrunch.com/events/disrupt-sf-2020/)  
 [LA Blockchain Summit](https://lablockchainsummit.com/speaker-application)
-
-<details>
-  <summary>Co-Working Spaces</summary>
 
 ### Co-Working Spaces:
 [Awfis](https://www.f6s.com/deals/7915/2-day-free-pass)  
