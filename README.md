@@ -253,10 +253,10 @@ A list of free startup deals, trials and tools
 [BitChute](https://www.bitchute.com/): A popular free speech YouTube alternative  
 [Embedly](https://embed.ly/): Embeded generator for your shareable links  
 [LiveChat](https://startups.livechatinc.com/): Live chat plugin for talking to customers  
-[SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads)  
-[Glasshat](https://www.glasshat.com/signup/)  
-[Optimize](https://marketingplatform.google.com/about/optimize/)  
-[Strikingly](https://www.strikingly.com/)  
+[SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads): Get 100 free potential leads for your business  
+[Glasshat](https://www.glasshat.com/signup/): Simple SEO and marketing tools for your business  
+[Optimize](https://marketingplatform.google.com/about/optimize/): A/B testing and web optimization tool by Google  
+[Strikingly](https://www.strikingly.com/): Easy, drag and drop website generator tool  
 [Postsked](https://postsked.com/)  
 [Hootsuite](https://hootsuite.com/)  
 [Moosend](https://moosend.com/blog/free-email-marketing-services/)  
