@@ -238,8 +238,8 @@ A list of free startup deals, trials and tools
 [Strikingly](https://www.strikingly.com/): Easy, drag and drop website generator tool  
 [Postsked](https://postsked.com/): Easy to use social media scheduling tool  
 [Hootsuite](https://hootsuite.com/): Social media marketing and manangement tool   
-[Moosend](https://moosend.com/blog/free-email-marketing-services/)  
-[Typeform](https://www.typeform.com/)  
+[Moosend](https://moosend.com/blog/free-email-marketing-services/): List of 10 free email marketing services  
+[Typeform](https://www.typeform.com/): Easy form/survey generator and results tracker  
 [Gumroad](https://gumroad.com/)  
 [Catappult](https://catappult.io/)  
 [PickSaaS](https://www.picksaas.com/pricing)  
