@@ -255,7 +255,7 @@ A list of free startup deals, trials and tools
 [Good Copy](https://www.goodemailcopy.com/): Get inspired by different email compies by brands  
 [Seth's Blog](https://seths.blog/): Marketing blog by internet entrepreneur Seth Godin  
 [Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/): Automation for customer engagement for brands  
-[Geckoboard](https://www.geckoboard.com/try-geckoboard/)  
+[Geckoboard](https://www.geckoboard.com/try-geckoboard/): Build custom dashboards from data sources  
 [Groove Blog](https://www.groovehq.com/blog)  
 [Startup Bros](https://startupbros.com/free-stuff/)  
 [QuickSprout](https://www.quicksprout.com/blog/)  
