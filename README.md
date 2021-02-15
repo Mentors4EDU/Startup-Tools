@@ -242,8 +242,8 @@ A list of free startup deals, trials and tools
 [Typeform](https://www.typeform.com/): Easy form/survey generator and results tracker  
 [Gumroad](https://gumroad.com/): Boost sells w/ an economy for creators  
 [Catappult](https://catappult.io/): Alternative app distribution for Android apps  
-[PickSaaS](https://www.picksaas.com/pricing)  
-[PeerTube](https://joinpeertube.org/)  
+[PickSaaS](https://www.picksaas.com/pricing): Get software support for your projects  
+[PeerTube](https://joinpeertube.org/): Free and open source video broadcasting  
 [Submit.co](https://submit.co/)  
 [Rebrandly](https://www.rebrandly.com/)  
 [Unbounce](https://unbounce.com/pricing/)  
