@@ -244,7 +244,7 @@ A list of free startup deals, trials and tools
 [Catappult](https://catappult.io/): Alternative app distribution for Android apps  
 [PickSaaS](https://www.picksaas.com/pricing): Get software support for your projects  
 [PeerTube](https://joinpeertube.org/): Free and open source video broadcasting  
-[Submit.co](https://submit.co/)  
+[Submit.co](https://submit.co/): List of places to get coverage for your startup  
 [Rebrandly](https://www.rebrandly.com/)  
 [Unbounce](https://unbounce.com/pricing/)  
 [MailChimp](https://mailchimp.com/)  
