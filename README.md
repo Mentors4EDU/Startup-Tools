@@ -248,8 +248,8 @@ A list of free startup deals, trials and tools
 [Rebrandly](https://www.rebrandly.com/): Custom branded URL shortener for your links  
 [Unbounce](https://unbounce.com/pricing/): Premium drag and drop web page builder  
 [MailChimp](https://mailchimp.com/): Create email subscriptions and newsletters  
-[Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
-[ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
+[Re:Amaze](https://www.f6s.com/deals/6692/3-months-free): All in one platform for engaging with customers  
+[ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan): Chat SDK and APIs for your business/webapps  
 [Zoho CRM](https://www.zoho.com/crm/)  
 [Help Scout](https://www.f6s.com/deals/563/3-months-free-trial)  
 [Good Copy](https://www.goodemailcopy.com/)  
