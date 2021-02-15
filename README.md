@@ -254,7 +254,7 @@ A list of free startup deals, trials and tools
 [Help Scout](https://www.f6s.com/deals/563/3-months-free-trial): Premium help desk software for businesses  
 [Good Copy](https://www.goodemailcopy.com/): Get inspired by different email compies by brands  
 [Seth's Blog](https://seths.blog/): Marketing blog by internet entrepreneur Seth Godin  
-[Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/)  
+[Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/): Automation for customer engagement for brands  
 [Geckoboard](https://www.geckoboard.com/try-geckoboard/)  
 [Groove Blog](https://www.groovehq.com/blog)  
 [Startup Bros](https://startupbros.com/free-stuff/)  
