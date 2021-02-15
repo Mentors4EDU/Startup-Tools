@@ -240,8 +240,8 @@ A list of free startup deals, trials and tools
 [Hootsuite](https://hootsuite.com/): Social media marketing and manangement tool   
 [Moosend](https://moosend.com/blog/free-email-marketing-services/): List of 10 free email marketing services  
 [Typeform](https://www.typeform.com/): Easy form/survey generator and results tracker  
-[Gumroad](https://gumroad.com/)  
-[Catappult](https://catappult.io/)  
+[Gumroad](https://gumroad.com/): Boost sells w/ an economy for creators  
+[Catappult](https://catappult.io/): Alternative app distribution for Android apps  
 [PickSaaS](https://www.picksaas.com/pricing)  
 [PeerTube](https://joinpeertube.org/)  
 [Submit.co](https://submit.co/)  
