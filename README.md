@@ -256,10 +256,10 @@ A list of free startup deals, trials and tools
 [Seth's Blog](https://seths.blog/): Marketing blog by internet entrepreneur Seth Godin  
 [Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/): Automation for customer engagement for brands  
 [Geckoboard](https://www.geckoboard.com/try-geckoboard/): Build custom dashboards from data sources  
-[Groove Blog](https://www.groovehq.com/blog)  
-[Startup Bros](https://startupbros.com/free-stuff/)  
-[QuickSprout](https://www.quicksprout.com/blog/)  
-[ProductHunt](https://producthunt.com)  
+[Groove Blog](https://www.groovehq.com/blog): Increase analytical performance w/ Groove  
+[Startup Bros](https://startupbros.com/free-stuff/): Free tutorials and different startup freebies  
+[QuickSprout](https://www.quicksprout.com/blog/): Marketing, apps, and sales blog by Quick Sprout  
+[ProductHunt](https://producthunt.com): Garnish early users for your product launch  
 [Boomberang](https://www.boomeranggmail.com/)  
 [Hacker News](https://news.ycombinator.com/)  
 [Followerwonk](https://followerwonk.com/)  
