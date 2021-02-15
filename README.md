@@ -250,9 +250,9 @@ A list of free startup deals, trials and tools
 [MailChimp](https://mailchimp.com/): Create email subscriptions and newsletters  
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free): All in one platform for engaging with customers  
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan): Chat SDK and APIs for your business/webapps  
-[Zoho CRM](https://www.zoho.com/crm/)  
-[Help Scout](https://www.f6s.com/deals/563/3-months-free-trial)  
-[Good Copy](https://www.goodemailcopy.com/)  
+[Zoho CRM](https://www.zoho.com/crm/): CRM centered around sales relationships  
+[Help Scout](https://www.f6s.com/deals/563/3-months-free-trial): Premium help desk software for businesses  
+[Good Copy](https://www.goodemailcopy.com/): Get inspired by different email compies by brands  
 [Seth's Blog](https://seths.blog/)  
 [Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/)  
 [Geckoboard](https://www.geckoboard.com/try-geckoboard/)  
