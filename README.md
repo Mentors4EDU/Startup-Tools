@@ -245,9 +245,9 @@ A list of free startup deals, trials and tools
 [PickSaaS](https://www.picksaas.com/pricing): Get software support for your projects  
 [PeerTube](https://joinpeertube.org/): Free and open source video broadcasting  
 [Submit.co](https://submit.co/): List of places to get coverage for your startup  
-[Rebrandly](https://www.rebrandly.com/)  
-[Unbounce](https://unbounce.com/pricing/)  
-[MailChimp](https://mailchimp.com/)  
+[Rebrandly](https://www.rebrandly.com/): Custom branded URL shortener for your links  
+[Unbounce](https://unbounce.com/pricing/): Premium drag and drop web page builder  
+[MailChimp](https://mailchimp.com/): Create email subscriptions and newsletters  
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free)  
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan)  
 [Zoho CRM](https://www.zoho.com/crm/)  
