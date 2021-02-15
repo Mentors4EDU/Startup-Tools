@@ -262,23 +262,23 @@ A list of free startup deals, trials and tools
 [ProductHunt](https://producthunt.com): Garnish early users for your product launch  
 [Boomberang](https://www.boomeranggmail.com/): Scheduled sending and reminders for Gmail  
 [Hacker News](https://news.ycombinator.com/): Submit your startup to garnish attention early  
-[Followerwonk](https://followerwonk.com/)  
-[Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)  
-[The Name App](https://thenameapp.com/)  
-[ActiveCampaign](https://www.activecampaign.com)  
-[Right Relevance](https://www.rightrelevance.com/search/influencers)  
-[Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
+[Followerwonk](https://followerwonk.com/): Technically like a CRM for your Twitter followers  
+[Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange): Test heatmapping and conversions w/ Lucky Orange  
+[The Name App](https://thenameapp.com/): Find domain and social media names all at once  
+[ActiveCampaign](https://www.activecampaign.com): Email marketing and customer automation tool  
+[Right Relevance](https://www.rightrelevance.com/search/influencers): Find influencers on any topic that is on Twitter  
+[Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software): Company group chat software from Microsoft
 
 ### Development:  
-[Bit](https://bit.dev/)  
-[Git](https://git-scm.com/)  
-[D3](https://d3js.org/)  
-[H20](https://www.h2o.ai/download/)  
-[DEV](https://dev.to/)  
-[PM2](https://pm2.io/)  
-[Twpy](https://pypi.org/project/twpy/)  
-[Foldit](https://fold.it/portal/contest)  
-[Jekyll](https://jekyllrb.com/)  
+[Bit](https://bit.dev/): A cloud directory for shared web components  
+[Git](https://git-scm.com/): A distributed version control system for code  
+[D3](https://d3js.org/): A JavaScript library for data-driven documents  
+[H20](https://www.h2o.ai/download/): Machine learning data visualization dashboards  
+[DEV](https://dev.to/): A blogging platform exclusively for developers  
+[PM2](https://pm2.io/): Process manager and monitoring dashboard on NPM  
+[Twpy](https://pypi.org/project/twpy/): Interact with Twitter's API/Twitter scraper  
+[Foldit](https://fold.it/portal/contest): Folding puzzles template contents directory  
+[Jekyll](https://jekyllrb.com/): Host w/ GitHub pages and turn text into sites  
 [Glitch](https://glitch.com/)  
 [PyGui](https://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/)  
 [Repl.it](https://repl.it/)  
