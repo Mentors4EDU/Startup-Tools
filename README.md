@@ -260,8 +260,8 @@ A list of free startup deals, trials and tools
 [Startup Bros](https://startupbros.com/free-stuff/): Free tutorials and different startup freebies  
 [QuickSprout](https://www.quicksprout.com/blog/): Marketing, apps, and sales blog by Quick Sprout  
 [ProductHunt](https://producthunt.com): Garnish early users for your product launch  
-[Boomberang](https://www.boomeranggmail.com/)  
-[Hacker News](https://news.ycombinator.com/)  
+[Boomberang](https://www.boomeranggmail.com/): Scheduled sending and reminders for Gmail  
+[Hacker News](https://news.ycombinator.com/): Submit your startup to garnish attention early  
 [Followerwonk](https://followerwonk.com/)  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange)  
 [The Name App](https://thenameapp.com/)  
