@@ -295,7 +295,7 @@ A list of free startup deals, trials and tools
 [Racket](https://racket-lang.org/): Racket is a language-oriented programming language  
 [Meteor](https://www.meteor.com/): Build, host and deploy fullstack JavaScript applications  
 [Jupyter](https://jupyter.org): Standard notebook interfaces for data science workflows  
-[Ansible](https://www.redhat.com/en/technologies/management/ansible/try-it)  
+[Ansible](https://www.redhat.com/en/technologies/management/ansible/try-it): Open source Unix-like automation and workflow platform  
 [Joomla](https://www.joomla.org/): An overly simple open source CMS used by many  
 [Jenkins](https://jenkins.io/): An open source automation server for deployments  
 [Codacy](https://www.codacy.com/pricing)  
