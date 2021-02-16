@@ -307,15 +307,15 @@ A list of free startup deals, trials and tools
 [RegEgg](https://www.rexegg.com/regex-quickstart.html): Basic RegEx cheat sheet and tutorial or reference guide  
 [Dillinger](https://dillinger.io/): Online markdown editor and IDE for markdown  
 [GitBook](https://www.gitbook.com/): Create impressive documentation manuals and books w/ git  
-[Candela](https://candela.readthedocs.io/en/latest/)  
-[Figshare](https://figshare.com/)  
-[Swagger](https://swagger.io/)  
-[GoChain](https://github.com/gochain)  
-[Postman](https://www.postman.com/)  
-[Dev/Port](http://www.devport.co/)  
-[Hackster](https://www.hackster.io/)  
-[YOURLS](https://yourls.org)  
-[AppVisor](http://appvisor.com/pad/)  
+[Candela](https://candela.readthedocs.io/en/latest/): Data and web component visualization toolkit  
+[Figshare](https://figshare.com/): Share or discover supplementary data for your research  
+[Swagger](https://swagger.io/): OpenAPI specification, design wrapper and delivery kit  
+[GoChain](https://github.com/gochain): Web3 blockchain that is lightweight and speed oriented  
+[Postman](https://www.postman.com/): A platform for API development w/ backtesting capability  
+[Dev/Port](http://www.devport.co/): Easily create portfolios for developers w/ importing  
+[Hackster](https://www.hackster.io/): A community site for open hardware and makers  
+[YOURLS](https://yourls.org): Open source URL shortener w/ stats and JSONP support  
+[AppVisor](http://appvisor.com/pad/): A portable application description standard for app stores  
 [Atlassian](https://www.atlassian.com/)  
 [OpenHub](https://www.openhub.net)  
 [LingoHub](https://lingohub.com/)  
