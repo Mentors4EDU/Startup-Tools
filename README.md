@@ -316,9 +316,9 @@ A list of free startup deals, trials and tools
 [Hackster](https://www.hackster.io/): A community site for open hardware and makers  
 [YOURLS](https://yourls.org): Open source URL shortener w/ stats and JSONP support  
 [AppVisor](http://appvisor.com/pad/): A portable application description standard for app stores  
-[Atlassian](https://www.atlassian.com/)  
-[OpenHub](https://www.openhub.net)  
-[LingoHub](https://lingohub.com/)  
+[Atlassian](https://www.atlassian.com/): Service and repo management plus team collaboration  
+[OpenHub](https://www.openhub.net): A network to track and compare open source software  
+[LingoHub](https://lingohub.com/): Manage/automate software localization and translations  
 [Flowdock](https://www.flowdock.com/pricing)  
 [BitBucket](https://bitbucket.org/)  
 [Datasette](https://datasette.readthedocs.io/en/stable/)  
