@@ -298,14 +298,14 @@ A list of free startup deals, trials and tools
 [Ansible](https://www.redhat.com/en/technologies/management/ansible/try-it): Open source Unix-like automation and workflow platform  
 [Joomla](https://www.joomla.org/): An overly simple open source CMS used by many  
 [Jenkins](https://jenkins.io/): An open source automation server for deployments  
-[Codacy](https://www.codacy.com/pricing)  
-[FBStart](https://developers.facebook.com/startups/)  
-[wwPDB](http://www.wwpdb.org/)  
-[RegEXr](https://regexr.com/)  
-[Pandoc](https://pandoc.org/)  
-[Internal](https://www.internal.io/)  
-[RegEgg](https://www.rexegg.com/regex-quickstart.html)  
-[Dillinger](https://dillinger.io/)  
+[Codacy](https://www.codacy.com/pricing): Check code quality and automate code review  
+[FBStart](https://developers.facebook.com/startups/): Marketing and growth support for startups on Facebook  
+[wwPDB](http://www.wwpdb.org/): The worldwide protein databank repo directory  
+[RegEXr](https://regexr.com/): Test different RegEx expressions and patterns  
+[Pandoc](https://pandoc.org/): Online markup file converter w/ various formats  
+[Internal](https://www.internal.io/): Easily integrate microservices for your dataflows  
+[RegEgg](https://www.rexegg.com/regex-quickstart.html): Basic RegEx cheat sheet and tutorial or reference guide  
+[Dillinger](https://dillinger.io/): Online markdown editor and IDE for markdown  
 [GitBook](https://www.gitbook.com/)  
 [Candela](https://candela.readthedocs.io/en/latest/)  
 [Figshare](https://figshare.com/)  
