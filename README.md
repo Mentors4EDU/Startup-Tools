@@ -289,12 +289,12 @@ A list of free startup deals, trials and tools
 [Alpaca](https://alpaca.markets/): A stock brokerage powered by a commission-free API  
 [UiPath](https://www.f6s.com/deals/6049/free-automation-software): The ultimate software for macro and process automation  
 [Known](https://withknown.com/): Open source framework and collaborative publishing engine  
-[Bubble](https://bubble.io/)  
-[Kaggle](https://www.kaggle.com/)  
-[GitPod](https://gitpod.io)  
-[Racket](https://racket-lang.org/)  
-[Meteor](https://www.meteor.com/)  
-[Jupyter](https://jupyter.org)  
+[Bubble](https://bubble.io/): Easily build simple apps without any code  
+[Kaggle](https://www.kaggle.com/): Dataset and public notebooks repository directory  
+[GitPod](https://gitpod.io): A third party online IDE for interacting with git pipelines  
+[Racket](https://racket-lang.org/): Racket is a language-oriented programming language  
+[Meteor](https://www.meteor.com/): Build, host and deploy fullstack JavaScript applications  
+[Jupyter](https://jupyter.org): Standard notebook interfaces for data science workflows  
 [Ansible](https://www.redhat.com/en/technologies/management/ansible/try-it)  
 [Joomla](https://www.joomla.org/)  
 [Jenkins](https://jenkins.io/)  
