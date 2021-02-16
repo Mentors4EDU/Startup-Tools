@@ -283,12 +283,12 @@ A list of free startup deals, trials and tools
 [PyGui](https://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/): A cross platform GUI API built untop of Python 3  
 [Repl.it](https://repl.it/): A shareable, and collaborative in-browser IDE  
 [H20.ai](https://github.com/h2oai): Open source repositories from the H2O.ai platform  
-[OAuth](https://oauth.net/)  
-[Github](https://github.com)  
-[GitLab](https://about.gitlab.com/)  
-[Alpaca](https://alpaca.markets/)  
-[UiPath](https://www.f6s.com/deals/6049/free-automation-software)  
-[Known](https://withknown.com/)  
+[OAuth](https://oauth.net/): Open protocol related to web app authentication  
+[Github](https://github.com): Host and share your repositories online w/ git  
+[GitLab](https://about.gitlab.com/): Premium place to share your git repos w/ pipelines  
+[Alpaca](https://alpaca.markets/): A stock brokerage powered by a commission-free API  
+[UiPath](https://www.f6s.com/deals/6049/free-automation-software): The ultimate software for macro and process automation  
+[Known](https://withknown.com/): Open source framework and collaborative publishing engine  
 [Bubble](https://bubble.io/)  
 [Kaggle](https://www.kaggle.com/)  
 [GitPod](https://gitpod.io)  
