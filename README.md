@@ -306,7 +306,7 @@ A list of free startup deals, trials and tools
 [Internal](https://www.internal.io/): Easily integrate microservices for your dataflows  
 [RegEgg](https://www.rexegg.com/regex-quickstart.html): Basic RegEx cheat sheet and tutorial or reference guide  
 [Dillinger](https://dillinger.io/): Online markdown editor and IDE for markdown  
-[GitBook](https://www.gitbook.com/)  
+[GitBook](https://www.gitbook.com/): Create impressive documentation manuals and books w/ git  
 [Candela](https://candela.readthedocs.io/en/latest/)  
 [Figshare](https://figshare.com/)  
 [Swagger](https://swagger.io/)  
