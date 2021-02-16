@@ -319,13 +319,13 @@ A list of free startup deals, trials and tools
 [Atlassian](https://www.atlassian.com/): Service and repo management plus team collaboration  
 [OpenHub](https://www.openhub.net): A network to track and compare open source software  
 [LingoHub](https://lingohub.com/): Manage/automate software localization and translations  
-[Flowdock](https://www.flowdock.com/pricing)  
-[BitBucket](https://bitbucket.org/)  
-[Datasette](https://datasette.readthedocs.io/en/stable/)  
-[JSONLint](https://jsonlint.com/)  
-[Resonant](https://resonant.kitware.com/)  
-[Shields.io](https://shields.io/)  
-[Sourcerer](https://sourcerer.io)  
+[Flowdock](https://www.flowdock.com/pricing): Prioritize tasks and conversations for developers  
+[BitBucket](https://bitbucket.org/): A professional team-oriented version control git solution  
+[Datasette](https://datasette.readthedocs.io/en/stable/): An easy to use tool for sharing and managing datasets  
+[JSONLint](https://jsonlint.com/): A simple, online JSON validator for debugging  
+[Resonant](https://resonant.kitware.com/): An open-source data visualization and validation platform  
+[Shields.io](https://shields.io/): Create custom buttons and counters in markdown  
+[Sourcerer](https://sourcerer.io): Create visual profiles for lots of your code activity  
 [Regex101](https://regex101.com/)  
 [Templated](https://templated.co/)  
 [Layers WP](https://www.layerswp.com/)  
