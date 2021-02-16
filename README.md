@@ -279,10 +279,10 @@ A list of free startup deals, trials and tools
 [Twpy](https://pypi.org/project/twpy/): Interact with Twitter's API/Twitter scraper  
 [Foldit](https://fold.it/portal/contest): Folding puzzles template contents directory  
 [Jekyll](https://jekyllrb.com/): Host w/ GitHub pages and turn text into sites  
-[Glitch](https://glitch.com/)  
-[PyGui](https://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/)  
-[Repl.it](https://repl.it/)  
-[H20.ai](https://github.com/h2oai)  
+[Glitch](https://glitch.com/): Easily share, remix, and build code w/ users  
+[PyGui](https://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/): A cross platform GUI API built untop of Python 3  
+[Repl.it](https://repl.it/): A shareable, and collaborative in-browser IDE  
+[H20.ai](https://github.com/h2oai): Open source repositories from the H2O.ai platform  
 [OAuth](https://oauth.net/)  
 [Github](https://github.com)  
 [GitLab](https://about.gitlab.com/)  
