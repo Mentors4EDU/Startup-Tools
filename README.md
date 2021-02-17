@@ -326,11 +326,11 @@ A list of free startup deals, trials and tools
 [Resonant](https://resonant.kitware.com/): An open-source data visualization and validation platform  
 [Shields.io](https://shields.io/): Create custom buttons and counters in markdown  
 [Sourcerer](https://sourcerer.io): Create visual profiles for lots of your code activity  
-[Regex101](https://regex101.com/)  
-[Templated](https://templated.co/)  
-[Layers WP](https://www.layerswp.com/)  
-[GlowScript](https://www.glowscript.org/)  
-[Notepad++](http://www.notepad-plus-plus.org/)  
+[Regex101](https://regex101.com/): Generate tests and explanations for your RegEx expressions  
+[Templated](https://templated.co/): Large collection of different free CSS and HTML templates  
+[Layers WP](https://www.layerswp.com/): Easy to use layers extension for WP Elementor  
+[GlowScript](https://www.glowscript.org/): Create and publish 3D animations w/ GlowScript  
+[Notepad++](http://www.notepad-plus-plus.org/): Open source notepad relacement w/ languages support  
 [FakeJSON](https://fakejson.com/)  
 [Wix Corvid](https://www.wix.com/corvid)  
 [WordPress](https://wordpress.com/start/user?ref=pricing-lp)  
