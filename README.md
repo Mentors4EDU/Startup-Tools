@@ -331,8 +331,8 @@ A list of free startup deals, trials and tools
 [Layers WP](https://www.layerswp.com/): Easy to use layers extension for WP Elementor  
 [GlowScript](https://www.glowscript.org/): Create and publish 3D animations w/ GlowScript  
 [Notepad++](http://www.notepad-plus-plus.org/): Open source notepad replacement w/ languages support  
-[FakeJSON](https://fakejson.com/)  
-[Wix Corvid](https://www.wix.com/corvid)  
+[FakeJSON](https://fakejson.com/): Create mock HTTP servers w/ mock data to showcase APIs  
+[Wix Corvid](https://www.wix.com/corvid): A full stack web development platform for Wix  
 [WordPress](https://wordpress.com/start/user?ref=pricing-lp)  
 [Sourcetree](https://www.sourcetreeapp.com/)  
 [E.gg Timer](http://e.ggtimer.com/)  
