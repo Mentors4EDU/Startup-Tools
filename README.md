@@ -330,7 +330,7 @@ A list of free startup deals, trials and tools
 [Templated](https://templated.co/): Large collection of different free CSS and HTML templates  
 [Layers WP](https://www.layerswp.com/): Easy to use layers extension for WP Elementor  
 [GlowScript](https://www.glowscript.org/): Create and publish 3D animations w/ GlowScript  
-[Notepad++](http://www.notepad-plus-plus.org/): Open source notepad relacement w/ languages support  
+[Notepad++](http://www.notepad-plus-plus.org/): Open source notepad replacement w/ languages support  
 [FakeJSON](https://fakejson.com/)  
 [Wix Corvid](https://www.wix.com/corvid)  
 [WordPress](https://wordpress.com/start/user?ref=pricing-lp)  
