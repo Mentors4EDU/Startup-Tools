@@ -333,7 +333,7 @@ A list of free startup deals, trials and tools
 [Notepad++](http://www.notepad-plus-plus.org/): Open source notepad replacement w/ languages support  
 [FakeJSON](https://fakejson.com/): Create mock HTTP servers w/ mock data to showcase APIs  
 [Wix Corvid](https://www.wix.com/corvid): A full stack web development platform for Wix  
-[WordPress](https://wordpress.com/start/user?ref=pricing-lp)  
+[WordPress](https://wordpress.com/start/user?ref=pricing-lp): The most popular PHP-powered simple CMS system  
 [Sourcetree](https://www.sourcetreeapp.com/)  
 [E.gg Timer](http://e.ggtimer.com/)  
 [FluentSync](https://github.com/michaelantoun/FluentSync)  
