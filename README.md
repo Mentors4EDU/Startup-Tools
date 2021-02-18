@@ -334,7 +334,7 @@ A list of free startup deals, trials and tools
 [FakeJSON](https://fakejson.com/): Create mock HTTP servers w/ mock data to showcase APIs  
 [Wix Corvid](https://www.wix.com/corvid): A full stack web development platform for Wix  
 [WordPress](https://wordpress.com/start/user?ref=pricing-lp): The most popular PHP-powered simple CMS system  
-[Sourcetree](https://www.sourcetreeapp.com/)  
+[Sourcetree](https://www.sourcetreeapp.com/): Easy to use and beautiful GUI for git source control  
 [E.gg Timer](http://e.ggtimer.com/)  
 [FluentSync](https://github.com/michaelantoun/FluentSync)  
 [RapidMiner](https://rapidminer.com/educational-program/)  
