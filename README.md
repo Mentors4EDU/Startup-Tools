@@ -339,7 +339,7 @@ A list of free startup deals, trials and tools
 [FluentSync](https://github.com/michaelantoun/FluentSync): A .Net library for the fluet interface and interaction  
 [RapidMiner](https://rapidminer.com/educational-program/): A world leading data mining and visualization program  
 [Bootswatch](https://bootswatch.com/): A curated directory of free bootstrap css themes  
-[StackShare](https://stackshare.io/stacks)  
+[StackShare](https://stackshare.io/stacks): Share your dev stacks, compare and find new tools  
 [Dependabot](https://app.dependabot.com)  
 [Codementor](https://www.codementor.io/mentor/apply)  
 [HackerRank](https://www.hackerrank.com)  
