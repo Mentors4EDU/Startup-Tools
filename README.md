@@ -336,8 +336,8 @@ A list of free startup deals, trials and tools
 [WordPress](https://wordpress.com/start/user?ref=pricing-lp): The most popular PHP-powered simple CMS system  
 [Sourcetree](https://www.sourcetreeapp.com/): Easy to use and beautiful GUI for git source control  
 [E.gg Timer](http://e.ggtimer.com/): A simple, full screen countdown timer website for presenters  
-[FluentSync](https://github.com/michaelantoun/FluentSync)  
-[RapidMiner](https://rapidminer.com/educational-program/)  
+[FluentSync](https://github.com/michaelantoun/FluentSync): A .Net library for the fluet interface and interaction  
+[RapidMiner](https://rapidminer.com/educational-program/): A world leading data mining and visualization program  
 [Bootswatch](https://bootswatch.com/)  
 [StackShare](https://stackshare.io/stacks)  
 [Dependabot](https://app.dependabot.com)  
