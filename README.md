@@ -338,7 +338,7 @@ A list of free startup deals, trials and tools
 [E.gg Timer](http://e.ggtimer.com/): A simple, full screen countdown timer website for presenters  
 [FluentSync](https://github.com/michaelantoun/FluentSync): A .Net library for the fluet interface and interaction  
 [RapidMiner](https://rapidminer.com/educational-program/): A world leading data mining and visualization program  
-[Bootswatch](https://bootswatch.com/)  
+[Bootswatch](https://bootswatch.com/): A curated directory of free bootstrap css themes  
 [StackShare](https://stackshare.io/stacks)  
 [Dependabot](https://app.dependabot.com)  
 [Codementor](https://www.codementor.io/mentor/apply)  
