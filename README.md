@@ -341,7 +341,7 @@ A list of free startup deals, trials and tools
 [Bootswatch](https://bootswatch.com/): A curated directory of free bootstrap css themes  
 [StackShare](https://stackshare.io/stacks): Share your dev stacks, compare and find new tools  
 [Dependabot](https://app.dependabot.com): Security app/extension for Github repo's dependencies  
-[Codementor](https://www.codementor.io/mentor/apply)  
+[Codementor](https://www.codementor.io/mentor/apply): Offer or apply for live code mentorships  
 [HackerRank](https://www.hackerrank.com)  
 [JBoss Forge](https://forge.jboss.org/addons)  
 [Debian Docs](https://www.debian.org/doc/)  
