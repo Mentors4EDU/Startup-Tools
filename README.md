@@ -347,7 +347,7 @@ A list of free startup deals, trials and tools
 [Debian Docs](https://www.debian.org/doc/): Documentation and guide for the Debian Operating System  
 [SourceForge](https://sourceforge.net/): Repositories and project pages w/ source control + reviews  
 [Sublime Text](http://www.sublimetext.com/): Text editor and IDE w/ markup support and a clean UI  
-[PortableApps](https://portableapps.com)  
+[PortableApps](https://portableapps.com): Portable apps and protable drive software platform  
 [Quiver Quant](https://www.quiverquant.com/)  
 [ReadtheDocs](https://readthedocs.org/)  
 [Puppet Forge](https://forge.puppet.com/)  
