@@ -342,7 +342,7 @@ A list of free startup deals, trials and tools
 [StackShare](https://stackshare.io/stacks): Share your dev stacks, compare and find new tools  
 [Dependabot](https://app.dependabot.com): Security app/extension for Github repo's dependencies  
 [Codementor](https://www.codementor.io/mentor/apply): Offer or apply to code mentorships or freelance dev sessions  
-[HackerRank](https://www.hackerrank.com): Remote hiring, skill training and hackathons for developers  
+[HackerRank](https://www.hackerrank.com): Remote hiring, skills training and hackathons for developers  
 [JBoss Forge](https://forge.jboss.org/addons)  
 [Debian Docs](https://www.debian.org/doc/)  
 [SourceForge](https://sourceforge.net/)  
