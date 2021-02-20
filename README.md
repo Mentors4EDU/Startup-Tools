@@ -340,7 +340,7 @@ A list of free startup deals, trials and tools
 [RapidMiner](https://rapidminer.com/educational-program/): A world leading data mining and visualization program  
 [Bootswatch](https://bootswatch.com/): A curated directory of free bootstrap css themes  
 [StackShare](https://stackshare.io/stacks): Share your dev stacks, compare and find new tools  
-[Dependabot](https://app.dependabot.com)  
+[Dependabot](https://app.dependabot.com): Security app/extension for Github repo's dependencies  
 [Codementor](https://www.codementor.io/mentor/apply)  
 [HackerRank](https://www.hackerrank.com)  
 [JBoss Forge](https://forge.jboss.org/addons)  
