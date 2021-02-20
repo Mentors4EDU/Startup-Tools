@@ -350,7 +350,7 @@ A list of free startup deals, trials and tools
 [PortableApps](https://portableapps.com): Portable apps and protable drive software platform  
 [Quiver Quant](https://www.quiverquant.com/): A cutting edge alternative data platform for trading  
 [ReadtheDocs](https://readthedocs.org/): Create technical docs sites for free w/ rst compatibility  
-[Puppet Forge](https://forge.puppet.com/)  
+[Puppet Forge](https://forge.puppet.com/): Develop automated modules and plugins for your IT infrastructure  
 [Bootstrap Zero](https://www.bootstrapzero.com/)  
 [Stack Overflow](https://stackoverflow.com/)  
 [Open Collective](https://opencollective.com/)  
