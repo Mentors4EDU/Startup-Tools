@@ -348,8 +348,8 @@ A list of free startup deals, trials and tools
 [SourceForge](https://sourceforge.net/): Repositories and project pages w/ source control + reviews  
 [Sublime Text](http://www.sublimetext.com/): Text editor and IDE w/ markup support and a clean UI  
 [PortableApps](https://portableapps.com): Portable apps and protable drive software platform  
-[Quiver Quant](https://www.quiverquant.com/)  
-[ReadtheDocs](https://readthedocs.org/)  
+[Quiver Quant](https://www.quiverquant.com/): A cutting edge alternative data platform for trading  
+[ReadtheDocs](https://readthedocs.org/): Create technical docs sites for free w/ rst compatibility  
 [Puppet Forge](https://forge.puppet.com/)  
 [Bootstrap Zero](https://www.bootstrapzero.com/)  
 [Stack Overflow](https://stackoverflow.com/)  
