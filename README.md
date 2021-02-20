@@ -346,7 +346,7 @@ A list of free startup deals, trials and tools
 [JBoss Forge](https://forge.jboss.org/addons): Addons to the JForge development platform and toolbox  
 [Debian Docs](https://www.debian.org/doc/): Documentation and guide for the Debian Operating System  
 [SourceForge](https://sourceforge.net/): Repositories and project pages w/ source control + reviews  
-[Sublime Text](http://www.sublimetext.com/)  
+[Sublime Text](http://www.sublimetext.com/): Text editor and IDE w/ markup support and a clean UI  
 [PortableApps](https://portableapps.com)  
 [Quiver Quant](https://www.quiverquant.com/)  
 [ReadtheDocs](https://readthedocs.org/)  
