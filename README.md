@@ -351,7 +351,7 @@ A list of free startup deals, trials and tools
 [Quiver Quant](https://www.quiverquant.com/): A cutting edge alternative data platform for trading  
 [ReadtheDocs](https://readthedocs.org/): Create technical docs sites for free w/ rst compatibility  
 [Puppet Forge](https://forge.puppet.com/): Develop automated modules or plugins for your infrastructure  
-[Bootstrap Zero](https://www.bootstrapzero.com/)  
+[Bootstrap Zero](https://www.bootstrapzero.com/): Collection of hundreds of free and premium Bootstrap themes  
 [Stack Overflow](https://stackoverflow.com/)  
 [Open Collective](https://opencollective.com/)  
 [Google for Startups](https://startup.google.com/)  
