@@ -352,7 +352,7 @@ A list of free startup deals, trials and tools
 [ReadtheDocs](https://readthedocs.org/): Create technical docs sites for free w/ rst compatibility  
 [Puppet Forge](https://forge.puppet.com/): Develop automated modules or plugins for your infrastructure  
 [Bootstrap Zero](https://www.bootstrapzero.com/): Collection of hundreds of free and premium Bootstrap themes  
-[Stack Overflow](https://stackoverflow.com/)  
+[Stack Overflow](https://stackoverflow.com/): Ask for dev help through questions, get answers, help others  
 [Open Collective](https://opencollective.com/)  
 [Google for Startups](https://startup.google.com/)  
 [Tableau Developers](https://www.tableau.com/developer)  
