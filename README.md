@@ -366,8 +366,8 @@ A list of free startup deals, trials and tools
 [Ideacity](https://ideacity.ca/): Engaging high quality educational talks and content  
 [MakerFaire](https://makerfaire.com/): The event for Makers and different DIY enthusiasts  
 [Startup Week](https://startupweek.co/): A week-long series of events for local startups  
-[OpenJSWorld](https://events.linuxfoundation.org/openjs-world/program/cfp/)  
-[DeveloperWeek](https://www.developerweek.com/conference/call-for-speakers/)  
+[OpenJSWorld](https://events.linuxfoundation.org/openjs-world/program/cfp/): Call for clouad-computing and JS-related proposals  
+[DeveloperWeek](https://www.developerweek.com/conference/call-for-speakers/): A conference and expo for developers and dev communities  
 [Techcrunch Disrupt](https://techcrunch.com/events/disrupt-sf-2020/)  
 [LA Blockchain Summit](https://lablockchainsummit.com/speaker-application)
 
