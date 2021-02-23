@@ -363,7 +363,7 @@ A list of free startup deals, trials and tools
 [GDC](https://www.gdconf.com/call-for-submissions): Speak at one of the largest game dev conferences  
 [TEDx](https://www.ted.com/tedx/events): TED stands for Technology, Entertainment, Design  
 [TiEcon](https://www.tiecon.org/): One of the world's biggest technology conferences  
-[Ideacity](https://ideacity.ca/): High qaulity educational talks and content  
+[Ideacity](https://ideacity.ca/): Engaging high qaulity educational talks and content  
 [MakerFaire](https://makerfaire.com/): The event for Makers and different DIY enthusiasts  
 [Startup Week](https://startupweek.co/): A week-long local startup series of events  
 [OpenJSWorld](https://events.linuxfoundation.org/openjs-world/program/cfp/)  
