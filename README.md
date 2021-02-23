@@ -365,7 +365,7 @@ A list of free startup deals, trials and tools
 [TiEcon](https://www.tiecon.org/): One of the world's biggest technology conferences  
 [Ideacity](https://ideacity.ca/): Engaging high qaulity educational talks and content  
 [MakerFaire](https://makerfaire.com/): The event for Makers and different DIY enthusiasts  
-[Startup Week](https://startupweek.co/): A week-long local startup series of events  
+[Startup Week](https://startupweek.co/): A week-long series of events for local startups  
 [OpenJSWorld](https://events.linuxfoundation.org/openjs-world/program/cfp/)  
 [DeveloperWeek](https://www.developerweek.com/conference/call-for-speakers/)  
 [Techcrunch Disrupt](https://techcrunch.com/events/disrupt-sf-2020/)  
