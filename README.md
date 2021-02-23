@@ -360,12 +360,12 @@ A list of free startup deals, trials and tools
 [Markdown Quick Reference](https://wordpress.com/support/markdown-quick-reference/)  
 
 ### Speaking Events:
-[GDC](https://www.gdconf.com/call-for-submissions)  
-[TEDx](https://www.ted.com/tedx/events)  
-[TiEcon](https://www.tiecon.org/)  
-[Ideacity](https://ideacity.ca/)  
-[MakerFaire](https://makerfaire.com/)  
-[Startup Week](https://startupweek.co/)  
+[GDC](https://www.gdconf.com/call-for-submissions): Speak at one of the largest game dev conferences  
+[TEDx](https://www.ted.com/tedx/events): TED stands for Technology, Entertainment, Design  
+[TiEcon](https://www.tiecon.org/): One of the world's biggest technology conferences  
+[Ideacity](https://ideacity.ca/): High qaulity educational talks and content  
+[MakerFaire](https://makerfaire.com/): The event for Makers and different DIY enthusiasts  
+[Startup Week](https://startupweek.co/): A week-long local startup series of events  
 [OpenJSWorld](https://events.linuxfoundation.org/openjs-world/program/cfp/)  
 [DeveloperWeek](https://www.developerweek.com/conference/call-for-speakers/)  
 [Techcrunch Disrupt](https://techcrunch.com/events/disrupt-sf-2020/)  
