@@ -356,7 +356,7 @@ A list of free startup deals, trials and tools
 [Open Collective](https://opencollective.com/):A collective/community for garnishing project sponsors  
 [Google for Startups](https://startup.google.com/): Get startup support and mentorship from Google  
 [Tableau Developers](https://www.tableau.com/developer): The developer program for Tableau, a data visualization tool  
-[Bemobi Publisher Portal](https://publishers.apps.bemobi.com/): Publish your monbile apps on Bemobi/Opera Mobile  
+[Bemobi Publisher Portal](https://publishers.apps.bemobi.com/): Publish your mobile apps on Bemobi/Opera Mobile  
 [Markdown Quick Reference](https://wordpress.com/support/markdown-quick-reference/): A quick reference guide on Markdown from WordPress  
 
 ### Speaking Events:
