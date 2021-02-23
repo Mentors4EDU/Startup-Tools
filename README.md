@@ -353,7 +353,7 @@ A list of free startup deals, trials and tools
 [Puppet Forge](https://forge.puppet.com/): Develop automated modules or plugins for your infrastructure  
 [Bootstrap Zero](https://www.bootstrapzero.com/): Collection of hundreds of free and premium Bootstrap themes  
 [Stack Overflow](https://stackoverflow.com/): Ask for dev help through questions, get answers, help others  
-[Open Collective](https://opencollective.com/):A collective/community for garnishing project sponsors  
+[Open Collective](https://opencollective.com/): A collective/community for garnishing project sponsors  
 [Google for Startups](https://startup.google.com/): Get startup support and mentorship from Google  
 [Tableau Developers](https://www.tableau.com/developer): The developer program for Tableau, a data visualization tool  
 [Bemobi Publisher Portal](https://publishers.apps.bemobi.com/): Publish your mobile apps on Bemobi/Opera Mobile  
