@@ -374,7 +374,7 @@ A list of free startup deals, trials and tools
 ### Co-Working Spaces:
 [Awfis](https://www.f6s.com/deals/7915/2-day-free-pass): A two day free pass to an Awfis Location (India)  
 [AWSLoft](https://aws.amazon.com/start-ups/loft/): Series of complemntary startup co-working spaces by Amazon  
-[Freehold](https://www.freeholdbrooklyn.com/): Hospitable places in Brooklyn for founders to meet  
+[Freehold](https://www.freeholdbrooklyn.com/): Hospitable places in Brooklyn for startup founders to meet  
 [Ace Hotel NY](https://www.acehotel.com/newyork/events-and-spaces/calendar/)  
 [Wix Playground](https://www.wix.com/designers/events)  
 [Literally Libraries](https://www.forbes.com/sites/allbusiness/2018/05/01/free-coworking-space-helps-entrepreneurs/)
