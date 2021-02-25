@@ -368,7 +368,7 @@ A list of free startup deals, trials and tools
 [Startup Week](https://startupweek.co/): A week-long series of events for local startups  
 [OpenJSWorld](https://events.linuxfoundation.org/openjs-world/program/cfp/): Call for clouad-computing and JS-related proposals  
 [DeveloperWeek](https://www.developerweek.com/conference/call-for-speakers/): A conference and expo for developers and dev communities  
-[Techcrunch Disrupt](https://techcrunch.com/events/disrupt-sf-2020/):One of the most global popular startup events/pitch series  
+[Techcrunch Disrupt](https://techcrunch.com/events/disrupt-sf-2020/): One of the most global popular startup events/pitch series  
 [LA Blockchain Summit](https://lablockchainsummit.com/speaker-application): A blockchain summit/conference hosted yearly in LA
 
 ### Co-Working Spaces:
