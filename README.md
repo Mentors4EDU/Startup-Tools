@@ -376,5 +376,5 @@ A list of free startup deals, trials and tools
 [AWSLoft](https://aws.amazon.com/start-ups/loft/): Series of complemntary startup co-working spaces by Amazon  
 [Freehold](https://www.freeholdbrooklyn.com/): Hospitable places in Brooklyn for startup founders to meet  
 [Ace Hotel NY](https://www.acehotel.com/newyork/events-and-spaces/calendar/): The popular ACE hotel meetup space at New York  
-[Wix Playground](https://www.wix.com/designers/events): Serieis of complemntary startup co-working spaces by Wix  
+[Wix Playground](https://www.wix.com/designers/events): Series of complemntary startup co-working spaces by Wix  
 [Literally Libraries](https://www.forbes.com/sites/allbusiness/2018/05/01/free-coworking-space-helps-entrepreneurs/): Libraries make a quick place to meetup if needed
