@@ -24,7 +24,7 @@ A list of free startup deals, trials and tools
 [Pablo](https://pablo.buffer.com/): Design engaging social media graphics   
 [Mixkit](https://mixkit.co): Free stock video assets and templates  
 [Skitch](https://evernote.com/products/skitch): Digital annotation and diagram app for the Mac  
-[Visme](https://www.visme.co/): Cloud based tool for enaging infographic design  
+[Visme](https://www.visme.co/): Cloud based tool for engaging infographic design  
 [Canva](https://www.canva.com/): Simple, drag and drop online graphics design tool  
 [Pexels](https://www.pexels.com/): Creator-powered stock image and video library  
 [Adobe](https://www.adobe.com/downloads.html): Free  trials of premium Adobe products  
@@ -94,12 +94,12 @@ A list of free startup deals, trials and tools
 [SaaStr](https://www.saastr.com/podcasts/): A series of business and startup podcasts on SaaStr  
 [Akimbo](https://www.akimbo.link/): Akimbo is a captivating podcast by Seth Godin  
 [StartUP](https://gimletmedia.com/shows/startup): A talk show that is about starting a business  
-[The Pitch](https://gimletmedia.com/shows/the-pitch): Listen to entreprenuers actually pitch to investors  
-[Joma Tech](https://www.youtube.com/playlist?list=PL0BAwa0pBqg7-SXpr9H_-89XI5i8SfJ7a): Joma's interview series w/ devs or tech entreprenuers   
+[The Pitch](https://gimletmedia.com/shows/the-pitch): Listen to entrepreneurs actually pitch to investors  
+[Joma Tech](https://www.youtube.com/playlist?list=PL0BAwa0pBqg7-SXpr9H_-89XI5i8SfJ7a): Joma's interview series w/ devs or tech entrepreneurs   
 [Indie Hackers](https://www.indiehackers.com/podcast): Podcasts network by the Indie Hackers website  
 [Rocketship.fm](http://rocketship.fm/): Product management and growth related podcast  
 [Product People](https://www.productpeople.tv/): A podcast on the people behind great products   
-[Humbled Trader](https://humbledtrader.com/latest-videos): A series centered around somebody's daytrading joruney  
+[Humbled Trader](https://humbledtrader.com/latest-videos): A series centered around somebody's daytrading journey  
 [Masters of Scale](https://mastersofscale.com/): Some entrepreneurs and successful founders discuss scale  
 [Mentor Webinars](https://mentor.com/#section-3): Electric embedding, design and manufacturing webinars  
 [Ask Mr.Wonderful](https://www.youtube.com/user/KevinOLearyDotCom/featured): Kevin O'Leary dropping what he considers hard truths   
@@ -156,7 +156,7 @@ A list of free startup deals, trials and tools
 [GitHub Learning Lab](https://lab.github.com/): Different mini learning labs on GitHub  
 [Scientific Animations](https://www.scientificanimations.com/): Animations for different scientific concepts  
 [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing): Digital marketing courses from Google  
-[Open Source niversity](https://github.com/ossu): Open source pathes to self education  
+[Open Source University](https://github.com/ossu): Open source paths to self education  
 [Peter Thiel Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes): Startup notes/essay for Peter Thiel  
 [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/videos): Quick beginner dev tutorials on YouTube  
 [GrandCircus Intro Workshops](https://www.grandcircus.co/free-coding-classes/): Intro coding classes and workshops
@@ -171,7 +171,7 @@ A list of free startup deals, trials and tools
 [Wave](https://www.waveapps.com/): Financial software for small businesses  
 [nTask](ntaskmanager.com/): Task management for teams and individuals  
 [Skype](https://www.skype.com/en/): Chat and video communications tool  
-[Pidgin](https://pidgin.im/): Chat through multiple accocunts ad-free  
+[Pidgin](https://pidgin.im/): Chat through multiple accounts ad-free  
 [Shake](https://web.shakelaw.com/): Create, sign, and send legal documents  
 [Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan): Access to a premium project management software  
 [Hunter](https://hunter.io/pricing): Premium mail address indexing tool  
@@ -191,14 +191,14 @@ A list of free startup deals, trials and tools
 [Wunderlist](https://www.wunderlist.com/): Task management application on the cloud  
 [Canvanizer](https://canvanizer.com/new/lean-canvas): Lean startup business model canvas  
 [Foundersuite](https://foundersuite.com/): Fundraising and venture capital CRM/Database  
-[Lean Canvas](https://leanstack.com/leancanvas): 1 Page busines models, lean startup canvas  
+[Lean Canvas](https://leanstack.com/leancanvas): 1 Page business models, lean startup canvas  
 [Neos Chronos](https://neoschronos.com/download/lean-canvas/docx/): Lean startup canvas template in Word  
 [StartupResources](https://startupresources.io/): Weekly curated email and list of startup tools  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm): Dealflow CRM for startups and VC firms
 
 ### Marketing:  
 [Kit](https://kit.co): Create a kit "Share products" for creators  
-[Bitly](https://bitly.com/): Simplistic URL shortner w/ analytics  
+[Bitly](https://bitly.com/): Simplistic URL shortener w/ analytics  
 [Moz](https://moz.com/free-seo-tools): Different SEO tools and link explorers  
 [K.im](https://k.im/): Content monetization system for digital content  
 [Zest](https://zest.is/): Keyboard shortcut for cloudbased applications  
@@ -206,7 +206,7 @@ A list of free startup deals, trials and tools
 [E-goi](https://www.f6s.com/deals/4812/1-year-of-free-mkt-automation): 1 Year of free email marketing automation  
 [Slack](https://slack.com/): Messaging app for project teams and boards  
 [Trello](https://trello.com/): Organized project and tasks boards  
-[Sumo](https://sumo.com/): A free email capaturing tool for marketers  
+[Sumo](https://sumo.com/): A free email capturing tool for marketers  
 [Buffer](https://buffer.com/):Social media management and engagement tool  
 [Sniply](https://snip.ly/): A simple call to action URL shortener  
 [Vimeo](https://vimeo.com/): Premium video management tools for HQ videos  
@@ -220,7 +220,7 @@ A list of free startup deals, trials and tools
 [Ranker](https://www.ranker.com/): Top lists, rankings, and entertainment data  
 [Chartio](https://chartio.com/): An analytical tool on the cloud for exploring data  
 [Portent](https://www.portent.com/tools/title-maker): Content idea generator for SEO titles  
-[BL.INK](https://www.bl.ink/): A URL shortner for enterprises, smart shortener  
+[BL.INK](https://www.bl.ink/): A URL shortener for enterprises, smart shortener  
 [GoViral](https://goviral.growthtools.com/): A tool that lets you build referral campaigns  
 [Statista](https://www.statista.com/): A portal of infographics for various stats  
 [Shopify](https://www.shopify.com/): Build a premium e-commerce store w/ this CMS  
@@ -230,14 +230,14 @@ A list of free startup deals, trials and tools
 [BetaList](https://betalist.com/): Get beta subscribers for your early brand  
 [Wordoid](https://wordoid.com/): Catchy word and unique name generator  
 [BitChute](https://www.bitchute.com/): A popular free speech YouTube alternative  
-[Embedly](https://embed.ly/): Embeded generator for your shareable links  
+[Embedly](https://embed.ly/): Embedded generator for your shareable links  
 [LiveChat](https://startups.livechatinc.com/): Live chat plugin for talking to customers  
 [SellHack](https://www.f6s.com/deals/5247/100-free-sales-leads): Get 100 free potential leads for your business  
 [Glasshat](https://www.glasshat.com/signup/): Simple SEO and marketing tools for your business  
 [Optimize](https://marketingplatform.google.com/about/optimize/): A/B testing and web optimization tool by Google  
 [Strikingly](https://www.strikingly.com/): Easy, drag and drop website generator tool  
 [Postsked](https://postsked.com/): Easy to use social media scheduling tool  
-[Hootsuite](https://hootsuite.com/): Social media marketing and manangement tool   
+[Hootsuite](https://hootsuite.com/): Social media marketing and management tool   
 [Moosend](https://moosend.com/blog/free-email-marketing-services/): List of 10 free email marketing services  
 [Typeform](https://www.typeform.com/): Easy form/survey generator and results tracker  
 [Gumroad](https://gumroad.com/): Boost sells w/ an economy for creators  
@@ -252,7 +252,7 @@ A list of free startup deals, trials and tools
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan): Chat SDK and APIs for your business/webapps  
 [Zoho CRM](https://www.zoho.com/crm/): CRM centered around sales relationships  
 [Help Scout](https://www.f6s.com/deals/563/3-months-free-trial): Premium help desk software for businesses  
-[Good Copy](https://www.goodemailcopy.com/): Get inspired by different email compies by brands  
+[Good Copy](https://www.goodemailcopy.com/): Get inspired by different email copies by brands  
 [Seth's Blog](https://seths.blog/): Marketing blog by internet entrepreneur Seth Godin  
 [Kissmetrics](https://get.kissmetricshq.com/km-schedule-demo/): Automation for customer engagement for brands  
 [Geckoboard](https://www.geckoboard.com/try-geckoboard/): Build custom dashboards from data sources  
@@ -336,7 +336,7 @@ A list of free startup deals, trials and tools
 [WordPress](https://wordpress.com/start/user?ref=pricing-lp): The most popular PHP-powered simple CMS system  
 [Sourcetree](https://www.sourcetreeapp.com/): Easy to use and beautiful GUI for git source control  
 [E.gg Timer](http://e.ggtimer.com/): A simple, full screen countdown timer website for presenters  
-[FluentSync](https://github.com/michaelantoun/FluentSync): A .Net library for the fluet interface and interaction  
+[FluentSync](https://github.com/michaelantoun/FluentSync): A .Net library for the fluent interface and interaction  
 [RapidMiner](https://rapidminer.com/educational-program/): A world leading data mining and visualization program  
 [Bootswatch](https://bootswatch.com/): A curated directory of free bootstrap css themes  
 [StackShare](https://stackshare.io/stacks): Share your dev stacks, compare and find new tools  
@@ -347,7 +347,7 @@ A list of free startup deals, trials and tools
 [Debian Docs](https://www.debian.org/doc/): Documentation and guide for the Debian Operating System  
 [SourceForge](https://sourceforge.net/): Repositories and project pages w/ source control + reviews  
 [Sublime Text](http://www.sublimetext.com/): Text editor and IDE w/ markup support and a clean UI  
-[PortableApps](https://portableapps.com): Portable apps and protable drive software platform  
+[PortableApps](https://portableapps.com): Portable apps and portable drive software platform  
 [Quiver Quant](https://www.quiverquant.com/): A cutting edge alternative data platform for trading  
 [ReadtheDocs](https://readthedocs.org/): Create technical docs sites for free w/ rst compatibility  
 [Puppet Forge](https://forge.puppet.com/): Develop automated modules or plugins for your infrastructure  
@@ -373,7 +373,7 @@ A list of free startup deals, trials and tools
 
 ### Co-Working Spaces:
 [Awfis](https://www.f6s.com/deals/7915/2-day-free-pass): A two day free pass to an Awfis Location (India)  
-[AWSLoft](https://aws.amazon.com/start-ups/loft/): Series of complemntary startup co-working spaces by Amazon  
+[AWSLoft](https://aws.amazon.com/start-ups/loft/): Series of complementary startup co-working spaces by Amazon  
 [Freehold](https://www.freeholdbrooklyn.com/): Hospitable places in Brooklyn for startup founders to meet  
 [Ace Hotel NY](https://www.acehotel.com/newyork/events-and-spaces/calendar/): The popular ACE hotel meetup space at New York  
 [Wix Playground](https://www.wix.com/designers/events): Series of complementary startup co-working spaces by Wix  
