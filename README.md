@@ -156,8 +156,8 @@ A list of free startup deals, trials and tools
 [GitHub Learning Lab](https://lab.github.com/): Different mini learning labs on GitHub  
 [Scientific Animations](https://www.scientificanimations.com/): Animations for different scientific concepts  
 [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing): Digital marketing courses from Google  
-[Open Source University](https://github.com/ossu): Open source paths to self education  
 [Peter Thiel Class Notes](https://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes): Startup notes/essay for Peter Thiel  
+[Open Source University](https://github.com/ossu): Open source paths to self education  
 [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/videos): Quick beginner dev tutorials on YouTube  
 [GrandCircus Intro Workshops](https://www.grandcircus.co/free-coding-classes/): Intro coding classes and workshops
 
