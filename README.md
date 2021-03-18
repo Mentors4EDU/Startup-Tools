@@ -88,6 +88,7 @@ A list of free startup deals, trials and tools
 ### Themes:
 [Charity](https://templatetoaster.com/template/charity-fundraising-blogger-template): A free charity template for Blogger  
 [Identity](https://templatetoaster.com/template/identity-digital-marketing-and-seo-blogger-template): A free SEO agency Blogger template  
+[nicepage](https://nicepage.com/wordpress-themes): Over 6500+ free Wordpress themes  
 [aThemes](https://athemes.com/collections/free-wordpress-themes/): 45+ free WP themes - 2021 Edition  
 [Spearhead](https://wordpress.com/theme/spearhead): A minimalist podcasts theme for Wordpress
 
