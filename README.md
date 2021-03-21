@@ -379,4 +379,5 @@ A list of free startup deals, trials and tools
 [Freehold](https://www.freeholdbrooklyn.com/): Hospitable places in Brooklyn for startup founders to meet  
 [Ace Hotel NY](https://www.acehotel.com/newyork/events-and-spaces/calendar/): The popular ACE hotel meetup space at New York  
 [Wix Playground](https://www.wix.com/designers/events): Series of complementary startup co-working spaces by Wix  
-[Literally Libraries](https://www.forbes.com/sites/allbusiness/2018/05/01/free-coworking-space-helps-entrepreneurs/): Libraries make a quick place to meetup if needed
+[Literally Libraries](https://www.forbes.com/sites/allbusiness/2018/05/01/free-coworking-space-helps-entrepreneurs/): Libraries make a quick place to meetup if needed  
+[Capital One Cafe](https://blog.usejournal.com/my-favorite-free-coworking-place-2b7922f219b7): A cafe with free WiFi in downtown Washington, D.C.
