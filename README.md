@@ -329,6 +329,7 @@ A list of free startup deals, trials and tools
 [Shields.io](https://shields.io/): Create custom buttons and counters in markdown  
 [Sourcerer](https://sourcerer.io): Create visual profiles for lots of your code activity  
 [Regex101](https://regex101.com/): Generate tests and explanations for your RegEx expressions  
+[Exceldraw](https://excalidraw.com/): Create amazing "hand-drawn style" UML diagrams  
 [Templated](https://templated.co/): Large collection of different free CSS and HTML templates  
 [Layers WP](https://www.layerswp.com/): Easy to use layers extension for WP Elementor  
 [GlowScript](https://www.glowscript.org/): Create and publish 3D animations w/ GlowScript  
