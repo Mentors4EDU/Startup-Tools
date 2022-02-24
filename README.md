@@ -15,7 +15,7 @@ A list of free startup deals, trials and tools
 
 ..................................
   
-### Design:  
+### 🖲️ Design:  
 [Tiff](http://tiff.herokuapp.com/): Visual typeface comparing two fonts  
 [DBF](http://dbfreebies.co/): Freebies from Dribbble and Behance   
 [Pixlr](https://pixlr.com/): Online photo editor that also has PSD capability   
@@ -76,7 +76,7 @@ A list of free startup deals, trials and tools
 [Awesome Screenshot](http://www.awesomescreenshot.com/): Screensharing extension w/ video + screenshot  
 [Spin3D Mesh Converter](https://www.amazon.com/Spin3D-Free-3D-File-Converter/dp/B01DEEYSZG/ref=sr_1_17?dchild=1&keywords=3d+modeling+software&qid=1587836858&sr=8-17): File converter for different formats of 3D files
 
-### Hosting:  
+### 🗔 Hosting:  
 [Heroku](https://signup.heroku.com/): An app hosting and deployment platform  
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns): Deal to get a free year of hosted DNS  
 [StackPath](https://www.stackpath.com/resources/propel-startup-program/): StackPath's edge delivery startup program  
@@ -85,14 +85,14 @@ A list of free startup deals, trials and tools
 [OVH Digital LaunchPad](https://www.ovh.com/world/startup/): The OVH startup program for cloud hosting servers  
 [Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php): Cloudways startup program for Cloudways services
 
-### Themes:
+### 🔗 Themes:
 [Charity](https://templatetoaster.com/template/charity-fundraising-blogger-template): A free charity template for Blogger  
 [Identity](https://templatetoaster.com/template/identity-digital-marketing-and-seo-blogger-template): A free SEO agency Blogger template  
 [nicepage](https://nicepage.com/wordpress-themes): Over 6500+ free Wordpress themes  
 [aThemes](https://athemes.com/collections/free-wordpress-themes/): 45+ free WP themes - 2021 Edition  
 [Spearhead](https://wordpress.com/theme/spearhead): A minimalist podcasts theme for Wordpress
 
-### Podcasts:
+### 🎧 Podcasts:
 [SaaStr](https://www.saastr.com/podcasts/): A series of business and startup podcasts on SaaStr  
 [Akimbo](https://www.akimbo.link/): Akimbo is a captivating podcast by Seth Godin  
 [StartUP](https://gimletmedia.com/shows/startup): A talk show that is about starting a business  
@@ -112,7 +112,7 @@ A list of free startup deals, trials and tools
 [How I Built This with Guy Raz](https://www.npr.org/podcasts/510313/how-i-built-this): Stories about/behind some well known companies  
 [The GaryVee Audio Experience](https://www.garyvaynerchuk.com/podcast/): A marketing & business podcast w/ Gary Vaynerchuck
 
-### Learning:  
+### 📖 Learning:  
 [Tuts+](https://tutsplus.com/courses#price=free): Free online courses available on Envato  
 [Code](https://code.org/): Gamified and free easy coding activities  
 [Packt](https://www.packtpub.com/free-learning): Premium books and videos for developers  
@@ -163,7 +163,7 @@ A list of free startup deals, trials and tools
 [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/videos): Quick beginner dev tutorials on YouTube  
 [GrandCircus Intro Workshops](https://www.grandcircus.co/free-coding-classes/): Intro coding classes and workshops
 
-### Business:
+### 💼 Business:
 [a5](http://a5.gg/): Productive notes tool on your browser  
 [Due](https://due.com/): Payments processing and invoicing application  
 [Join](https://www.join.me/): Online meetings and conferencing tool  
@@ -198,7 +198,7 @@ A list of free startup deals, trials and tools
 [StartupResources](https://startupresources.io/): Weekly curated email and list of startup tools  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm): Dealflow CRM for startups and VC firms
 
-### Marketing:  
+### 📢 Marketing:  
 [Kit](https://kit.co): Create a kit "Share products" for creators  
 [Bitly](https://bitly.com/): Simplistic URL shortener w/ analytics  
 [Moz](https://moz.com/free-seo-tools): Different SEO tools and link explorers  
@@ -271,7 +271,7 @@ A list of free startup deals, trials and tools
 [Right Relevance](https://www.rightrelevance.com/search/influencers): Find influencers on any topic that is on Twitter  
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software): Company group chat software from Microsoft
 
-### Development:  
+### 💻 Development:  
 [Bit](https://bit.dev/): A cloud directory for shared web components  
 [Git](https://git-scm.com/): A distributed version control system for code  
 [D3](https://d3js.org/): A JavaScript library for data-driven documents  
@@ -362,7 +362,7 @@ A list of free startup deals, trials and tools
 [Bemobi Publisher Portal](https://publishers.apps.bemobi.com/): Publish your mobile apps on Bemobi/Opera Mobile  
 [Markdown Quick Reference](https://wordpress.com/support/markdown-quick-reference/): A quick reference guide on Markdown from WordPress  
 
-### Speaking Events:
+### 🎤 Speaking Events:
 [GDC](https://www.gdconf.com/call-for-submissions): Speak at one of the largest game dev conferences  
 [TEDx](https://www.ted.com/tedx/events): TED stands for Technology, Entertainment, Design  
 [TiEcon](https://www.tiecon.org/): One of the world's biggest technology conferences  
@@ -374,7 +374,7 @@ A list of free startup deals, trials and tools
 [Techcrunch Disrupt](https://techcrunch.com/events/disrupt-sf-2020/): One of the most global popular startup events/pitch series  
 [LA Blockchain Summit](https://lablockchainsummit.com/speaker-application): A blockchain summit/conference hosted yearly in LA
 
-### Co-Working Spaces:
+### 🏢 Co-Working Spaces:
 [Awfis](https://www.f6s.com/deals/7915/2-day-free-pass): A two day free pass to an Awfis Location (India)  
 [AWSLoft](https://aws.amazon.com/start-ups/loft/): Series of complementary startup co-working spaces by Amazon  
 [Freehold](https://www.freeholdbrooklyn.com/): Hospitable places in Brooklyn for startup founders to meet  
