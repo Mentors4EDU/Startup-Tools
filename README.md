@@ -78,6 +78,7 @@ A list of free startup deals, trials and tools
 
 ### 🗔 Hosting:  
 [Heroku](https://signup.heroku.com/): An app hosting and deployment platform  
+[Listmonk](https://listmonk.app/): A self-hosted newsletter application  
 [DNSimple](https://www.f6s.com/deals/287/1-yr-free-dnsimple-hosted-dns): Deal to get a free year of hosted DNS  
 [StackPath](https://www.stackpath.com/resources/propel-startup-program/): StackPath's edge delivery startup program  
 [Rackspace](https://www.f6s.com/rackspacestartupprogramapplication/apply): Rackspace's cloud hosting startup program  
