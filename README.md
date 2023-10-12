@@ -268,6 +268,7 @@ A list of free startup deals, trials and tools
 [Followerwonk](https://followerwonk.com/): Technically like a CRM for your Twitter followers  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange): Test heatmapping and conversions w/ Lucky Orange  
 [The Name App](https://thenameapp.com/): Find domain and social media names all at once  
+[Carousel Hero](https://carouselhero.com/): Carousel generator for social media  
 [ActiveCampaign](https://www.activecampaign.com): Email marketing and customer automation tool  
 [Right Relevance](https://www.rightrelevance.com/search/influencers): Find influencers on any topic that is on Twitter  
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software): Company group chat software from Microsoft
