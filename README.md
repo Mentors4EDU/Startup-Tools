@@ -193,7 +193,8 @@ A list of free startup deals, trials and tools
 [Slimvoice](https://slimvoice.co/): Lightweight and simple invoicing app  
 [Invoice.to](https://invoice.to/): Send company and freelance invoices  
 [Wunderlist](https://www.wunderlist.com/): Task management application on the cloud  
-[Canvanizer](https://canvanizer.com/new/lean-canvas): Lean startup business model canvas  
+[Canvanizer](https://canvanizer.com/new/lean-canvas): Lean startup business model canvas
+[InvoiceDog](https://invoicedog.com): Create, edit, save and send invoices  
 [Foundersuite](https://foundersuite.com/): Fundraising and venture capital CRM/Database  
 [Lean Canvas](https://leanstack.com/leancanvas): 1 Page business models, lean startup canvas  
 [Neos Chronos](https://neoschronos.com/download/lean-canvas/docx/): Lean startup canvas template in Word  
