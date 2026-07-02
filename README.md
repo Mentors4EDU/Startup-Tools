@@ -221,6 +221,7 @@ A list of free startup deals, trials and tools
 [Locals](https://locals.com/): Create "local" communities for yourself/projects  
 [HeroX](https://www.herox.com/creation-wizard/template): Create a crowdsourced challenge for your business  
 [Feedly](https://feedly.com/i/welcome): Create a custom information feed and share insights  
+[GetAppNiche](https://getappniche.com/): iOS app market intelligence for revenue estimates, ASO keywords, reviews and competitors  
 [Callrail](https://www.callrail.com/pricing/): Keep track of different call lead analytics  
 [Ranker](https://www.ranker.com/): Top lists, rankings, and entertainment data  
 [Chartio](https://chartio.com/): An analytical tool on the cloud for exploring data  
