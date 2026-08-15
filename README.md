@@ -221,7 +221,6 @@ A list of free startup deals, trials and tools
 [Locals](https://locals.com/): Create "local" communities for yourself/projects  
 [HeroX](https://www.herox.com/creation-wizard/template): Create a crowdsourced challenge for your business  
 [Feedly](https://feedly.com/i/welcome): Create a custom information feed and share insights  
-[GetAppNiche](https://getappniche.com/): iOS app market intelligence for revenue estimates, ASO keywords, reviews and competitors  
 [Callrail](https://www.callrail.com/pricing/): Keep track of different call lead analytics  
 [Ranker](https://www.ranker.com/): Top lists, rankings, and entertainment data  
 [Chartio](https://chartio.com/): An analytical tool on the cloud for exploring data  
@@ -268,6 +267,7 @@ A list of free startup deals, trials and tools
 [ProductHunt](https://producthunt.com): Garnish early users for your product launch  
 [Boomberang](https://www.boomeranggmail.com/): Scheduled sending and reminders for Gmail  
 [Hacker News](https://news.ycombinator.com/): Submit your startup to garnish attention early  
+[GetAppNiche](https://getappniche.com/): iOS app market intelligence for revenue estimates and ASO  
 [Followerwonk](https://followerwonk.com/): Technically like a CRM for your Twitter followers  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange): Test heatmapping and conversions w/ Lucky Orange  
 [The Name App](https://thenameapp.com/): Find domain and social media names all at once  
