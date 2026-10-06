@@ -227,6 +227,7 @@ A list of free startup deals, trials and tools
 [Portent](https://www.portent.com/tools/title-maker): Content idea generator for SEO titles  
 [BL.INK](https://www.bl.ink/): A URL shortener for enterprises, smart shortener  
 [GoViral](https://goviral.growthtools.com/): A tool that lets you build referral campaigns  
+[Power CM Partners](https://partners.powercm-software.com/): Free software partner and creator network with tracked campaigns, attributed registrations, verified sales and commission reporting  
 [Statista](https://www.statista.com/): A portal of infographics for various stats  
 [Shopify](https://www.shopify.com/): Build a premium e-commerce store w/ this CMS  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber): Simple email marketing and automation software  
