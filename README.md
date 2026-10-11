@@ -180,6 +180,7 @@ A list of free startup deals, trials and tools
 [Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan): Access to a premium project management software  
 [Hunter](https://hunter.io/pricing): Premium mail address indexing tool  
 [Javelin](https://www.javelin.com/beta): Lean startup development and management software  
+[IdeaHunter](https://ideahunter.today): AI research for demand-backed app and micro-SaaS ideas  
 [Doodle](https://doodle.com/premium/business/info): Online meeting tool for scheduling  
 [Webex](https://www.webex.com/): Video conferencing tool (Previously Cisco Spark?)  
 [ClickUp](https://clickup.com/): Color-coded todo board and management software  
