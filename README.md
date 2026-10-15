@@ -53,6 +53,7 @@ A list of free startup deals, trials and tools
 [Freebbble](http://freebbble.com/): Directory of free design resources from Dribbble  
 [Press Kite](https://presskite.com/pricing): Create a press kit for your startup in minutes  
 [Lightworks](https://www.lwks.com/): Professional video editing and creation tool    
+[ReelWorkshop](https://reelworkshop.com/): Browser compilation maker — import/arrange/trim/preview; vertical 9:16 H.264 for TikTok/Reels/Shorts. Edit free; export on Starter  
 [StockSnap](https://stocksnap.io/): Copyright-restriction-free stock photo directory  
 [Removebg](https://www.remove.bg/): Background removal generator (drag/drop)  
 [ThemeGrill](https://themegrill.com/blog/free-wordpress-themes/): List of 60+ premium looking WordPress Themes  
