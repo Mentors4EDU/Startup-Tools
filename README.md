@@ -53,7 +53,6 @@ A list of free startup deals, trials and tools
 [Freebbble](http://freebbble.com/): Directory of free design resources from Dribbble  
 [Press Kite](https://presskite.com/pricing): Create a press kit for your startup in minutes  
 [Lightworks](https://www.lwks.com/): Professional video editing and creation tool    
-[ReelWorkshop](https://reelworkshop.com/): Browser compilation maker — import/arrange/trim/preview; vertical 9:16 H.264 for TikTok/Reels/Shorts. Edit free; export on Starter  
 [StockSnap](https://stocksnap.io/): Copyright-restriction-free stock photo directory  
 [Removebg](https://www.remove.bg/): Background removal generator (drag/drop)  
 [ThemeGrill](https://themegrill.com/blog/free-wordpress-themes/): List of 60+ premium looking WordPress Themes  
@@ -70,6 +69,7 @@ A list of free startup deals, trials and tools
 [WordCounter](https://wordcounter.net/): Simple online word, lines and paragraph counter  
 [Google Fonts](https://fonts.google.com/): An OFL font browser and searcher by Google  
 [Jekyll Themes](http://jekyllthemes.org/):  Themes w/ jeykll that you can host on GitHub pages  
+[ReelWorkshop](https://reelworkshop.com/): Browser video compilation maker, import/arrange/trim/preview  
 [Logo Generator](https://www.squarespace.com/logo/): Simple and easy logo generator by Squarespace  
 [Signature Maker](https://signature-maker.net/): "Hand-drawn" digital signature maker/generator  
 [1001 Free Fonts](https://www.1001freefonts.com/): A simple, categorized digital fonts directory  
@@ -229,7 +229,6 @@ A list of free startup deals, trials and tools
 [Portent](https://www.portent.com/tools/title-maker): Content idea generator for SEO titles  
 [BL.INK](https://www.bl.ink/): A URL shortener for enterprises, smart shortener  
 [GoViral](https://goviral.growthtools.com/): A tool that lets you build referral campaigns  
-[Power CM Partners](https://partners.powercm-software.com/): Free software partner and creator network with tracked campaigns, attributed registrations, verified sales and commission reporting  
 [Statista](https://www.statista.com/): A portal of infographics for various stats  
 [Shopify](https://www.shopify.com/): Build a premium e-commerce store w/ this CMS  
 [Aweber](https://www.f6s.com/deals/4640/60-day-free-trial-of-aweber): Simple email marketing and automation software  
@@ -277,7 +276,8 @@ A list of free startup deals, trials and tools
 [Carousel Hero](https://carouselhero.com/): Carousel generator for social media  
 [ActiveCampaign](https://www.activecampaign.com): Email marketing and customer automation tool  
 [Right Relevance](https://www.rightrelevance.com/search/influencers): Find influencers on any topic that is on Twitter  
-[Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software): Company group chat software from Microsoft
+[Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software): Company group chat software from Microsoft  
+[Power CM Partners](https://partners.powercm-software.com/): Free software partner and creator network w/ tracked campaigns
 
 ### 💻 Development:  
 [Bit](https://bit.dev/): A cloud directory for shared web components  
