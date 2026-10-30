@@ -277,6 +277,7 @@ A list of free startup deals, trials and tools
 [ActiveCampaign](https://www.activecampaign.com): Email marketing and customer automation tool  
 [Right Relevance](https://www.rightrelevance.com/search/influencers): Find influencers on any topic that is on Twitter  
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software): Company group chat software from Microsoft  
+[SitePatent](https://sitepatent.com/): Launch directory where builders list newly launched startups and tools  
 [Power CM Partners](https://partners.powercm-software.com/): Free software partner and creator network w/ tracked campaigns
 
 ### 💻 Development:  
