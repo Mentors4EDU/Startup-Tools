@@ -201,7 +201,8 @@ A list of free startup deals, trials and tools
 [Lean Canvas](https://leanstack.com/leancanvas): 1 Page business models, lean startup canvas  
 [Neos Chronos](https://neoschronos.com/download/lean-canvas/docx/): Lean startup canvas template in Word  
 [StartupResources](https://startupresources.io/): Weekly curated email and list of startup tools  
-[F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm): Dealflow CRM for startups and VC firms
+[F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm): Dealflow CRM for startups and VC firms  
+[doany](https://doany.ai/): AI company builder that creates a business website and product from a plain-language idea  
 
 ### 📢 Marketing:  
 [Kit](https://kit.co): Create a kit "Share products" for creators  
