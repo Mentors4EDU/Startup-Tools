@@ -76,7 +76,7 @@ A list of free startup deals, trials and tools
 [Onlineconvertfree](https://onlineconvertfree.com/): A simple and easy to use file converter  
 [DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve/): Professional video effects editor w/ audio post  
 [Awesome Screenshot](http://www.awesomescreenshot.com/): Screensharing extension w/ video + screenshot  
-[APPLORE Screenshots](https://applore.app/app-store-screenshot-generator): Free App Store and Google Play screenshot maker, no watermark  
+[APPLORE Screenshots](https://applore.app/app-store-screenshot-generator): Free App Store and Google Play screenshot maker  
 [Spin3D Mesh Converter](https://www.amazon.com/Spin3D-Free-3D-File-Converter/dp/B01DEEYSZG/ref=sr_1_17?dchild=1&keywords=3d+modeling+software&qid=1587836858&sr=8-17): File converter for different formats of 3D files
 
 ### 🗔 Hosting:  
@@ -179,7 +179,7 @@ A list of free startup deals, trials and tools
 [Skype](https://www.skype.com/en/): Chat and video communications tool  
 [Shake](https://web.shakelaw.com/): Create, sign, and send legal documents  
 [Webex](https://www.webex.com/): Video conferencing tool (Previously Cisco Spark?)  
-[doany](https://doany.ai/): AI company builder that creates a business website and product from a plain-language idea  
+[doany](https://doany.ai/): AI company builder that creates a business website  
 [Pidgin](https://pidgin.im/): Chat through multiple accounts ad-free  
 [Parolu](https://www.f6s.com/deals/6178/6-months-free-business-plan): Access to a premium project management software  
 [Hunter](https://hunter.io/pricing): Premium mail address indexing tool  
@@ -254,7 +254,7 @@ A list of free startup deals, trials and tools
 [Re:Amaze](https://www.f6s.com/deals/6692/3-months-free): All in one platform for engaging with customers  
 [ChatCamp](https://www.f6s.com/deals/9189/3-months-free-growth-plan): Chat SDK and APIs for your business/webapps  
 [Zoho CRM](https://www.zoho.com/crm/): CRM centered around sales relationships  
-[Helmpages](https://helmpages.com/): Small-business website built from a few answers and updated by message; paid, 14-day trial  
+[Helmpages](https://helmpages.com/): Small-business website built from a few answers  
 [Hootsuite](https://hootsuite.com/): Social media marketing and management tool  
 [Catappult](https://catappult.io/): Alternative app distribution for Android apps  
 [Submit.co](https://submit.co/): List of places to get coverage for your startup  
@@ -290,7 +290,7 @@ A list of free startup deals, trials and tools
 [H20](https://www.h2o.ai/download/): Machine learning data visualization dashboards  
 [DEV](https://dev.to/): A blogging platform exclusively for developers  
 [PM2](https://pm2.io/): Process manager and monitoring dashboard on NPM  
-[YYLO](https://yylo.dev): Command-line orchestrator for coding agents, repeatable workflows and receipt-backed repository changes  
+[YYLO](https://yylo.dev): Command-line orchestrator for coding agents  
 [Twpy](https://pypi.org/project/twpy/): Interact with Twitter's API/Twitter scraper  
 [PyGui](https://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/): A cross platform GUI API built untop of Python 3  
 [OAuth](https://oauth.net/): Open protocol related to web app authentication  
@@ -392,7 +392,7 @@ A list of free startup deals, trials and tools
 [AWSLoft](https://aws.amazon.com/start-ups/loft/): Series of complementary startup co-working spaces by Amazon  
 [Freehold](https://www.freeholdbrooklyn.com/): Hospitable places in Brooklyn for startup founders to meet  
 [Ace Hotel NY](https://www.acehotel.com/newyork/events-and-spaces/calendar/): The popular ACE hotel meetup space at New York  
-[CoworkingView](https://coworkingview.com): Free search and comparison of coworking spaces and private offices in Berlin, London, Madrid, Dubai and more, plus free office budget calculators with no sign-up  
+[CoworkingView](https://coworkingview.com): Free search and comparison of coworking spaces and private offices  
 [Wix Playground](https://www.wix.com/designers/events): Series of complementary startup co-working spaces by Wix  
 [Capital One Cafe](https://blog.usejournal.com/my-favorite-free-coworking-place-2b7922f219b7): A cafe with free WiFi in downtown Washington, D.C.  
 [Literally Libraries](https://www.forbes.com/sites/allbusiness/2018/05/01/free-coworking-space-helps-entrepreneurs/): Libraries make a quick place to meetup if needed
