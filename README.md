@@ -273,6 +273,7 @@ A list of free startup deals, trials and tools
 [ProductHunt](https://producthunt.com): Garnish early users for your product launch  
 [Hacker News](https://news.ycombinator.com/): Submit your startup to garnish attention early  
 [GetAppNiche](https://getappniche.com/): iOS app market intelligence for revenue estimates and ASO  
+[App Store Localizer](https://asolocalization.com/): Localize App Store screenshots and metadata from any public listing URL  
 [Startup Bros](https://startupbros.com/free-stuff/): Free tutorials and different startup freebies  
 [Followerwonk](https://followerwonk.com/): Technically like a CRM for your Twitter followers  
 [Lucky Orange](https://www.f6s.com/deals/6268/1-month-free-on-lucky-orange): Test heatmapping and conversions w/ Lucky Orange  
