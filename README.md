@@ -77,6 +77,7 @@ A list of free startup deals, trials and tools
 [DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve/): Professional video effects editor w/ audio post  
 [Awesome Screenshot](http://www.awesomescreenshot.com/): Screensharing extension w/ video + screenshot  
 [APPLORE Screenshots](https://applore.app/app-store-screenshot-generator): Free App Store and Google Play screenshot maker  
+[AppScreen](https://appscreen.pro): Free App Store and Google Play screenshot maker that runs in the browser  
 [Spin3D Mesh Converter](https://www.amazon.com/Spin3D-Free-3D-File-Converter/dp/B01DEEYSZG/ref=sr_1_17?dchild=1&keywords=3d+modeling+software&qid=1587836858&sr=8-17): File converter for different formats of 3D files
 
 ### 🗔 Hosting:  
