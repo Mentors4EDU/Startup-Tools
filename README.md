@@ -201,6 +201,7 @@ A list of free startup deals, trials and tools
 [InvoiceDog](https://invoicedog.com): Create, edit, save and send invoices  
 [Lean Canvas](https://leanstack.com/leancanvas): 1 Page business models, lean startup canvas  
 [Foundersuite](https://foundersuite.com/): Fundraising and venture capital CRM/Database  
+[DDScore Sample Report](https://www.ddscore.ai/example-report/): Free worked due diligence example with source documents and founder follow-up questions\
 [Neos Chronos](https://neoschronos.com/download/lean-canvas/docx/): Lean startup canvas template in Word  
 [StartupResources](https://startupresources.io/): Weekly curated email and list of startup tools  
 [F6S Pipeline CRM](https://www.f6s.com/online/pipeline-crm): Dealflow CRM for startups and VC firms
