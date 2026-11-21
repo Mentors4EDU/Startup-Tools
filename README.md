@@ -282,6 +282,7 @@ A list of free startup deals, trials and tools
 [Right Relevance](https://www.rightrelevance.com/search/influencers): Find influencers on any topic that is on Twitter  
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software): Company group chat software from Microsoft  
 [Power CM Partners](https://partners.powercm-software.com/): Free software partner and creator network w/ tracked campaigns
+[RadarMakers](https://radarmakers.com): Free launch platform for indie makers to list and rank products  
 
 ### 💻 Development:  
 [D3](https://d3js.org/): A JavaScript library for data-driven documents  
