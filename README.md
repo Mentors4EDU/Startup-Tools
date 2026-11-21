@@ -291,6 +291,7 @@ A list of free startup deals, trials and tools
 [DEV](https://dev.to/): A blogging platform exclusively for developers  
 [PM2](https://pm2.io/): Process manager and monitoring dashboard on NPM  
 [YYLO](https://yylo.dev): Command-line orchestrator for coding agents  
+[Datacircle](https://datacircle.dev): Free open API that ranks the best GTM APIs  
 [Twpy](https://pypi.org/project/twpy/): Interact with Twitter's API/Twitter scraper  
 [PyGui](https://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/): A cross platform GUI API built untop of Python 3  
 [OAuth](https://oauth.net/): Open protocol related to web app authentication  
