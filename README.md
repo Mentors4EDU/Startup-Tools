@@ -87,6 +87,7 @@ A list of free startup deals, trials and tools
 [Rackspace](https://www.f6s.com/rackspacestartupprogramapplication/apply): Rackspace's cloud hosting startup program  
 [Oracle for Startups](https://www.oracle.com/startup/): Oracle's program for startups including discounts  
 [OVH Digital LaunchPad](https://www.ovh.com/world/startup/): The OVH startup program for cloud hosting servers  
+[Sandscale](https://sandscale.dev/): Firecracker microVM sandboxes and cloud workspaces for AI coding agents, with a free plan  
 [Cloudways Startup Program](https://www.cloudways.com/en/startup-program.php): Cloudways startup program for Cloudways services
 
 ### 🔗 Themes:
